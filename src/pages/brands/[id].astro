@@ -1,0 +1,99 @@
+---
+// brands/[id].astro - ブランド詳細ページ
+// ブランドの詳細情報とそのブランドの万年筆一覧を表示
+
+import Base from '../../layouts/Base.astro';
+import PenCard from '../../components/PenCard.astro';
+
+import brandsData from '../../data/brands.json';
+import pensData from '../../data/pens.json';
+
+// ブランドIDから日本語名を引くマップ
+const brandMap = Object.fromEntries(brandsData.map(b => [b.id, b.nameJa]));
+
+// 静的パス生成
+export function getStaticPaths() {
+  return brandsData.map((brand) => ({
+    params: { id: brand.id },
+  }));
+}
+
+const { id } = Astro.params;
+const brand = brandsData.find(b => b.id === id);
+if (!brand) return Astro.redirect('/404');
+
+// そのブランドの万年筆を取得
+const brandPens = pensData.filter(p => p.brand === id);
+---
+
+<Base
+  title={`${brand.name} (${brand.nameJa})`}
+  description={brand.description.slice(0, 160)}
+>
+  <!-- ブランドヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">{brand.name}</h1>
+    <p style="font-family: var(--font-ja); font-size: 1.1rem; color: var(--color-text-sub); margin-bottom: 0.5rem;">{brand.nameJa}</p>
+    <p class="page-header__description">Est. {brand.founded} · {brand.country}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- ブランド説明 -->
+    <div style="padding: var(--space-lg) 0;">
+      <p style="margin-bottom: var(--space-md); line-height: 1.9;">{brand.description}</p>
+      <div class="spec-grid" style="border-bottom: none;">
+        <div class="spec-item">
+          <span class="spec-item__label">Country</span>
+          <span class="spec-item__value">{brand.country}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Founded</span>
+          <span class="spec-item__value">{brand.founded}</span>
+        </div>
+      </div>
+
+      <!-- 特徴リスト -->
+      {brand.features && brand.features.length > 0 && (
+        <div style="margin-top: var(--space-md);">
+          <h3 style="margin-bottom: var(--space-sm);">Key Strengths</h3>
+          <ul style="list-style: none; padding: 0;">
+            {brand.features.map((feature: string) => (
+              <li style="padding: 0.4rem 0; color: var(--color-text-sub); display: flex; align-items: center; gap: 0.5rem;">
+                <span style="color: var(--color-accent);">&#9670;</span>
+                {feature}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {brand.officialUrl && (
+        <p style="margin-top: var(--space-md);">
+          <a href={brand.officialUrl} class="btn btn--sm" target="_blank" rel="noopener noreferrer">Visit Official Website</a>
+        </p>
+      )}
+    </div>
+
+    <!-- そのブランドの万年筆一覧 -->
+    {brandPens.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">Pens by {brand.name}</h2>
+        <div class="item-grid">
+          {brandPens.map((pen) => (
+            <PenCard
+              id={pen.id}
+              name={pen.name}
+              brand={pen.brand}
+              nameJa={brandMap[pen.brand] || pen.brand}
+              fillingSystem={pen.fillingSystem}
+              nibMaterial={pen.nibMaterial}
+              price={pen.price}
+              image={pen.image}
+              category={pen.category}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>

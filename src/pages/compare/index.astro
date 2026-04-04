@@ -1,0 +1,115 @@
+---
+// compare/index.astro - 万年筆比較ツールページ
+// 2本の万年筆を選んでスペックを比較
+
+import Base from '../../layouts/Base.astro';
+import pensData from '../../data/pens.json';
+---
+
+<Base
+  title="Compare Fountain Pens"
+  description="Side-by-side comparison tool for fountain pens. Compare nib material, filling system, weight, price, and more."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Compare</h1>
+    <p class="page-header__description">
+      Select two pens to compare their specifications side by side
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- 万年筆選択セレクター -->
+    <div class="compare-selector">
+      <div>
+        <select class="compare-select" id="pen-a">
+          <option value="">Select first pen...</option>
+          {pensData.map(p => (
+            <option value={p.id}>{p.name}</option>
+          ))}
+        </select>
+      </div>
+
+      <span class="compare-vs">VS</span>
+
+      <div>
+        <select class="compare-select" id="pen-b">
+          <option value="">Select second pen...</option>
+          {pensData.map(p => (
+            <option value={p.id}>{p.name}</option>
+          ))}
+        </select>
+      </div>
+    </div>
+
+    <!-- 比較テーブル -->
+    <div id="compare-result" style="padding-bottom: var(--space-xl);">
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">
+        Select two pens above to see the comparison
+      </p>
+    </div>
+  </div>
+
+  <!-- 万年筆データをJSに渡す -->
+  <script define:vars={{ pensData }}>
+    // セレクターの要素を取得
+    const selectA = document.getElementById('pen-a');
+    const selectB = document.getElementById('pen-b');
+    const resultDiv = document.getElementById('compare-result');
+
+    // セレクター変更時に比較テーブルを更新
+    selectA?.addEventListener('change', updateComparison);
+    selectB?.addEventListener('change', updateComparison);
+
+    function updateComparison() {
+      const idA = /** @type {HTMLSelectElement} */ (selectA).value;
+      const idB = /** @type {HTMLSelectElement} */ (selectB).value;
+
+      // 両方選択されていない場合
+      if (!idA || !idB) {
+        resultDiv.innerHTML = '<p style="text-align: center; color: var(--color-text-muted); padding: var(--space-lg) 0;">Select two pens above to see the comparison</p>';
+        return;
+      }
+
+      // 万年筆データを検索
+      const penA = pensData.find(p => p.id === idA);
+      const penB = pensData.find(p => p.id === idB);
+
+      if (!penA || !penB) return;
+
+      // 比較テーブルを生成
+      const rows = [
+        ['Brand', penA.brand, penB.brand],
+        ['Material', penA.material, penB.material],
+        ['Nib Material', penA.nibMaterial, penB.nibMaterial],
+        ['Nib Sizes', penA.nibSizes.join(', '), penB.nibSizes.join(', ')],
+        ['Filling System', penA.fillingSystem, penB.fillingSystem],
+        ['Weight', `${penA.weight}g`, `${penB.weight}g`],
+        ['Category', penA.category, penB.category],
+        ['Price', `$${penA.price}`, `$${penB.price}`],
+      ];
+
+      const tableHTML = `
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Specification</th>
+              <th>${penA.name}</th>
+              <th>${penB.name}</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${rows.map(([label, valA, valB]) => `
+              <tr>
+                <td style="font-weight: 500; color: var(--color-text);">${label}</td>
+                <td>${valA}</td>
+                <td>${valB}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      `;
+
+      resultDiv.innerHTML = tableHTML;
+    }
+  </script>
+</Base>

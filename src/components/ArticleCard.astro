@@ -1,0 +1,42 @@
+---
+// ArticleCard.astro - 記事カードコンポーネント
+// マガジンページで記事一覧を表示するカード
+
+interface Props {
+  slug: string;
+  title: string;
+  description: string;
+  category: string;
+  publishedAt: string;
+}
+
+const { slug, title, description, category, publishedAt } = Astro.props;
+
+// カテゴリの表示名マッピング
+const categoryLabels: Record<string, string> = {
+  review: 'Pen Review',
+  ink: 'Ink Guide',
+  nib: 'Nib Guide',
+  comparison: 'Comparison',
+  guide: 'Guide',
+  beginner: 'Beginner',
+};
+---
+
+<a href={`/magazine/${slug}/`} class="article-card">
+  <div class="article-card__body">
+    <!-- カテゴリラベル -->
+    <p class="article-card__category">{categoryLabels[category] || category}</p>
+
+    <!-- 記事タイトル -->
+    <h3 class="article-card__title">{title}</h3>
+
+    <!-- 概要テキスト -->
+    <p class="article-card__excerpt">{description}</p>
+
+    <!-- 公開日 -->
+    <p class="article-card__excerpt" style="margin-top: 0.5rem; font-size: 0.75rem; color: var(--color-text-muted);">
+      {publishedAt}
+    </p>
+  </div>
+</a>

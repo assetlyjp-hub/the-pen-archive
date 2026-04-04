@@ -1,0 +1,60 @@
+---
+// PenCard.astro - 万年筆カードコンポーネント
+// グリッド表示用の万年筆1本分のカード
+
+// 万年筆データの型定義
+interface Props {
+  id: string;            // ペンID（URLスラッグ）
+  name: string;          // ペン名（英語）
+  brand: string;         // ブランドID
+  nameJa: string;        // ブランド名（日本語）
+  fillingSystem: string; // 吸入方式
+  nibMaterial: string;   // ペン先素材
+  price: number;         // 価格（USD）
+  image: string;         // 画像パス
+  category: string;      // カテゴリ（everyday / professional / luxury / collector）
+}
+
+const { id, name, brand, nameJa, fillingSystem, nibMaterial, price, image, category } = Astro.props;
+
+// 吸入方式の表示名マッピング
+const fillingLabels: Record<string, string> = {
+  piston: 'Piston',
+  vacuum: 'Vacuum',
+  converter: 'Cartridge/Converter',
+  cartridge: 'Cartridge',
+  eyedropper: 'Eyedropper',
+};
+
+// カテゴリの表示名を大文字に
+const categoryLabel = category.charAt(0).toUpperCase() + category.slice(1);
+---
+
+<!-- 万年筆カード: クリックで詳細ページへ遷移 -->
+<a href={`/pens/${id}/`} class="item-card"
+   data-brand={brand}
+   data-filling={fillingSystem}
+   data-category={category}
+   data-price={price}>
+
+  <!-- 万年筆画像（プレースホルダーSVG） -->
+  <img src={image} alt={name} class="item-card__image" loading="lazy" />
+
+  <div class="item-card__body">
+    <!-- カテゴリラベル -->
+    <p class="item-card__type">{categoryLabel}</p>
+
+    <!-- ペン名 -->
+    <h3 class="item-card__name">{name}</h3>
+
+    <!-- ブランド名（日本語） -->
+    <p class="item-card__brand">{nameJa}</p>
+
+    <!-- メタ情報: 吸入方式・ペン先・価格 -->
+    <div class="item-card__meta">
+      <span class="item-card__tag">{fillingLabels[fillingSystem] || fillingSystem}</span>
+      <span class="item-card__tag">{nibMaterial}</span>
+      <span class="item-card__price">${price}</span>
+    </div>
+  </div>
+</a>

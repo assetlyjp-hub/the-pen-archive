@@ -1,0 +1,46 @@
+---
+// magazine/index.astro - 記事一覧ページ
+// マガジン形式で全記事を表示
+
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+// 全記事を取得して公開日順にソート（新しい順）
+const allArticles = await getCollection('articles');
+const sortedArticles = allArticles.sort((a, b) =>
+  new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
+);
+---
+
+<Base
+  title="Magazine — Fountain Pen Guides & Reviews"
+  description="Expert guides, reviews, and comparisons of fountain pens and inks. Learn about nibs, filling systems, and find the perfect writing instrument."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Magazine</h1>
+    <p class="page-header__description">
+      Guides, reviews, and deep dives into the world of fountain pens
+    </p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {sortedArticles.map((article) => (
+        <ArticleCard
+          slug={article.id}
+          title={article.data.title}
+          description={article.data.description}
+          category={article.data.category}
+          publishedAt={article.data.publishedAt}
+        />
+      ))}
+    </div>
+
+    {sortedArticles.length === 0 && (
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-xl) 0;">
+        No articles yet. Check back soon!
+      </p>
+    )}
+  </div>
+</Base>

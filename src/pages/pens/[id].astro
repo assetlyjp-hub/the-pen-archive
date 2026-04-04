@@ -1,0 +1,173 @@
+---
+// [id].astro - 万年筆詳細ページ
+// 動的ルーティングで各万年筆の詳細情報を表示
+
+import Base from '../../layouts/Base.astro';
+import PenCard from '../../components/PenCard.astro';
+
+// データの読み込み
+import pensData from '../../data/pens.json';
+import brandsData from '../../data/brands.json';
+
+// ブランドIDから日本語名を引くマップ
+const brandMap = Object.fromEntries(brandsData.map(b => [b.id, b.nameJa]));
+
+// 静的パス生成（全万年筆のIDからパスを生成）
+export function getStaticPaths() {
+  return pensData.map((pen) => ({
+    params: { id: pen.id },
+  }));
+}
+
+// URLパラメータから万年筆IDを取得
+const { id } = Astro.params;
+
+// 該当する万年筆データを検索
+const pen = pensData.find(p => p.id === id);
+if (!pen) return Astro.redirect('/404');
+
+// ブランドデータを検索
+const brand = brandsData.find(b => b.id === pen.brand);
+
+// 同ブランドの関連ペンを取得（自分自身を除く、最大3本）
+const relatedPens = pensData
+  .filter(p => p.brand === pen.brand && p.id !== pen.id)
+  .slice(0, 3);
+
+// JSON-LD構造化データ（Product schema）
+const productJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": pen.name,
+  "description": pen.description,
+  "brand": {
+    "@type": "Brand",
+    "name": brand?.name || pen.brand,
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": pen.price,
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+  },
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "Material", "value": pen.material },
+    { "@type": "PropertyValue", "name": "Nib Material", "value": pen.nibMaterial },
+    { "@type": "PropertyValue", "name": "Filling System", "value": pen.fillingSystem },
+    { "@type": "PropertyValue", "name": "Weight", "value": `${pen.weight}g` },
+  ],
+};
+---
+
+<Base
+  title={pen.name}
+  description={pen.description.slice(0, 160)}
+  jsonLd={productJsonLd}
+>
+  <!-- 万年筆詳細ヘッダー -->
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {pen.category.charAt(0).toUpperCase() + pen.category.slice(1)} · {pen.nibMaterial}
+    </p>
+    <h1 class="page-header__title">{pen.name}</h1>
+    <p class="page-header__description">{brandMap[pen.brand] || pen.brand} ({brand?.name || pen.brand})</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- 万年筆画像 -->
+    <div style="padding: var(--space-lg) 0;">
+      <img src={pen.image} alt={pen.name} style="width: 100%; border-radius: var(--radius-md);" />
+    </div>
+
+    <!-- 価格表示 -->
+    <div style="display: flex; gap: var(--space-md); align-items: center; margin-bottom: var(--space-lg);">
+      <span style="font-size: 1.8rem; font-weight: 700; color: var(--color-danger);">${pen.price}</span>
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{pen.description}</p>
+
+    <!-- スペック表 -->
+    <div class="spec-grid">
+      <div class="spec-item">
+        <span class="spec-item__label">Material</span>
+        <span class="spec-item__value">{pen.material}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Nib Material</span>
+        <span class="spec-item__value">{pen.nibMaterial}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Nib Sizes</span>
+        <span class="spec-item__value">{pen.nibSizes.join(', ')}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Filling System</span>
+        <span class="spec-item__value">{pen.fillingSystem.charAt(0).toUpperCase() + pen.fillingSystem.slice(1)}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Weight</span>
+        <span class="spec-item__value">{pen.weight}g</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Price</span>
+        <span class="spec-item__value">${pen.price}</span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Brand</span>
+        <span class="spec-item__value">
+          <a href={`/brands/${pen.brand}/`} style="color: var(--color-accent);">{brand?.name || pen.brand}</a>
+        </span>
+      </div>
+      <div class="spec-item">
+        <span class="spec-item__label">Category</span>
+        <span class="spec-item__value">{pen.category.charAt(0).toUpperCase() + pen.category.slice(1)}</span>
+      </div>
+    </div>
+
+    <!-- 特徴リスト -->
+    <div style="padding: var(--space-lg) 0;">
+      <h2 style="margin-bottom: var(--space-md);">Key Features</h2>
+      <ul style="list-style: none; padding: 0;">
+        {pen.features.map((feature: string) => (
+          <li style="padding: 0.6rem 0; border-bottom: 1px solid var(--color-border); color: var(--color-text-sub); display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: var(--color-accent);">&#9670;</span>
+            {feature}
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <!-- 購入リンク -->
+    <div style="padding: var(--space-md) 0 var(--space-lg);">
+      <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
+      <div class="buy-links">
+        <a href={pen.amazonUrl || '#'} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon US</a>
+        <a href={`https://www.amazon.co.jp/s?k=${encodeURIComponent(pen.name)}`} class="btn" target="_blank" rel="noopener noreferrer">Amazon JP</a>
+        <a href={pen.rakutenUrl || `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(pen.nameJa)}/`} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
+      </div>
+    </div>
+
+    <!-- 同ブランドの関連ペン -->
+    {relatedPens.length > 0 && (
+      <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+        <h2 style="margin-bottom: var(--space-md);">More from {brand?.name || pen.brand}</h2>
+        <div class="related-grid">
+          {relatedPens.map((rp: any) => (
+            <PenCard
+              id={rp.id}
+              name={rp.name}
+              brand={rp.brand}
+              nameJa={brandMap[rp.brand] || rp.brand}
+              fillingSystem={rp.fillingSystem}
+              nibMaterial={rp.nibMaterial}
+              price={rp.price}
+              image={rp.image}
+              category={rp.category}
+            />
+          ))}
+        </div>
+      </div>
+    )}
+  </div>
+</Base>
