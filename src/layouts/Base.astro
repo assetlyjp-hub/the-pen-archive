@@ -1,0 +1,176 @@
+---
+// Base.astro - 全ページ共通レイアウト（英語版）
+// Google Fonts、ヘッダー、フッター、SEO メタを管理
+
+// ページごとに渡されるプロパティの型定義
+interface Props {
+  title: string;          // ページタイトル
+  description?: string;   // メタディスクリプション
+  ogImage?: string;       // OGP画像のURL
+  type?: string;          // ページタイプ（website / article）
+  jaPath?: string;        // 日本語版ページのパス（hreflang用）
+  jsonLd?: object;        // 追加のJSON-LD構造化データ
+}
+
+// プロパティのデフォルト値を設定
+const {
+  title,
+  description = 'The definitive database of fine writing instruments. Explore fountain pens, inks, and brands from the world\'s finest pen makers.',
+  ogImage = '/images/pens/placeholder.svg',
+  type = 'website',
+  jaPath = '/ja/',
+  jsonLd,
+} = Astro.props;
+
+// ページのフルタイトル（トップページ以外はサイト名を付与）
+const fullTitle = title === 'The Pen Archive'
+  ? title
+  : `${title} | The Pen Archive`;
+
+// 現在のURL（canonical用）
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+// 日本語版ページのURL（hreflang用）
+const jaURL = new URL(jaPath, Astro.site);
+
+// グローバルCSS読み込み
+import '../styles/global.css';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="generator" content={Astro.generator} />
+
+  <!-- SEO メタタグ -->
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- hreflang タグ: Googleに多言語ページの関係を伝える -->
+  <link rel="alternate" hreflang="en" href={canonicalURL} />
+  <link rel="alternate" hreflang="ja" href={jaURL} />
+  <link rel="alternate" hreflang="x-default" href={canonicalURL} />
+
+  <!-- OGP（SNSシェア用） -->
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content={type} />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:site_name" content="The Pen Archive" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={fullTitle} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <!-- Google Fonts: DM Serif Display（見出し）+ DM Sans（本文）+ Noto Sans JP（日本語） -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- ファビコン -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- JSON-LD 構造化データ（サイト共通） -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "The Pen Archive",
+    "url": "https://thepenarchive.com",
+    "description": description,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Ichirin LLC",
+      "email": "info@thepenarchive.com"
+    }
+  })} />
+
+  <!-- 追加のJSON-LD（ページ固有） -->
+  {jsonLd && (
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  )}
+</head>
+
+<body>
+  <!-- ヘッダー -->
+  <header class="site-header">
+    <div class="site-header__inner">
+      <!-- ロゴ: Archiveの部分をアクセントカラーに -->
+      <a href="/" class="site-header__logo">
+        The Pen <span>Archive</span>
+      </a>
+
+      <!-- メインナビゲーション -->
+      <nav class="site-header__nav" id="main-nav">
+        <a href="/">Pens</a>
+        <a href="/brands/">Brands</a>
+        <a href="/inks/">Inks</a>
+        <a href="/compare/">Compare</a>
+        <a href="/magazine/">Magazine</a>
+        <a href="/about/">About</a>
+        <!-- 言語切り替え（日本語版へ） -->
+        <a href={jaPath} class="lang-switch" title="日本語">JA</a>
+      </nav>
+
+      <!-- モバイルメニューボタン -->
+      <button class="site-header__menu-toggle" id="menu-toggle" aria-label="Open menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- メインコンテンツ（各ページが差し込まれる） -->
+  <main>
+    <slot />
+  </main>
+
+  <!-- フッター -->
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__logo">The Pen Archive</p>
+      <div class="site-footer__links">
+        <a href="/">Pens</a>
+        <a href="/brands/">Brands</a>
+        <a href="/inks/">Inks</a>
+        <a href="/magazine/">Magazine</a>
+        <a href="/about/">About</a>
+        <a href="/privacy/">Privacy</a>
+      </div>
+      <p class="site-footer__text">
+        &copy; {new Date().getFullYear()} Ichirin LLC. All rights reserved.
+        <br />The Pen Archive is a participant in affiliate programs.
+      </p>
+    </div>
+  </footer>
+
+  <!-- モバイルメニューの開閉スクリプト -->
+  <script>
+    // メニューボタンとナビゲーションの要素を取得
+    const menuToggle = document.getElementById('menu-toggle');
+    const mainNav = document.getElementById('main-nav');
+
+    // メニューボタンをクリックしたときの処理
+    menuToggle?.addEventListener('click', () => {
+      mainNav?.classList.toggle('is-open');
+    });
+
+    // ナビリンクをクリックしたらメニューを閉じる
+    mainNav?.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        mainNav?.classList.remove('is-open');
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+---
+// FilterBar.astro - フィルターバーコンポーネント
+// 万年筆をブランド・吸入方式・カテゴリ・価格帯で絞り込む
+---
+
+<div class="filter-bar" id="filter-bar">
+  <!-- ブランドフィルター -->
+  <span class="filter-bar__label">Brand</span>
+  <div class="filter-bar__group" id="filter-brand">
+    <button class="filter-btn is-active" data-filter="brand" data-value="all">All</button>
+    <button class="filter-btn" data-filter="brand" data-value="pilot">Pilot</button>
+    <button class="filter-btn" data-filter="brand" data-value="sailor">Sailor</button>
+    <button class="filter-btn" data-filter="brand" data-value="platinum">Platinum</button>
+    <button class="filter-btn" data-filter="brand" data-value="lamy">LAMY</button>
+    <button class="filter-btn" data-filter="brand" data-value="pelikan">Pelikan</button>
+    <button class="filter-btn" data-filter="brand" data-value="montblanc">Montblanc</button>
+    <button class="filter-btn" data-filter="brand" data-value="twsbi">TWSBI</button>
+    <button class="filter-btn" data-filter="brand" data-value="kaweco">Kaweco</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- 吸入方式フィルター -->
+  <span class="filter-bar__label">Filling</span>
+  <div class="filter-bar__group" id="filter-filling">
+    <button class="filter-btn is-active" data-filter="filling" data-value="all">All</button>
+    <button class="filter-btn" data-filter="filling" data-value="piston">Piston</button>
+    <button class="filter-btn" data-filter="filling" data-value="vacuum">Vacuum</button>
+    <button class="filter-btn" data-filter="filling" data-value="converter">Cartridge/Converter</button>
+    <button class="filter-btn" data-filter="filling" data-value="cartridge">Cartridge</button>
+  </div>
+
+  <!-- 区切り線 -->
+  <div class="filter-bar__divider"></div>
+
+  <!-- カテゴリフィルター -->
+  <span class="filter-bar__label">Category</span>
+  <div class="filter-bar__group" id="filter-category">
+    <button class="filter-btn is-active" data-filter="category" data-value="all">All</button>
+    <button class="filter-btn" data-filter="category" data-value="everyday">Everyday</button>
+    <button class="filter-btn" data-filter="category" data-value="professional">Professional</button>
+    <button class="filter-btn" data-filter="category" data-value="luxury">Luxury</button>
+    <button class="filter-btn" data-filter="category" data-value="collector">Collector</button>
+  </div>
+
+  <!-- 価格帯スライダー -->
+  <div class="filter-price">
+    <label for="price-range">Max $</label>
+    <input type="range" id="price-range" min="5" max="1200" value="1200" step="5" />
+    <span id="price-value">$1200</span>
+  </div>
+</div>
+
+<!-- フィルタリングのJavaScript -->
+<script>
+  // フィルターの状態を管理するオブジェクト
+  const filterState: Record<string, string> = {
+    brand: 'all',
+    filling: 'all',
+    category: 'all',
+    maxPrice: '1200',
+  };
+
+  // フィルターボタンのクリックイベント
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filterName = (btn as HTMLElement).dataset.filter!;
+      const filterValue = (btn as HTMLElement).dataset.value!;
+
+      // 同じフィルターグループ内のアクティブ状態を更新
+      btn.parentElement?.querySelectorAll('.filter-btn').forEach(b => {
+        b.classList.remove('is-active');
+      });
+      btn.classList.add('is-active');
+
+      // フィルター状態を更新
+      filterState[filterName] = filterValue;
+
+      // カードをフィルタリング
+      applyFilters();
+    });
+  });
+
+  // 価格スライダーのイベント
+  const priceRange = document.getElementById('price-range') as HTMLInputElement;
+  const priceValue = document.getElementById('price-value');
+
+  priceRange?.addEventListener('input', () => {
+    filterState.maxPrice = priceRange.value;
+    if (priceValue) priceValue.textContent = `$${priceRange.value}`;
+    applyFilters();
+  });
+
+  // フィルターを適用する関数
+  function applyFilters() {
+    const cards = document.querySelectorAll('.item-card') as NodeListOf<HTMLElement>;
+
+    cards.forEach(card => {
+      const cardBrand = card.dataset.brand || '';
+      const cardFilling = card.dataset.filling || '';
+      const cardCategory = card.dataset.category || '';
+      const cardPrice = parseInt(card.dataset.price || '0');
+
+      // 各フィルター条件をチェック
+      const brandMatch = filterState.brand === 'all' || cardBrand === filterState.brand;
+      const fillingMatch = filterState.filling === 'all' || cardFilling === filterState.filling;
+      const categoryMatch = filterState.category === 'all' || cardCategory === filterState.category;
+      const priceMatch = cardPrice <= parseInt(filterState.maxPrice);
+
+      // すべての条件を満たす場合のみ表示
+      if (brandMatch && fillingMatch && categoryMatch && priceMatch) {
+        card.style.display = '';
+      } else {
+        card.style.display = 'none';
+      }
+    });
+  }
+</script>

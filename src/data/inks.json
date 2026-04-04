@@ -1,0 +1,192 @@
+[
+  {
+    "id": "iroshizuku-kon-peki",
+    "name": "Pilot Iroshizuku Kon-peki",
+    "nameJa": "パイロット 色彩雫 紺碧",
+    "brand": "pilot",
+    "color": "Cerulean Blue",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "medium",
+    "properties": {
+      "saturation": 4,
+      "shading": 5,
+      "sheen": 3,
+      "flowability": 5,
+      "waterResistance": 1
+    },
+    "description": "Kon-peki (Azure) is the crown jewel of the Iroshizuku line and arguably the most popular fountain pen ink in the world. Its vibrant cerulean blue exhibits stunning shading from sky blue to deep azure, with excellent flow and behavior in any pen.",
+    "descriptionJa": "紺碧は色彩雫シリーズの王道にして、世界で最も人気のある万年筆インクの一つ。空色から深い蒼までの美しいシェーディングと、あらゆるペンでの優れたフロー性能が特徴。"
+  },
+  {
+    "id": "iroshizuku-yama-budo",
+    "name": "Pilot Iroshizuku Yama-budo",
+    "nameJa": "パイロット 色彩雫 山葡萄",
+    "brand": "pilot",
+    "color": "Crimson/Purple",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "medium",
+    "properties": {
+      "saturation": 4,
+      "shading": 4,
+      "sheen": 4,
+      "flowability": 5,
+      "waterResistance": 1
+    },
+    "description": "Yama-budo (Wild Grape) is a stunning crimson-purple that shimmers between wine red and magenta. It exhibits beautiful gold sheen on premium papers and is one of the most versatile inks for everyday use.",
+    "descriptionJa": "山葡萄はワインレッドとマゼンタの間で揺らめく美しいクリムゾンパープル。上質な紙ではゴールドのシーンが現れ、日常使いにも最適な一本。"
+  },
+  {
+    "id": "iroshizuku-tsuki-yo",
+    "name": "Pilot Iroshizuku Tsuki-yo",
+    "nameJa": "パイロット 色彩雫 月夜",
+    "brand": "pilot",
+    "color": "Teal Blue",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "medium",
+    "properties": {
+      "saturation": 3,
+      "shading": 4,
+      "sheen": 2,
+      "flowability": 5,
+      "waterResistance": 1
+    },
+    "description": "Tsuki-yo (Moonlit Night) is a sophisticated teal blue with green undertones that evokes a moonlit evening sky. More subdued than Kon-peki, it's an excellent choice for professional settings.",
+    "descriptionJa": "月夜はグリーンのアンダートーンを持つ上品なティールブルー。紺碧より落ち着いた色合いで、ビジネスシーンにも最適。"
+  },
+  {
+    "id": "sailor-tokiwa-matsu",
+    "name": "Sailor Jentle Tokiwa-matsu",
+    "nameJa": "セーラー ジェントル 常磐松",
+    "brand": "sailor",
+    "color": "Deep Green",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "medium",
+    "properties": {
+      "saturation": 4,
+      "shading": 3,
+      "sheen": 2,
+      "flowability": 4,
+      "waterResistance": 1
+    },
+    "description": "Tokiwa-matsu (Evergreen Pine) is a rich, deep green that captures the essence of an ancient pine forest. Well-behaved and suitable for daily writing, it offers subtle shading from forest to olive green.",
+    "descriptionJa": "常磐松は古い松林を思わせる深い緑。日常筆記に適したおとなしいインクで、森の緑からオリーブグリーンまでの繊細なシェーディングが美しい。"
+  },
+  {
+    "id": "pelikan-edelstein-tanzanite",
+    "name": "Pelikan Edelstein Tanzanite",
+    "nameJa": "ペリカン エーデルシュタイン タンザナイト",
+    "brand": "pelikan",
+    "color": "Blue-Purple",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "fast",
+    "properties": {
+      "saturation": 4,
+      "shading": 3,
+      "sheen": 4,
+      "flowability": 5,
+      "waterResistance": 1
+    },
+    "description": "Tanzanite is a gorgeous blue-purple from Pelikan's premium Edelstein (Gemstone) ink line. Named after the rare gemstone, it exhibits stunning purple sheen on quality paper and flows beautifully.",
+    "descriptionJa": "タンザナイトはペリカンのプレミアムライン「エーデルシュタイン（宝石）」の美しいブルーパープル。希少な宝石の名を冠し、上質紙では紫のシーンが輝く。"
+  },
+  {
+    "id": "lamy-crystal-benitoite",
+    "name": "LAMY Crystal Benitoite",
+    "nameJa": "ラミー クリスタル ベニトアイト",
+    "brand": "lamy",
+    "color": "Blue",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "fast",
+    "properties": {
+      "saturation": 3,
+      "shading": 4,
+      "sheen": 2,
+      "flowability": 4,
+      "waterResistance": 1
+    },
+    "description": "Benitoite from LAMY's Crystal ink line is a beautiful medium blue named after the rare Californian gemstone. It offers good shading and pairs perfectly with LAMY pens' smooth flow characteristics.",
+    "descriptionJa": "ベニトアイトはラミーのクリスタルインクラインの美しいミディアムブルー。カリフォルニア産の希少な宝石に因み、良好なシェーディングとラミーペンとの相性が抜群。"
+  },
+  {
+    "id": "montblanc-mystery-black",
+    "name": "Montblanc Mystery Black",
+    "nameJa": "モンブラン ミステリーブラック",
+    "brand": "montblanc",
+    "color": "Black",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "fast",
+    "properties": {
+      "saturation": 5,
+      "shading": 1,
+      "sheen": 1,
+      "flowability": 4,
+      "waterResistance": 2
+    },
+    "description": "Mystery Black is Montblanc's signature black ink — a deep, saturated black that's well-behaved and lubricates pens nicely. It's the safe choice for professional documents and everyday writing.",
+    "descriptionJa": "ミステリーブラックはモンブランの定番黒インク。深い漆黒の色合いで、ペンへの優しさと扱いやすさを兼ね備えたプロフェッショナル向けインク。"
+  },
+  {
+    "id": "diamine-oxblood",
+    "name": "Diamine Oxblood",
+    "nameJa": "ダイアミン オックスブラッド",
+    "brand": "diamine",
+    "color": "Dark Red",
+    "type": "dye",
+    "waterproof": false,
+    "dryTime": "medium",
+    "properties": {
+      "saturation": 4,
+      "shading": 4,
+      "sheen": 2,
+      "flowability": 4,
+      "waterResistance": 1
+    },
+    "description": "Diamine Oxblood is a rich, dark red reminiscent of dried blood or vintage leather. It's one of Diamine's most popular colors, offering excellent shading and a sophisticated alternative to traditional red inks.",
+    "descriptionJa": "ダイアミン オックスブラッドは深い暗赤色。乾いた血液やヴィンテージレザーを思わせる色合いで、ダイアミン最人気色の一つ。赤インクの上品な代替として人気。"
+  },
+  {
+    "id": "noodlers-bulletproof-black",
+    "name": "Noodler's Bulletproof Black",
+    "nameJa": "ヌードラーズ バレットプルーフブラック",
+    "brand": "noodlers",
+    "color": "Black",
+    "type": "pigment",
+    "waterproof": true,
+    "dryTime": "slow",
+    "properties": {
+      "saturation": 5,
+      "shading": 1,
+      "sheen": 1,
+      "flowability": 3,
+      "waterResistance": 5
+    },
+    "description": "Noodler's Bulletproof Black is the gold standard for waterproof fountain pen ink. Its cellulose-reactive formula bonds permanently to paper, resisting water, bleach, and UV light. Essential for archival documents and check writing.",
+    "descriptionJa": "ヌードラーズ バレットプルーフブラックは耐水万年筆インクの金字塔。セルロース反応型の配合で紙に永久に定着し、水・漂白剤・紫外線に耐える。公文書や小切手に必須。"
+  },
+  {
+    "id": "platinum-carbon-black",
+    "name": "Platinum Carbon Black",
+    "nameJa": "プラチナ カーボンブラック",
+    "brand": "platinum",
+    "color": "Black",
+    "type": "pigment",
+    "waterproof": true,
+    "dryTime": "slow",
+    "properties": {
+      "saturation": 5,
+      "shading": 1,
+      "sheen": 1,
+      "flowability": 3,
+      "waterResistance": 5
+    },
+    "description": "Platinum Carbon Black is a carbon pigment ink that produces an intensely dark, waterproof line. It flows better than most pigment inks and is safe for fountain pens when the pen is maintained regularly. A top choice for artists and technical writers.",
+    "descriptionJa": "プラチナ カーボンブラックはカーボン顔料を使用した漆黒の耐水インク。顔料インクとしてはフロー性能に優れ、定期的なメンテナンスで万年筆にも安心して使える。アーティストや技術者に人気。"
+  }
+]

@@ -1,0 +1,105 @@
+# generate-articles.yml — 記事自動生成ワークフロー
+# 平日 JST 9:00（UTC 0:00）に実行
+# 曜日ローテーションで異なるカテゴリの記事を生成
+
+name: Generate Articles
+
+on:
+  # スケジュール実行（UTC 0:00 = JST 9:00）
+  schedule:
+    - cron: '0 0 * * 1-5'  # 月-金の UTC 0:00 = JST 9:00
+
+  # 手動実行も可能
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Article category'
+        required: false
+        default: 'guide'
+        type: choice
+        options:
+          - review
+          - ink
+          - nib
+          - comparison
+          - guide
+          - beginner
+      limit:
+        description: 'Number of articles to generate'
+        required: false
+        default: '2'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Python環境のセットアップ
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # 依存パッケージのインストール
+      - name: Install dependencies
+        run: pip install anthropic
+
+      # 曜日に応じたカテゴリを決定（スケジュール実行時）
+      - name: Determine category
+        id: category
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "category=${{ inputs.category }}" >> $GITHUB_OUTPUT
+            echo "limit=${{ inputs.limit }}" >> $GITHUB_OUTPUT
+          else
+            # 曜日ローテーション（1=月, 2=火, ...）
+            DAY=$(date +%u)
+            case $DAY in
+              1) CATEGORY="review" ;;      # 月曜: ペンレビュー
+              2) CATEGORY="ink" ;;         # 火曜: インク関連
+              3) CATEGORY="nib" ;;         # 水曜: ペン先関連
+              4) CATEGORY="comparison" ;;  # 木曜: 比較記事
+              5) CATEGORY="guide" ;;       # 金曜: ガイド
+              *) CATEGORY="beginner" ;;    # その他: 初心者向け
+            esac
+            echo "category=$CATEGORY" >> $GITHUB_OUTPUT
+            echo "limit=2" >> $GITHUB_OUTPUT
+          fi
+
+      # 英語記事を2本生成
+      - name: Generate English articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/generate-articles.py \
+            --type ${{ steps.category.outputs.category }} \
+            --limit ${{ steps.category.outputs.limit }} \
+            --lang en
+
+      # 日本語記事を1本生成
+      - name: Generate Japanese article
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/generate-articles.py \
+            --type ${{ steps.category.outputs.category }} \
+            --limit 1 \
+            --lang ja
+
+      # 変更をコミット&プッシュ
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles/
+          # 変更がある場合のみコミット
+          if git diff --staged --quiet; then
+            echo "No new articles generated."
+          else
+            git commit -m "Auto-generate articles: ${{ steps.category.outputs.category }} ($(date +%Y-%m-%d))"
+            git push
+          fi

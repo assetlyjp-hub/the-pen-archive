@@ -1,0 +1,38 @@
+---
+// brands/index.astro - ブランド一覧ページ
+// 万年筆ブランドを一覧表示
+
+import Base from '../../layouts/Base.astro';
+import brandsData from '../../data/brands.json';
+
+// ブランドを創業年順にソート
+const sortedBrands = [...brandsData].sort((a, b) => a.founded - b.founded);
+---
+
+<Base
+  title="Fountain Pen Brands"
+  description="Explore the world's finest fountain pen makers — from Japanese masters like Pilot and Sailor to European icons like Pelikan and Montblanc."
+>
+  <!-- ページヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">Brands</h1>
+    <p class="page-header__description">
+      The world's finest pen makers, from Japanese masters to European icons
+    </p>
+  </div>
+
+  <!-- ブランド一覧グリッド -->
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {sortedBrands.map((brand) => (
+        <a href={`/brands/${brand.id}/`} class="brand-card">
+          <h3 class="brand-card__name">{brand.name}</h3>
+          <p class="brand-card__name-ja">{brand.nameJa}</p>
+          <p class="brand-card__meta">
+            Est. {brand.founded} · {brand.country}
+          </p>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

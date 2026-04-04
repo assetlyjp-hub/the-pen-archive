@@ -1,0 +1,57 @@
+{
+  "review": [
+    { "keyword": "best fountain pens for beginners", "slug": "best-fountain-pens-beginners", "category": "review" },
+    { "keyword": "best fountain pens under $50", "slug": "best-fountain-pens-under-50", "category": "review" },
+    { "keyword": "best fountain pens under $100", "slug": "best-fountain-pens-under-100", "category": "review" },
+    { "keyword": "best fountain pens under $200", "slug": "best-fountain-pens-under-200", "category": "review" },
+    { "keyword": "best luxury fountain pens", "slug": "best-luxury-fountain-pens", "category": "review" },
+    { "keyword": "best pocket fountain pens", "slug": "best-pocket-fountain-pens", "category": "review" },
+    { "keyword": "best piston filler fountain pens", "slug": "best-piston-filler-pens", "category": "review" },
+    { "keyword": "best everyday carry fountain pens", "slug": "best-edc-fountain-pens", "category": "review" }
+  ],
+  "ink": [
+    { "keyword": "best fountain pen inks", "slug": "best-fountain-pen-inks", "category": "ink" },
+    { "keyword": "pilot iroshizuku ink review", "slug": "pilot-iroshizuku-review", "category": "ink" },
+    { "keyword": "best waterproof fountain pen inks", "slug": "best-waterproof-inks", "category": "ink" },
+    { "keyword": "best blue fountain pen inks", "slug": "best-blue-inks", "category": "ink" },
+    { "keyword": "best black fountain pen inks", "slug": "best-black-inks", "category": "ink" },
+    { "keyword": "best sheening fountain pen inks", "slug": "best-sheening-inks", "category": "ink" },
+    { "keyword": "best shading fountain pen inks", "slug": "best-shading-inks", "category": "ink" }
+  ],
+  "nib": [
+    { "keyword": "how to choose fountain pen nib size", "slug": "how-to-choose-nib-size", "category": "nib" },
+    { "keyword": "gold nib vs steel nib fountain pen", "slug": "gold-vs-steel-nib", "category": "nib" },
+    { "keyword": "fountain pen nib types explained", "slug": "nib-types-explained", "category": "nib" },
+    { "keyword": "best flex nib fountain pens", "slug": "best-flex-nib-pens", "category": "nib" },
+    { "keyword": "best stub nib fountain pens", "slug": "best-stub-nib-pens", "category": "nib" },
+    { "keyword": "fountain pen nib grinding guide", "slug": "nib-grinding-guide", "category": "nib" },
+    { "keyword": "hooded nib vs open nib", "slug": "hooded-vs-open-nib", "category": "nib" }
+  ],
+  "comparison": [
+    { "keyword": "pilot vs sailor fountain pens", "slug": "pilot-vs-sailor-comparison", "category": "comparison" },
+    { "keyword": "LAMY Safari vs TWSBI Eco", "slug": "lamy-safari-vs-twsbi-eco", "category": "comparison" },
+    { "keyword": "Pelikan M800 vs Montblanc 149", "slug": "pelikan-m800-vs-montblanc-149", "category": "comparison" },
+    { "keyword": "platinum 3776 vs pilot custom 74", "slug": "platinum-3776-vs-pilot-custom-74", "category": "comparison" },
+    { "keyword": "Japanese vs German fountain pens", "slug": "japanese-vs-german-pens", "category": "comparison" },
+    { "keyword": "cartridge vs converter vs piston", "slug": "cartridge-vs-converter-vs-piston", "category": "comparison" },
+    { "keyword": "Kaweco Sport vs LAMY Safari", "slug": "kaweco-sport-vs-lamy-safari", "category": "comparison" }
+  ],
+  "guide": [
+    { "keyword": "fountain pen filling systems guide", "slug": "fountain-pen-filling-systems-guide", "category": "guide" },
+    { "keyword": "how to clean fountain pen", "slug": "how-to-clean-fountain-pen", "category": "guide" },
+    { "keyword": "fountain pen care and maintenance", "slug": "fountain-pen-care-maintenance", "category": "guide" },
+    { "keyword": "how to use fountain pen converter", "slug": "how-to-use-converter", "category": "guide" },
+    { "keyword": "best paper for fountain pens", "slug": "best-paper-for-fountain-pens", "category": "guide" },
+    { "keyword": "fountain pen storage guide", "slug": "fountain-pen-storage-guide", "category": "guide" },
+    { "keyword": "fountain pen gift guide", "slug": "fountain-pen-gift-guide", "category": "guide" }
+  ],
+  "beginner": [
+    { "keyword": "fountain pen beginner guide", "slug": "fountain-pen-beginner-guide", "category": "beginner" },
+    { "keyword": "why use fountain pen", "slug": "why-use-fountain-pen", "category": "beginner" },
+    { "keyword": "fountain pen vs ballpoint", "slug": "fountain-pen-vs-ballpoint", "category": "beginner" },
+    { "keyword": "first fountain pen recommendations", "slug": "first-fountain-pen-recommendations", "category": "beginner" },
+    { "keyword": "fountain pen myths debunked", "slug": "fountain-pen-myths-debunked", "category": "beginner" },
+    { "keyword": "fountain pen terminology glossary", "slug": "fountain-pen-glossary", "category": "beginner" },
+    { "keyword": "common fountain pen mistakes", "slug": "common-fountain-pen-mistakes", "category": "beginner" }
+  ]
+}

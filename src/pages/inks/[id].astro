@@ -1,0 +1,117 @@
+---
+// inks/[id].astro - インク詳細ページ
+// インクのスペック、レーダーチャート、レーティングバーを表示
+
+import Base from '../../layouts/Base.astro';
+import InkRadar from '../../components/InkRadar.astro';
+
+import inksData from '../../data/inks.json';
+
+// 静的パス生成
+export function getStaticPaths() {
+  return inksData.map((ink) => ({
+    params: { id: ink.id },
+  }));
+}
+
+const { id } = Astro.params;
+const ink = inksData.find(i => i.id === id);
+if (!ink) return Astro.redirect('/404');
+---
+
+<Base
+  title={`${ink.name} Ink Review`}
+  description={ink.description.slice(0, 160)}
+>
+  <div class="page-header">
+    <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
+      {ink.color} · {ink.type}
+    </p>
+    <h1 class="page-header__title">{ink.name}</h1>
+    <p style="font-family: var(--font-ja); color: var(--color-text-sub);">{ink.nameJa}</p>
+  </div>
+
+  <div class="container container--narrow">
+    <!-- レーダーチャート（大きめ） -->
+    <div style="padding: var(--space-lg) 0; max-width: 300px; margin: 0 auto;">
+      <InkRadar
+        saturation={ink.properties.saturation}
+        shading={ink.properties.shading}
+        sheen={ink.properties.sheen}
+        flowability={ink.properties.flowability}
+        waterResistance={ink.properties.waterResistance}
+        size={300}
+      />
+    </div>
+
+    <!-- 説明文 -->
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9;">{ink.description}</p>
+
+    <!-- スペック詳細 -->
+    <div style="padding: var(--space-lg) 0; border-top: 1px solid var(--color-border);">
+      <h2 style="margin-bottom: var(--space-md);">Properties</h2>
+
+      <div style="display: flex; flex-direction: column; gap: var(--space-sm);">
+        <!-- 各レーティングバー -->
+        <div class="rating-bar">
+          <span class="rating-bar__label">Saturation</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${ink.properties.saturation * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{ink.properties.saturation}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Shading</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${ink.properties.shading * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{ink.properties.shading}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Sheen</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${ink.properties.sheen * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{ink.properties.sheen}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Flowability</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${ink.properties.flowability * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{ink.properties.flowability}/5</span>
+        </div>
+
+        <div class="rating-bar">
+          <span class="rating-bar__label">Water Resistance</span>
+          <div class="rating-bar__track">
+            <div class="rating-bar__fill" style={`width: ${ink.properties.waterResistance * 20}%`}></div>
+          </div>
+          <span class="rating-bar__value">{ink.properties.waterResistance}/5</span>
+        </div>
+      </div>
+
+      <div class="spec-grid" style="margin-top: var(--space-md);">
+        <div class="spec-item">
+          <span class="spec-item__label">Color</span>
+          <span class="spec-item__value">{ink.color}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Type</span>
+          <span class="spec-item__value">{ink.type.charAt(0).toUpperCase() + ink.type.slice(1)}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Waterproof</span>
+          <span class="spec-item__value">{ink.waterproof ? 'Yes' : 'No'}</span>
+        </div>
+        <div class="spec-item">
+          <span class="spec-item__label">Dry Time</span>
+          <span class="spec-item__value">{ink.dryTime.charAt(0).toUpperCase() + ink.dryTime.slice(1)}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</Base>

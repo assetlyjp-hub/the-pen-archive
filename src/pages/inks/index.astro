@@ -1,0 +1,54 @@
+---
+// inks/index.astro - インクデータベースページ
+// 各インクのレーダーチャートとスペックを一覧表示
+
+import Base from '../../layouts/Base.astro';
+import InkRadar from '../../components/InkRadar.astro';
+import inksData from '../../data/inks.json';
+---
+
+<Base
+  title="Fountain Pen Ink Database"
+  description="Complete guide to fountain pen inks — Pilot Iroshizuku, Sailor Jentle, Pelikan Edelstein, and more. Compare saturation, shading, sheen, and water resistance."
+>
+  <!-- ページヘッダー -->
+  <div class="page-header">
+    <h1 class="page-header__title">Ink Database</h1>
+    <p class="page-header__description">
+      The art of color — explore every ink for your fountain pen
+    </p>
+  </div>
+
+  <div class="container">
+    <!-- インク一覧 -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {inksData.map((ink) => (
+        <a href={`/inks/${ink.id}/`} style="display: block; background: var(--color-bg-card); border: 1px solid var(--color-border); border-radius: var(--radius-md); padding: var(--space-md); transition: all var(--transition-base);"
+           class="brand-card">
+          <!-- インク名と色 -->
+          <h3 class="brand-card__name">{ink.name}</h3>
+          <p class="brand-card__name-ja">{ink.nameJa}</p>
+          <p class="brand-card__meta">{ink.color} · {ink.type} · {ink.waterproof ? 'Waterproof' : 'Not waterproof'}</p>
+
+          <!-- レーダーチャート -->
+          <InkRadar
+            saturation={ink.properties.saturation}
+            shading={ink.properties.shading}
+            sheen={ink.properties.sheen}
+            flowability={ink.properties.flowability}
+            waterResistance={ink.properties.waterResistance}
+          />
+
+          <!-- スタッツバッジ -->
+          <div style="display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.5rem;">
+            <span class="item-card__tag">Sat: {ink.properties.saturation}/5</span>
+            <span class="item-card__tag">Shade: {ink.properties.shading}/5</span>
+            <span class="item-card__tag">Sheen: {ink.properties.sheen}/5</span>
+            <span class="item-card__tag">Flow: {ink.properties.flowability}/5</span>
+            <span class="item-card__tag">Water: {ink.properties.waterResistance}/5</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</Base>

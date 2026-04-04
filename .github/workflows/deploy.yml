@@ -1,0 +1,41 @@
+# deploy.yml — Cloudflare Pages 自動デプロイ
+# main ブランチへのプッシュ時にビルド＆デプロイ
+
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Node.js 環境のセットアップ
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      # 依存パッケージのインストール
+      - name: Install dependencies
+        run: npm ci
+
+      # Astroのビルド
+      - name: Build
+        run: npm run build
+
+      # Cloudflare Pages にデプロイ
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=the-pen-archive

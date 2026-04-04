@@ -1,0 +1,53 @@
+---
+// index.astro - トップページ
+// ヒーロー + フィルター付き万年筆グリッドを表示
+
+import Base from '../layouts/Base.astro';
+import FilterBar from '../components/FilterBar.astro';
+import PenCard from '../components/PenCard.astro';
+
+// 万年筆データの読み込み
+import pensData from '../data/pens.json';
+
+// ブランドデータの読み込み（日本語名取得用）
+import brandsData from '../data/brands.json';
+
+// ブランドIDから日本語名を引くマップ
+const brandMap = Object.fromEntries(brandsData.map(b => [b.id, b.nameJa]));
+---
+
+<Base title="The Pen Archive">
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">The Pen <span>Archive</span></h1>
+    <p class="hero__subtitle">Your Guide to Fine Writing Instruments</p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- フィルターバー -->
+    <FilterBar />
+
+    <!-- 万年筆グリッド -->
+    <div class="item-grid" id="pen-grid">
+      {pensData.map((pen) => (
+        <PenCard
+          id={pen.id}
+          name={pen.name}
+          brand={pen.brand}
+          nameJa={brandMap[pen.brand] || pen.brand}
+          fillingSystem={pen.fillingSystem}
+          nibMaterial={pen.nibMaterial}
+          price={pen.price}
+          image={pen.image}
+          category={pen.category}
+        />
+      ))}
+    </div>
+
+    <!-- 結果なし表示（フィルターで全非表示の時） -->
+    <p id="no-results" style="display:none; text-align:center; color:var(--color-text-muted); padding: 2rem 0;">
+      No pens match your filters. Try adjusting your criteria.
+    </p>
+  </div>
+</Base>

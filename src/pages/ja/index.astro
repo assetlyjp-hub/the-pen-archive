@@ -1,0 +1,60 @@
+---
+// ja/index.astro - 日本語版トップページ
+// 英語版と同じ構造で、テキストのみ日本語に
+
+import Base from '../../layouts/Base.astro';
+import pensData from '../../data/pens.json';
+import brandsData from '../../data/brands.json';
+
+// ブランドIDから日本語名を引くマップ
+const brandMap = Object.fromEntries(brandsData.map(b => [b.id, b.nameJa]));
+---
+
+<Base
+  title="The Pen Archive"
+  description="万年筆の完全データベース。世界の名門ブランドの万年筆、インク、ペン先を網羅的に紹介します。"
+  jaPath="/ja/"
+>
+  <!-- ヒーローセクション -->
+  <section class="hero">
+    <h1 class="hero__title">The Pen <span>Archive</span></h1>
+    <p class="hero__subtitle" style="font-family: var(--font-ja);">
+      万年筆の全てを、ここに。
+    </p>
+  </section>
+
+  <!-- メインコンテンツ -->
+  <div class="container">
+    <!-- 簡易説明 -->
+    <div style="text-align: center; padding: var(--space-md) 0 var(--space-lg); border-bottom: 1px solid var(--color-border); margin-bottom: var(--space-lg);">
+      <p style="font-family: var(--font-ja); max-width: 600px; margin: 0 auto;">
+        パイロット、セーラー、プラチナの日本三大メーカーから、ペリカン、モンブランなどの欧州の名門まで。
+        世界の万年筆を網羅的に紹介するデータベースです。
+      </p>
+    </div>
+
+    <!-- 万年筆グリッド -->
+    <div class="item-grid">
+      {pensData.map((pen) => (
+        <a href={`/pens/${pen.id}/`} class="item-card">
+          <img src={pen.image} alt={pen.nameJa} class="item-card__image" loading="lazy" />
+          <div class="item-card__body">
+            <p class="item-card__type">{pen.category}</p>
+            <h3 class="item-card__name" style="font-family: var(--font-ja);">{pen.nameJa}</h3>
+            <p class="item-card__brand">{brandMap[pen.brand] || pen.brand}</p>
+            <div class="item-card__meta">
+              <span class="item-card__tag">{pen.nibMaterial}</span>
+              <span class="item-card__tag">{pen.fillingSystem}</span>
+              <span class="item-card__price">${pen.price}</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <!-- 英語版への誘導 -->
+    <div style="text-align: center; padding: var(--space-xl) 0;">
+      <a href="/" class="btn">View Full English Site</a>
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,20 @@
+# ビルド出力
+dist/
+
+# 依存パッケージ
+node_modules/
+
+# 環境変数
+.env
+.env.*
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+
+# Astro
+.astro/

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- 汎用プレースホルダー画像 -->
+  <rect width="400" height="300" fill="#2D2D2D"/>
+
+  <!-- ペン先アイコン（中央） -->
+  <g transform="translate(175, 100)">
+    <path d="M25 0 L15 60 L25 80 L35 60 Z" fill="#8B6914" opacity="0.3" stroke="#8B6914" stroke-width="1"/>
+    <line x1="25" y1="15" x2="25" y2="65" stroke="#8B6914" stroke-width="0.8" opacity="0.4"/>
+    <circle cx="25" cy="20" r="2" fill="#2D2D2D" stroke="#8B6914" stroke-width="0.5"/>
+  </g>
+
+  <!-- テキスト -->
+  <text x="200" y="230" text-anchor="middle" font-family="DM Sans, sans-serif" font-size="12" fill="#666">
+    Image Coming Soon
+  </text>
+</svg>
