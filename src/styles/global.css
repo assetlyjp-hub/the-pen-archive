@@ -68,8 +68,16 @@ p { font-size: 0.95rem; line-height: 1.8; color: var(--color-text-sub); }
 .site-header__nav a:hover::after { width: 100%; }
 .lang-switch { padding: 0.3rem 0.6rem; border: 1px solid var(--color-border); border-radius: var(--radius-sm); font-size: 0.75rem; transition: border-color var(--transition-base); }
 .lang-switch:hover { border-color: var(--color-accent); }
-.site-header__menu-toggle { display: none; flex-direction: column; gap: 5px; padding: 4px; }
-.site-header__menu-toggle span { display: block; width: 24px; height: 2px; background: var(--color-text); transition: all var(--transition-base); }
+.site-header__menu-toggle { display: none; flex-direction: column; gap: 5px; padding: 4px; cursor: pointer; z-index: 301; position: relative; }
+.site-header__menu-toggle span { display: block; width: 24px; height: 2px; background: var(--color-text); transition: all var(--transition-base); transform-origin: center; }
+/* ハンバーガー → X アニメーション */
+.site-header__menu-toggle.is-open span:nth-child(1) { transform: translateY(3.5px) rotate(45deg); }
+.site-header__menu-toggle.is-open span:nth-child(2) { opacity: 0; }
+.site-header__menu-toggle.is-open span:nth-child(3) { transform: translateY(-3.5px) rotate(-45deg); }
+/* メニューオーバーレイ */
+.menu-overlay { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.4); z-index: 199; opacity: 0; transition: opacity var(--transition-base); }
+.menu-overlay.is-open { display: block; opacity: 1; }
+body.menu-open { overflow: hidden; }
 
 .site-footer { border-top: 1px solid var(--color-border); padding: var(--space-lg) var(--space-md); text-align: center; }
 .site-footer__inner { max-width: var(--container-max); margin: 0 auto; }
@@ -145,6 +153,9 @@ p { font-size: 0.95rem; line-height: 1.8; color: var(--color-text-sub); }
 .rating-bar__fill { height: 100%; background: var(--color-accent); border-radius: 4px; transition: width var(--transition-slow); }
 .rating-bar__value { font-size: 0.8rem; color: var(--color-accent); font-weight: 600; min-width: 30px; text-align: right; }
 
+/* 記事の「戻る」リンク */
+.article-back-link { font-size: 0.85rem; color: var(--color-text-sub); text-decoration: none; transition: color var(--transition-base); }
+.article-back-link:hover { color: var(--color-accent); }
 .article-layout { max-width: var(--container-narrow); margin: 0 auto; padding: var(--space-xl) var(--space-md); }
 .article-layout h1 { font-size: clamp(1.5rem, 4vw, 2.2rem); line-height: 1.4; margin-bottom: var(--space-md); }
 .article-layout h2 { font-size: 1.4rem; margin-top: var(--space-lg); margin-bottom: var(--space-sm); padding-bottom: var(--space-xs); border-bottom: 1px solid var(--color-border); }

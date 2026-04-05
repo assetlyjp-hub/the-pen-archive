@@ -9,6 +9,7 @@ interface Props {
   ogImage?: string;       // OGP画像のURL
   type?: string;          // ページタイプ（website / article）
   jaPath?: string;        // 日本語版ページのパス（hreflang用）
+  enPath?: string;        // 英語版ページのパス（日本語ページから英語に戻る用）
   jsonLd?: object;        // 追加のJSON-LD構造化データ
 }
 
@@ -19,8 +20,12 @@ const {
   ogImage = '/images/pens/placeholder.svg',
   type = 'website',
   jaPath = '/ja/',
+  enPath,
   jsonLd,
 } = Astro.props;
+
+// 英語版か日本語版かを判定（enPathが渡されたら日本語ページ）
+const isJa = !!enPath;
 
 // ページのフルタイトル（トップページ以外はサイト名を付与）
 const fullTitle = title === 'The Pen Archive'
@@ -117,8 +122,12 @@ import '../styles/global.css';
         <a href="/compare/">Compare</a>
         <a href="/magazine/">Magazine</a>
         <a href="/about/">About</a>
-        <!-- 言語切り替え（日本語版へ） -->
-        <a href={jaPath} class="lang-switch" title="日本語">JA</a>
+        <!-- 言語切り替え（日本語版 ⇔ 英語版） -->
+        {isJa ? (
+          <a href={enPath} class="lang-switch" title="English">EN</a>
+        ) : (
+          <a href={jaPath} class="lang-switch" title="日本語">JA</a>
+        )}
       </nav>
 
       <!-- モバイルメニューボタン -->
@@ -129,6 +138,9 @@ import '../styles/global.css';
       </button>
     </div>
   </header>
+
+  <!-- モバイルメニュー用オーバーレイ -->
+  <div class="menu-overlay" id="menu-overlay"></div>
 
   <!-- メインコンテンツ（各ページが差し込まれる） -->
   <main>
@@ -147,6 +159,15 @@ import '../styles/global.css';
         <a href="/about/">About</a>
         <a href="/privacy/">Privacy</a>
       </div>
+      <!-- Archive Series 姉妹サイトリン�� -->
+      <p class="site-footer__series" style="font-size: 0.7rem; color: var(--color-text-muted); margin-bottom: var(--space-sm); letter-spacing: 0.03em;">
+        Archive Series:
+        <a href="https://japaneseknifearchive.com" target="_blank" rel="noopener noreferrer" style="color: var(--color-text-muted);">Knives</a> &middot;
+        <strong>Pens</strong> &middot;
+        <a href="https://coffeegeararchive.com" target="_blank" rel="noopener noreferrer" style="color: var(--color-text-muted);">Coffee</a> &middot;
+        <a href="https://bootcraftarchive.com" target="_blank" rel="noopener noreferrer" style="color: var(--color-text-muted);">Boots</a> &middot;
+        <a href="https://thechairarchive.com" target="_blank" rel="noopener noreferrer" style="color: var(--color-text-muted);">Chairs</a>
+      </p>
       <p class="site-footer__text">
         &copy; {new Date().getFullYear()} Ichirin LLC. All rights reserved.
         <br />The Pen Archive is a participant in affiliate programs.
@@ -156,20 +177,29 @@ import '../styles/global.css';
 
   <!-- モバイルメニューの開閉スクリプト -->
   <script>
-    // メニューボタンとナビゲーションの要素を取得
     const menuToggle = document.getElementById('menu-toggle');
     const mainNav = document.getElementById('main-nav');
+    const menuOverlay = document.getElementById('menu-overlay');
 
-    // メニューボタンをクリックしたときの処理
-    menuToggle?.addEventListener('click', () => {
-      mainNav?.classList.toggle('is-open');
-    });
+    function toggleMenu() {
+      const isOpen = mainNav?.classList.toggle('is-open');
+      menuToggle?.classList.toggle('is-open', isOpen);
+      menuOverlay?.classList.toggle('is-open', isOpen);
+      document.body.classList.toggle('menu-open', isOpen);
+    }
 
-    // ナビリンクをクリックしたらメニューを閉じる
+    function closeMenu() {
+      mainNav?.classList.remove('is-open');
+      menuToggle?.classList.remove('is-open');
+      menuOverlay?.classList.remove('is-open');
+      document.body.classList.remove('menu-open');
+    }
+
+    menuToggle?.addEventListener('click', toggleMenu);
+    menuOverlay?.addEventListener('click', closeMenu);
+
     mainNav?.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        mainNav?.classList.remove('is-open');
-      });
+      link.addEventListener('click', closeMenu);
     });
   </script>
 </body>

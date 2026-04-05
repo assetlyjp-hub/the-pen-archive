@@ -30,8 +30,15 @@ const brandPens = pensData.filter(p => p.brand === id);
   title={`${brand.name} (${brand.nameJa})`}
   description={brand.description.slice(0, 160)}
 >
+  <!-- 一覧への戻りリンク -->
+  <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
+    <a href="/brands/" style="font-size: 0.85rem; color: var(--color-text-muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; transition: color 0.2s;">
+      <span>&larr;</span> Back to Brands
+    </a>
+  </div>
+
   <!-- ブランドヘッダー -->
-  <div class="page-header">
+  <div class="page-header" style="padding-top: var(--space-sm);">
     <h1 class="page-header__title">{brand.name}</h1>
     <p style="font-family: var(--font-ja); font-size: 1.1rem; color: var(--color-text-sub); margin-bottom: 0.5rem;">{brand.nameJa}</p>
     <p class="page-header__description">Est. {brand.founded} · {brand.country}</p>

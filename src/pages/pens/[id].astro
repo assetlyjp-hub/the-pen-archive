@@ -64,8 +64,15 @@ const productJsonLd = {
   description={pen.description.slice(0, 160)}
   jsonLd={productJsonLd}
 >
+  <!-- 一覧への戻りリンク -->
+  <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
+    <a href="/" style="font-size: 0.85rem; color: var(--color-text-muted); text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; transition: color 0.2s;">
+      <span>&larr;</span> Back to Pens
+    </a>
+  </div>
+
   <!-- 万年筆詳細ヘッダー -->
-  <div class="page-header">
+  <div class="page-header" style="padding-top: var(--space-sm);">
     <p style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); margin-bottom: 0.5rem; font-weight: 600;">
       {pen.category.charAt(0).toUpperCase() + pen.category.slice(1)} · {pen.nibMaterial}
     </p>
@@ -138,11 +145,13 @@ const productJsonLd = {
       </ul>
     </div>
 
-    <!-- 購入リンク -->
+    <!-- 購入リンク（URLがある場合のみ表示） -->
     <div style="padding: var(--space-md) 0 var(--space-lg);">
       <h2 style="margin-bottom: var(--space-md);">Where to Buy</h2>
       <div class="buy-links">
-        <a href={pen.amazonUrl || '#'} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon US</a>
+        {pen.amazonUrl && (
+          <a href={pen.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon US</a>
+        )}
         <a href={`https://www.amazon.co.jp/s?k=${encodeURIComponent(pen.name)}`} class="btn" target="_blank" rel="noopener noreferrer">Amazon JP</a>
         <a href={pen.rakutenUrl || `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(pen.nameJa)}/`} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
       </div>
