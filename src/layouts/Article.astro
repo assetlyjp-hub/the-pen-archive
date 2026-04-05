@@ -32,8 +32,13 @@ const categoryLabels: Record<string, string> = {
   description={description}
   type="article"
 >
+  <!-- 記事一覧へ戻るリンク（上部） -->
+  <div style="max-width: var(--container-narrow); margin: 0 auto; padding: calc(var(--space-2xl) + 60px) var(--space-md) 0;">
+    <a href="/magazine/" class="article-back-link">&larr; Back to Magazine</a>
+  </div>
+
   <!-- 記事ヘッダー -->
-  <div class="page-header">
+  <div class="page-header" style="padding-top: var(--space-md);">
     <p class="article-card__category">{categoryLabels[category] || category}</p>
     <h1 class="page-header__title">{title}</h1>
     <p class="page-header__description">
@@ -45,5 +50,10 @@ const categoryLabels: Record<string, string> = {
   <!-- 記事本文 -->
   <div class="article-layout">
     <slot />
+
+    <!-- 記事一覧へ戻るリンク（下部） -->
+    <nav style="margin-top: var(--space-xl); padding-top: var(--space-md); border-top: 1px solid var(--color-border);">
+      <a href="/magazine/" class="article-back-link">&larr; Back to Magazine</a>
+    </nav>
   </div>
 </Base>

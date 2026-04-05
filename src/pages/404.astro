@@ -1,0 +1,21 @@
+---
+// 404.astro - ページが見つからない場合のエラーページ
+import Base from '../layouts/Base.astro';
+---
+
+<Base
+  title="Page Not Found"
+  description="The page you are looking for does not exist."
+>
+  <div class="page-header">
+    <h1 class="page-header__title">404</h1>
+    <p class="page-header__description">Page Not Found</p>
+  </div>
+
+  <div class="container container--narrow" style="text-align: center; padding-bottom: var(--space-xl);">
+    <p style="margin-bottom: var(--space-lg); line-height: 1.9; color: var(--color-text-sub);">
+      The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+    </p>
+    <a href="/" class="btn btn--filled">Back to Pens</a>
+  </div>
+</Base>
