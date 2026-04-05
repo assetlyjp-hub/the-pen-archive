@@ -1,9 +1,12 @@
 ---
 // magazine/[...slug].astro - 記事詳細ページ
 // Markdownの記事をレンダリングして表示
+// 記事本文に登場するペンの商品カードも表示する
 
 import Article from '../../layouts/Article.astro';
+import RelatedProducts from '../../components/RelatedProducts.astro';
 import { getCollection, render } from 'astro:content';
+import pensData from '../../data/pens.json';
 
 // 静的パス生成（全記事からパスを生成）
 export async function getStaticPaths() {
@@ -19,6 +22,22 @@ const { article } = Astro.props;
 
 // MarkdownをHTMLにレンダリング
 const { Content } = await render(article);
+
+// --- ペン名マッチング ---
+// 記事本文（Markdownソース）からペン名を検索し、該当するペンを抽出
+// article.body にMarkdownの生テキストが入っている
+const articleBody = article.body || '';
+
+// 各ペンの名前が記事本文に含まれているかチェック（最大5件）
+const matchedPens = pensData
+  .filter((pen) => {
+    // ペン名（英語）が記事本文に含まれているか
+    // 大文字小文字を区別しない検索
+    const bodyLower = articleBody.toLowerCase();
+    const nameLower = pen.name.toLowerCase();
+    return bodyLower.includes(nameLower);
+  })
+  .slice(0, 5); // 最大5件に制限
 ---
 
 <Article
@@ -30,4 +49,7 @@ const { Content } = await render(article);
   tags={article.data.tags}
 >
   <Content />
+
+  {/* 記事内で紹介されているペンの商品カード */}
+  <RelatedProducts pens={matchedPens} />
 </Article>
