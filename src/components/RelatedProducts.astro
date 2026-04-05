@@ -1,0 +1,100 @@
+---
+// RelatedProducts.astro - 記事内で紹介されているペンの商品カードを表示
+// 記事本文にペン名が含まれている場合、対応する商品カードを表示する
+
+// ペンデータの型定義
+interface Pen {
+  id: string;
+  name: string;
+  nameJa: string;
+  brand: string;
+  material: string;
+  nibMaterial: string;
+  nibSizes: string[];
+  fillingSystem: string;
+  weight: number;
+  price: number;
+  priceRange: string;
+  category: string;
+  image: string;
+  amazonUrl: string;
+  rakutenUrl: string;
+  description: string;
+  descriptionJa: string;
+  features: string[];
+  featuresJa: string[];
+}
+
+interface Props {
+  pens: Pen[];  // マッチしたペンの配列
+}
+
+const { pens } = Astro.props;
+
+// 吸入方式の表示名マッピング
+const fillingLabels: Record<string, string> = {
+  vacuum: 'Vacuum',
+  converter: 'Cartridge/Converter',
+  piston: 'Piston',
+  'cartridge-only': 'Cartridge',
+  eyedropper: 'Eyedropper',
+};
+---
+
+{/* ペンが1つ以上マッチした場合のみセクションを表示 */}
+{pens.length > 0 && (
+  <section class="related-products">
+    <h2 class="related-products__title">🖊️ Featured Pens in This Article</h2>
+    <div class="related-products__grid">
+      {pens.map((pen) => (
+        <div class="related-products__card">
+          {/* ペン画像 */}
+          <div class="related-products__image">
+            <img src={pen.image} alt={pen.name} loading="lazy" />
+          </div>
+
+          {/* ペン情報 */}
+          <div class="related-products__info">
+            {/* ペン名（英語名 + 日本語名） */}
+            <h3 class="related-products__name">
+              <a href={`/pens/${pen.id}/`}>{pen.name}</a>
+            </h3>
+            {pen.nameJa && (
+              <p class="related-products__meta">{pen.nameJa}</p>
+            )}
+
+            {/* ブランド名 */}
+            <p class="related-products__meta">
+              {pen.brand.charAt(0).toUpperCase() + pen.brand.slice(1)}
+            </p>
+
+            {/* 価格 */}
+            <p class="related-products__price">${pen.price}</p>
+
+            {/* ニブ素材・吸入方式 */}
+            <p class="related-products__materials">
+              {pen.nibMaterial} · {fillingLabels[pen.fillingSystem] || pen.fillingSystem}
+            </p>
+
+            {/* リンクボタン */}
+            <div class="related-products__links">
+              <a href={`/pens/${pen.id}/`} class="related-products__btn related-products__btn--detail">
+                View Details
+              </a>
+              {pen.amazonUrl && (
+                <a href={pen.amazonUrl} class="related-products__btn related-products__btn--amazon" target="_blank" rel="noopener noreferrer">
+                  Amazon
+                </a>
+              )}
+              {pen.rakutenUrl && (
+                <a href={pen.rakutenUrl} class="related-products__btn related-products__btn--rakuten" target="_blank" rel="noopener noreferrer">
+                  Rakuten
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
