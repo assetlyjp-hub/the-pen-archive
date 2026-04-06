@@ -4,6 +4,7 @@ description: "Discover the best fountain pens for beginners in 2026. From the $5
 category: "review"
 tags: ["beginner", "buying guide", "budget", "first pen"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 articleType: "listicle"
 ---
 

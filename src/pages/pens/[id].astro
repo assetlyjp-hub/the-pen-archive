@@ -40,6 +40,7 @@ const productJsonLd = {
   "@type": "Product",
   "name": pen.name,
   "description": pen.description,
+  "image": new URL(pen.image, Astro.site).href,
   "brand": {
     "@type": "Brand",
     "name": brand?.name || pen.brand,

@@ -1,0 +1,42 @@
+---
+// ja/magazine/[...slug].astro - 日本語版 記事詳細ページ
+import Article from '../../../layouts/Article.astro';
+import RelatedProducts from '../../../components/RelatedProducts.astro';
+import { getCollection, render } from 'astro:content';
+import pensData from '../../../data/pens.json';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles
+    .filter(a => a.id.startsWith('ja/'))
+    .map((article) => ({
+      params: { slug: article.id.replace('ja/', '') },
+      props: { article },
+    }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+// 記事本文からペン名マッチング
+const articleBody = article.body || '';
+const matchedPens = pensData
+  .filter((pen) => {
+    const bodyLower = articleBody.toLowerCase();
+    const nameLower = pen.name.toLowerCase();
+    return bodyLower.includes(nameLower);
+  })
+  .slice(0, 5);
+---
+
+<Article
+  title={article.data.title}
+  description={article.data.description}
+  category={article.data.category}
+  publishedAt={article.data.publishedAt}
+  updatedAt={article.data.updatedAt}
+  tags={article.data.tags}
+>
+  <Content />
+  <RelatedProducts pens={matchedPens} />
+</Article>

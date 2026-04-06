@@ -6,19 +6,34 @@
     "brand": "pilot",
     "material": "Resin (Smoke/Amber/Clear)",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["F", "FM", "M", "B"],
+    "nibSizes": [
+      "F",
+      "FM",
+      "M",
+      "B"
+    ],
     "fillingSystem": "vacuum",
     "weight": 29,
     "price": 270,
     "priceRange": "luxury",
     "category": "professional",
-    "features": ["Vacuum filling system with large ink capacity", "14K gold nib with exceptional smoothness", "Demonstrator-style barrel shows ink level", "Perfectly balanced weight distribution"],
-    "featuresJa": ["大容量バキューム吸入機構", "14金ペン先の滑らかな書き味", "デモンストレータースタイルでインク残量が見える", "完璧な重量バランス"],
+    "features": [
+      "Vacuum filling system with large ink capacity",
+      "14K gold nib with exceptional smoothness",
+      "Demonstrator-style barrel shows ink level",
+      "Perfectly balanced weight distribution"
+    ],
+    "featuresJa": [
+      "大容量バキューム吸入機構",
+      "14金ペン先の滑らかな書き味",
+      "デモンストレータースタイルでインク残量が見える",
+      "完璧な重量バランス"
+    ],
     "description": "The Pilot Custom 823 is widely regarded as one of the best fountain pens under $300. Its vacuum filling system provides exceptional ink capacity, while the 14K gold nib delivers buttery-smooth writing. Available in smoke, amber, and clear finishes.",
     "descriptionJa": "パイロット カスタム823は300ドル以下の万年筆として最高峰と評される一本。バキューム吸入方式による大容量インクと、14金ペン先の滑らかな書き味が特徴。",
     "amazonUrl": "https://amzn.to/4vbNwIh",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pilot-custom-823.webp"
   },
   {
     "id": "pilot-custom-742",
@@ -27,19 +42,45 @@
     "brand": "pilot",
     "material": "Resin (Black)",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "FM", "M", "B", "BB", "FA", "SF", "SFM", "SM", "PO", "WA", "SU", "MS", "C"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "FM",
+      "M",
+      "B",
+      "BB",
+      "FA",
+      "SF",
+      "SFM",
+      "SM",
+      "PO",
+      "WA",
+      "SU",
+      "MS",
+      "C"
+    ],
     "fillingSystem": "converter",
     "weight": 23,
     "price": 200,
     "priceRange": "mid-high",
     "category": "professional",
-    "features": ["Widest nib selection of any fountain pen (15 options)", "14K gold nib", "Classic cigar-shaped design", "CON-70 converter included"],
-    "featuresJa": ["万年筆最多の15種類のペン先バリエーション", "14金ペン先", "クラシックな葉巻型デザイン", "CON-70コンバーター付属"],
+    "features": [
+      "Widest nib selection of any fountain pen (15 options)",
+      "14K gold nib",
+      "Classic cigar-shaped design",
+      "CON-70 converter included"
+    ],
+    "featuresJa": [
+      "万年筆最多の15種類のペン先バリエーション",
+      "14金ペン先",
+      "クラシックな葉巻型デザイン",
+      "CON-70コンバーター付属"
+    ],
     "description": "The Pilot Custom 742 offers an unmatched 15 nib options including specialty nibs like Falcon (FA), Posting (PO), and Waverly (WA). A workhorse pen for serious writers who want the perfect nib.",
     "descriptionJa": "パイロット カスタム742は、FA（フォルカン）やWA（ウェーバリー）など15種類のペン先から選べる万年筆。こだわりの書き味を求める方に。",
     "amazonUrl": "https://amzn.to/3O8KHXP",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pilot-custom-742.webp"
   },
   {
     "id": "pilot-metropolitan",
@@ -48,19 +89,32 @@
     "brand": "pilot",
     "material": "Brass with lacquer finish",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["F", "M"],
+    "nibSizes": [
+      "F",
+      "M"
+    ],
     "fillingSystem": "converter",
     "weight": 27,
     "price": 20,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Best entry-level fountain pen", "Metal body feels premium at budget price", "Smooth stainless steel nib", "Squeeze converter included"],
-    "featuresJa": ["最高の入門用万年筆", "低価格でも金属ボディの高級感", "滑らかなステンレスペン先", "スクイズコンバーター付属"],
+    "features": [
+      "Best entry-level fountain pen",
+      "Metal body feels premium at budget price",
+      "Smooth stainless steel nib",
+      "Squeeze converter included"
+    ],
+    "featuresJa": [
+      "最高の入門用万年筆",
+      "低価格でも金属ボディの高級感",
+      "滑らかなステンレスペン先",
+      "スクイズコンバーター付属"
+    ],
     "description": "The Pilot Metropolitan is the gold standard for beginner fountain pens. Its brass body with lacquer finish feels far more expensive than its $20 price tag, and the stainless steel nib writes smoothly out of the box.",
     "descriptionJa": "パイロット メトロポリタンは初心者向け万年筆の決定版。20ドルとは思えない金属ボディと、箱出しから滑らかなペン先が魅力。",
     "amazonUrl": "https://amzn.to/4dNXYzN",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pilot-metropolitan.webp"
   },
   {
     "id": "pilot-vanishing-point",
@@ -69,19 +123,34 @@
     "brand": "pilot",
     "material": "Brass with lacquer finish",
     "nibMaterial": "18K Gold",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "converter",
     "weight": 30,
     "price": 180,
     "priceRange": "mid-high",
     "category": "professional",
-    "features": ["Revolutionary retractable nib mechanism", "18K gold nib", "Click-action convenience", "Perfect for quick note-taking"],
-    "featuresJa": ["革新的なノック式万年筆", "18金ペン先", "ワンクリックで即書ける利便性", "素早いメモ取りに最適"],
+    "features": [
+      "Revolutionary retractable nib mechanism",
+      "18K gold nib",
+      "Click-action convenience",
+      "Perfect for quick note-taking"
+    ],
+    "featuresJa": [
+      "革新的なノック式万年筆",
+      "18金ペン先",
+      "ワンクリックで即書ける利便性",
+      "素早いメモ取りに最適"
+    ],
     "description": "The Pilot Vanishing Point revolutionized fountain pens with its retractable nib mechanism. Click to write, click to retract — no cap to fiddle with. The 18K gold nib offers excellent performance in a uniquely practical design.",
     "descriptionJa": "パイロット キャップレスはノック式万年筆の元祖。キャップ不要でワンクリック書き出し。18金ペン先の書き味も一級品。",
     "amazonUrl": "https://amzn.to/4vbhn3L",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pilot-vanishing-point.webp"
   },
   {
     "id": "pilot-e95s",
@@ -90,19 +159,33 @@
     "brand": "pilot",
     "material": "Resin with metal trim",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "M"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M"
+    ],
     "fillingSystem": "converter",
     "weight": 19,
     "price": 160,
     "priceRange": "mid-high",
     "category": "everyday",
-    "features": ["Compact pocket pen design", "Inlaid 14K gold nib", "Elegant retro styling", "Lightweight and portable"],
-    "featuresJa": ["コンパクトなポケットペン", "埋め込み式14金ペン先", "エレガントなレトロデザイン", "軽量で携帯性抜群"],
+    "features": [
+      "Compact pocket pen design",
+      "Inlaid 14K gold nib",
+      "Elegant retro styling",
+      "Lightweight and portable"
+    ],
+    "featuresJa": [
+      "コンパクトなポケットペン",
+      "埋め込み式14金ペン先",
+      "エレガントなレトロデザイン",
+      "軽量で携帯性抜群"
+    ],
     "description": "The Pilot E95s is a beautifully crafted pocket pen with an inlaid 14K gold nib. Its compact size makes it perfect for carrying everywhere, while the retro-modern design turns heads.",
     "descriptionJa": "パイロット E95sはインレイド14金ペン先を備えたポケットペン。コンパクトで携帯性に優れ、レトロモダンなデザインが魅力。",
     "amazonUrl": "https://amzn.to/3Q1kjzJ",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pilot-e95s.webp"
   },
   {
     "id": "sailor-pro-gear",
@@ -111,19 +194,36 @@
     "brand": "sailor",
     "material": "PMMA Resin",
     "nibMaterial": "21K Gold",
-    "nibSizes": ["EF", "F", "MF", "M", "B", "Z"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "MF",
+      "M",
+      "B",
+      "Z"
+    ],
     "fillingSystem": "converter",
     "weight": 25,
     "price": 240,
     "priceRange": "luxury",
     "category": "professional",
-    "features": ["Famous 21K gold nib with pencil-like feedback", "Flat-top cigar design", "Wide range of limited edition colors", "Excellent build quality"],
-    "featuresJa": ["鉛筆のようなフィードバックが特徴の21金ペン先", "フラットトップのシガーデザイン", "豊富な限定カラーバリエーション", "優れた品質管理"],
+    "features": [
+      "Famous 21K gold nib with pencil-like feedback",
+      "Flat-top cigar design",
+      "Wide range of limited edition colors",
+      "Excellent build quality"
+    ],
+    "featuresJa": [
+      "鉛筆のようなフィードバックが特徴の21金ペン先",
+      "フラットトップのシガーデザイン",
+      "豊富な限定カラーバリエーション",
+      "優れた品質管理"
+    ],
     "description": "The Sailor Pro Gear is beloved for its distinctive 21K gold nib that provides satisfying pencil-like feedback. The flat-top design is iconic, and Sailor releases a constant stream of stunning limited edition colors.",
     "descriptionJa": "セーラー プロフェッショナルギアは21金ペン先の独特のフィードバックが魅力。フラットトップデザインと豊富な限定カラーで世界中にファンを持つ。",
     "amazonUrl": "https://amzn.to/4sl1sNJ",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/sailor-pro-gear.webp"
   },
   {
     "id": "sailor-pro-gear-slim",
@@ -132,19 +232,35 @@
     "brand": "sailor",
     "material": "PMMA Resin",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "MF", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "MF",
+      "M",
+      "B"
+    ],
     "fillingSystem": "converter",
     "weight": 20,
     "price": 160,
     "priceRange": "mid-high",
     "category": "everyday",
-    "features": ["Slimmer version of the Pro Gear", "14K gold nib with Sailor feedback", "More affordable entry to Sailor", "Same iconic flat-top design"],
-    "featuresJa": ["プロギアのスリムバージョン", "14金ペン先でもセーラーらしい書き味", "セーラー入門に最適な価格帯", "同じフラットトップデザイン"],
+    "features": [
+      "Slimmer version of the Pro Gear",
+      "14K gold nib with Sailor feedback",
+      "More affordable entry to Sailor",
+      "Same iconic flat-top design"
+    ],
+    "featuresJa": [
+      "プロギアのスリムバージョン",
+      "14金ペン先でもセーラーらしい書き味",
+      "セーラー入門に最適な価格帯",
+      "同じフラットトップデザイン"
+    ],
     "description": "The Pro Gear Slim offers the Sailor writing experience in a more compact and affordable package. The 14K gold nib still delivers that characteristic Sailor feedback, and the slim profile is comfortable for smaller hands.",
     "descriptionJa": "プロギア スリムはよりコンパクトで手頃な価格でセーラーの書き味を楽しめる一本。14金ペン先でもセーラーらしいフィードバックを実感できる。",
     "amazonUrl": "https://amzn.to/4vd9M4I",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/sailor-pro-gear-slim.webp"
   },
   {
     "id": "sailor-1911l",
@@ -153,19 +269,36 @@
     "brand": "sailor",
     "material": "PMMA Resin",
     "nibMaterial": "21K Gold",
-    "nibSizes": ["EF", "F", "MF", "M", "B", "Z"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "MF",
+      "M",
+      "B",
+      "Z"
+    ],
     "fillingSystem": "converter",
     "weight": 25,
     "price": 240,
     "priceRange": "luxury",
     "category": "professional",
-    "features": ["Rounded traditional design", "21K gold nib identical to Pro Gear", "Classic black and gold aesthetic", "Full-size body for comfortable writing"],
-    "featuresJa": ["丸みを帯びた伝統的なデザイン", "プロギアと同じ21金ペン先", "クラシックな黒×金の美学", "快適な書き心地のフルサイズボディ"],
+    "features": [
+      "Rounded traditional design",
+      "21K gold nib identical to Pro Gear",
+      "Classic black and gold aesthetic",
+      "Full-size body for comfortable writing"
+    ],
+    "featuresJa": [
+      "丸みを帯びた伝統的なデザイン",
+      "プロギアと同じ21金ペン先",
+      "クラシックな黒×金の美学",
+      "快適な書き心地のフルサイズボディ"
+    ],
     "description": "The Sailor 1911 Large (Profit 21) features the same exceptional 21K gold nib as the Pro Gear in a more traditional rounded design. If you love Sailor nibs but prefer a classic look, this is your pen.",
     "descriptionJa": "セーラー プロフィット21はプロギアと同じ21金ペン先を、より伝統的な丸みのあるデザインに搭載。クラシックな万年筆の美しさを求める方に。",
     "amazonUrl": "https://amzn.to/4mlJTLZ",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/sailor-1911l.webp"
   },
   {
     "id": "sailor-king-of-pen",
@@ -174,19 +307,33 @@
     "brand": "sailor",
     "material": "Ebonite",
     "nibMaterial": "21K Gold (Large)",
-    "nibSizes": ["M", "B", "Z"],
+    "nibSizes": [
+      "M",
+      "B",
+      "Z"
+    ],
     "fillingSystem": "converter",
     "weight": 36,
     "price": 800,
     "priceRange": "premium",
     "category": "collector",
-    "features": ["Oversized flagship pen", "Large 21K gold nib for maximum expression", "Ebonite body for warmth and grip", "The ultimate Sailor experience"],
-    "featuresJa": ["大型フラッグシップモデル", "大型21金ペン先で最大限の表現力", "温かみのあるエボナイトボディ", "セーラーの最高峰"],
+    "features": [
+      "Oversized flagship pen",
+      "Large 21K gold nib for maximum expression",
+      "Ebonite body for warmth and grip",
+      "The ultimate Sailor experience"
+    ],
+    "featuresJa": [
+      "大型フラッグシップモデル",
+      "大型21金ペン先で最大限の表現力",
+      "温かみのあるエボナイトボディ",
+      "セーラーの最高峰"
+    ],
     "description": "The Sailor King of Pen is the ultimate expression of Sailor craftsmanship. Its oversized 21K gold nib provides an unmatched writing experience with incredible line variation and buttery smoothness.",
     "descriptionJa": "セーラー キングオブペンはセーラーの技術の粋を集めた最高峰モデル。大型21金ペン先が生み出す書き味は比類なき滑らかさ。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/sailor-king-of-pen.webp"
   },
   {
     "id": "platinum-3776-century",
@@ -195,19 +342,38 @@
     "brand": "platinum",
     "material": "PMMA Resin",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["UEF", "EF", "F", "SF", "M", "B", "C", "MS"],
+    "nibSizes": [
+      "UEF",
+      "EF",
+      "F",
+      "SF",
+      "M",
+      "B",
+      "C",
+      "MS"
+    ],
     "fillingSystem": "converter",
     "weight": 20,
     "price": 100,
     "priceRange": "mid",
     "category": "everyday",
-    "features": ["Slip & Seal cap prevents ink drying for 2 years", "14K gold nib at exceptional value", "Named after Mount Fuji's height (3776m)", "Ultra Extra Fine nib available"],
-    "featuresJa": ["スリップ＆シール機構でインク乾燥を2年間防止", "コスパ抜群の14金ペン先", "富士山の高さ（3776m）に由来", "超極細（UEF）ペン先あり"],
+    "features": [
+      "Slip & Seal cap prevents ink drying for 2 years",
+      "14K gold nib at exceptional value",
+      "Named after Mount Fuji's height (3776m)",
+      "Ultra Extra Fine nib available"
+    ],
+    "featuresJa": [
+      "スリップ＆シール機構でインク乾燥を2年間防止",
+      "コスパ抜群の14金ペン先",
+      "富士山の高さ（3776m）に由来",
+      "超極細（UEF）ペン先あり"
+    ],
     "description": "The Platinum #3776 Century offers incredible value with its 14K gold nib and innovative Slip & Seal cap that prevents ink from drying for up to 2 years. Named after Mount Fuji's height, it's a Japanese classic.",
     "descriptionJa": "プラチナ #3776 センチュリーは14金ペン先とスリップ＆シール機構を備えたコスパ最強モデル。富士山の高さに由来する名前を持つ日本の名作。",
     "amazonUrl": "https://amzn.to/47HhtGc",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/platinum-3776-century.webp"
   },
   {
     "id": "platinum-president",
@@ -216,19 +382,33 @@
     "brand": "platinum",
     "material": "PMMA Resin",
     "nibMaterial": "18K Gold",
-    "nibSizes": ["F", "M", "B"],
+    "nibSizes": [
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "converter",
     "weight": 30,
     "price": 350,
     "priceRange": "luxury",
     "category": "luxury",
-    "features": ["18K gold nib upgrade", "Premium version of the #3776", "Heavier, more substantial feel", "Slip & Seal cap mechanism"],
-    "featuresJa": ["18金ペン先にアップグレード", "#3776のプレミアムバージョン", "より重厚な書き心地", "スリップ＆シール機構搭載"],
+    "features": [
+      "18K gold nib upgrade",
+      "Premium version of the #3776",
+      "Heavier, more substantial feel",
+      "Slip & Seal cap mechanism"
+    ],
+    "featuresJa": [
+      "18金ペン先にアップグレード",
+      "#3776のプレミアムバージョン",
+      "より重厚な書き心地",
+      "スリップ＆シール機構搭載"
+    ],
     "description": "The Platinum President is the premium sibling of the #3776 Century, featuring an 18K gold nib and a more substantial body. It offers a noticeably richer writing experience.",
     "descriptionJa": "プラチナ プレジデントは#3776 センチュリーの上位モデル。18金ペン先とより重厚なボディで、格上の書き味を実現。",
     "amazonUrl": "https://amzn.to/4sUWokj",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/platinum-president.webp"
   },
   {
     "id": "platinum-preppy",
@@ -237,19 +417,33 @@
     "brand": "platinum",
     "material": "Polycarbonate",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M"
+    ],
     "fillingSystem": "cartridge",
     "weight": 13,
     "price": 5,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Incredible value at under $5", "Slip & Seal cap prevents drying", "Clear demonstrator body", "Perfect first fountain pen"],
-    "featuresJa": ["500円以下の驚異的コスパ", "スリップ＆シール機構搭載", "クリアなデモンストレーターボディ", "初めての万年筆に最適"],
+    "features": [
+      "Incredible value at under $5",
+      "Slip & Seal cap prevents drying",
+      "Clear demonstrator body",
+      "Perfect first fountain pen"
+    ],
+    "featuresJa": [
+      "500円以下の驚異的コスパ",
+      "スリップ＆シール機構搭載",
+      "クリアなデモンストレーターボディ",
+      "初めての万年筆に最適"
+    ],
     "description": "The Platinum Preppy proves that great fountain pens don't have to be expensive. At under $5, it offers the same Slip & Seal cap technology as Platinum's premium pens and writes remarkably well.",
     "descriptionJa": "プラチナ プレピーは500円以下で上位モデルと同じスリップ＆シール機構を搭載。驚異的なコスパの初心者向け万年筆。",
     "amazonUrl": "https://amzn.to/4sbEoRv",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/platinum-preppy.webp"
   },
   {
     "id": "lamy-2000",
@@ -258,19 +452,36 @@
     "brand": "lamy",
     "material": "Makrolon (fiberglass-reinforced resin)",
     "nibMaterial": "14K Gold (hooded)",
-    "nibSizes": ["EF", "F", "M", "B", "OB", "OM"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "OB",
+      "OM"
+    ],
     "fillingSystem": "piston",
     "weight": 25,
     "price": 250,
     "priceRange": "luxury",
     "category": "professional",
-    "features": ["Bauhaus design classic since 1966", "Hooded 14K gold nib", "Piston filling system", "Makrolon body with brushed stainless steel clip"],
-    "featuresJa": ["1966年以来のバウハウスデザインの名作", "フード式14金ペン先", "ピストン吸入式", "マクロロンボディとブラッシュドステンレスクリップ"],
+    "features": [
+      "Bauhaus design classic since 1966",
+      "Hooded 14K gold nib",
+      "Piston filling system",
+      "Makrolon body with brushed stainless steel clip"
+    ],
+    "featuresJa": [
+      "1966年以来のバウハウスデザインの名作",
+      "フード式14金ペン先",
+      "ピストン吸入式",
+      "マクロロンボディとブラッシュドステンレスクリップ"
+    ],
     "description": "The LAMY 2000 is a Bauhaus masterpiece that has remained virtually unchanged since 1966. Its hooded 14K gold nib, piston filling system, and timeless Makrolon body make it a desert-island pen for many enthusiasts.",
     "descriptionJa": "ラミー 2000は1966年から変わらないバウハウスの名作。フード式14金ペン先とピストン吸入式を備えた、多くの愛好家が最後の一本に選ぶ万年筆。",
     "amazonUrl": "https://amzn.to/4txuzhR",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/lamy-2000.webp"
   },
   {
     "id": "lamy-safari",
@@ -279,19 +490,34 @@
     "brand": "lamy",
     "material": "ABS Resin",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "cartridge",
     "weight": 16,
     "price": 30,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Iconic triangular grip section", "Swappable nib system", "Huge range of annual special colors", "Perfect for students and beginners"],
-    "featuresJa": ["アイコニックな三角グリップ", "交換可能なペン先システム", "毎年の限定カラーが豊富", "学生・初心者に最適"],
+    "features": [
+      "Iconic triangular grip section",
+      "Swappable nib system",
+      "Huge range of annual special colors",
+      "Perfect for students and beginners"
+    ],
+    "featuresJa": [
+      "アイコニックな三角グリップ",
+      "交換可能なペン先システム",
+      "毎年の限定カラーが豊富",
+      "学生・初心者に最適"
+    ],
     "description": "The LAMY Safari is one of the most popular fountain pens in the world. Its triangular grip section naturally guides correct pen hold, and the easy-swap nib system lets you try different sizes without buying a new pen.",
     "descriptionJa": "ラミー サファリは世界で最も人気のある万年筆の一つ。三角グリップが正しいペンの持ち方をガイドし、ペン先交換も簡単。",
     "amazonUrl": "https://amzn.to/4tOkjSz",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/lamy-safari.webp"
   },
   {
     "id": "lamy-al-star",
@@ -300,19 +526,34 @@
     "brand": "lamy",
     "material": "Anodized Aluminum",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "cartridge",
     "weight": 22,
     "price": 38,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Aluminum body upgrade of Safari", "Same triangular grip", "More premium feel than Safari", "Transparent grip shows ink flow"],
-    "featuresJa": ["サファリのアルミニウムアップグレード版", "同じ三角グリップ", "サファリより高級感のある仕上げ", "透明グリップでインクの流れが見える"],
+    "features": [
+      "Aluminum body upgrade of Safari",
+      "Same triangular grip",
+      "More premium feel than Safari",
+      "Transparent grip shows ink flow"
+    ],
+    "featuresJa": [
+      "サファリのアルミニウムアップグレード版",
+      "同じ三角グリップ",
+      "サファリより高級感のある仕上げ",
+      "透明グリップでインクの流れが見える"
+    ],
     "description": "The LAMY Al-Star takes the beloved Safari design and upgrades it with an anodized aluminum body. The transparent grip section adds visual interest while maintaining the same excellent ergonomics.",
     "descriptionJa": "ラミー アルスターはサファリのアルミニウムアップグレード版。アノダイズド加工のボディと透明グリップで高級感をプラス。",
     "amazonUrl": "https://amzn.to/4sqwC6s",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/lamy-al-star.webp"
   },
   {
     "id": "lamy-dialog-3",
@@ -321,19 +562,34 @@
     "brand": "lamy",
     "material": "Lacquered Brass",
     "nibMaterial": "14K Gold (hooded)",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "converter",
     "weight": 42,
     "price": 350,
     "priceRange": "luxury",
     "category": "luxury",
-    "features": ["Twist-action retractable nib", "Designed by Franco Clivio", "14K gold hooded nib", "Seamless capless design"],
-    "featuresJa": ["ツイスト式格納ペン先", "フランコ・クリヴィオのデザイン", "14金フード式ペン先", "シームレスなキャップレスデザイン"],
+    "features": [
+      "Twist-action retractable nib",
+      "Designed by Franco Clivio",
+      "14K gold hooded nib",
+      "Seamless capless design"
+    ],
+    "featuresJa": [
+      "ツイスト式格納ペン先",
+      "フランコ・クリヴィオのデザイン",
+      "14金フード式ペン先",
+      "シームレスなキャップレスデザイン"
+    ],
     "description": "The LAMY Dialog 3 features a twist-action retractable nib mechanism designed by Franco Clivio. When retracted, the pen presents a seamless, elegant cylinder. A bold statement piece for design lovers.",
     "descriptionJa": "ラミー ダイアログ3はフランコ・クリヴィオがデザインしたツイスト式格納ペン先機構を搭載。収納時はシームレスな美しい円筒形に。",
     "amazonUrl": "https://amzn.to/4v2wUTk",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/lamy-dialog-3.webp"
   },
   {
     "id": "pelikan-m800",
@@ -342,19 +598,35 @@
     "brand": "pelikan",
     "material": "Striped Cellulose Acetate",
     "nibMaterial": "18K Gold",
-    "nibSizes": ["EF", "F", "M", "B", "BB"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "BB"
+    ],
     "fillingSystem": "piston",
     "weight": 28,
     "price": 550,
     "priceRange": "premium",
     "category": "luxury",
-    "features": ["Iconic striped barrel design", "Differential piston filling mechanism", "18K gold nib with exceptional flexibility", "Brass piston mechanism for durability"],
-    "featuresJa": ["アイコニックなストライプバレルデザイン", "差動ピストン吸入機構", "しなやかな18金ペン先", "真鍮ピストン機構の耐久性"],
+    "features": [
+      "Iconic striped barrel design",
+      "Differential piston filling mechanism",
+      "18K gold nib with exceptional flexibility",
+      "Brass piston mechanism for durability"
+    ],
+    "featuresJa": [
+      "アイコニックなストライプバレルデザイン",
+      "差動ピストン吸入機構",
+      "しなやかな18金ペン先",
+      "真鍮ピストン機構の耐久性"
+    ],
     "description": "The Pelikan Souverän M800 is one of the most respected fountain pens ever made. Its differential piston mechanism, iconic striped barrel, and bouncy 18K gold nib make it a cornerstone of any collection.",
     "descriptionJa": "ペリカン スーベレーン M800は最も尊敬される万年筆の一つ。差動ピストン機構、アイコニックなストライプバレル、弾力のある18金ペン先が特徴。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pelikan-m800.webp"
   },
   {
     "id": "pelikan-m600",
@@ -363,19 +635,34 @@
     "brand": "pelikan",
     "material": "Striped Cellulose Acetate",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "piston",
     "weight": 22,
     "price": 400,
     "priceRange": "luxury",
     "category": "professional",
-    "features": ["Mid-size Souverän perfect for most hands", "14K gold nib", "Same iconic design as M800", "Lighter and more portable"],
-    "featuresJa": ["ほとんどの手にフィットするミッドサイズ", "14金ペン先", "M800と同じアイコニックデザイン", "軽量で携帯性に優れる"],
+    "features": [
+      "Mid-size Souverän perfect for most hands",
+      "14K gold nib",
+      "Same iconic design as M800",
+      "Lighter and more portable"
+    ],
+    "featuresJa": [
+      "ほとんどの手にフィットするミッドサイズ",
+      "14金ペン先",
+      "M800と同じアイコニックデザイン",
+      "軽量で携帯性に優れる"
+    ],
     "description": "The Pelikan Souverän M600 offers the iconic Souverän experience in a mid-size package that fits most hands perfectly. Its 14K gold nib shares the family's characteristic springiness.",
     "descriptionJa": "ペリカン スーベレーン M600はM800の美しさをミッドサイズで実現。ほとんどの手にフィットし、14金ペン先のスプリング感も健在。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pelikan-m600.webp"
   },
   {
     "id": "pelikan-m400",
@@ -384,19 +671,34 @@
     "brand": "pelikan",
     "material": "Striped Cellulose Acetate",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "piston",
     "weight": 15,
     "price": 330,
     "priceRange": "luxury",
     "category": "everyday",
-    "features": ["Compact Souverän for everyday carry", "14K gold nib", "Lightweight at only 15g", "Classic tortoiseshell pattern available"],
-    "featuresJa": ["日常使いに最適なコンパクトスーベレーン", "14金ペン先", "わずか15gの軽量設計", "クラシックな鼈甲柄あり"],
+    "features": [
+      "Compact Souverän for everyday carry",
+      "14K gold nib",
+      "Lightweight at only 15g",
+      "Classic tortoiseshell pattern available"
+    ],
+    "featuresJa": [
+      "日常使いに最適なコンパクトスーベレーン",
+      "14金ペン先",
+      "わずか15gの軽量設計",
+      "クラシックな鼈甲柄あり"
+    ],
     "description": "The Pelikan Souverän M400 is the most compact member of the Souverän family. At just 15g, it's perfect for daily carry while retaining the iconic striped design and 14K gold nib.",
     "descriptionJa": "ペリカン スーベレーン M400はスーベレーンファミリー最小モデル。わずか15gで日常携帯に最適、14金ペン先搭載。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pelikan-m400.webp"
   },
   {
     "id": "pelikan-m200",
@@ -405,19 +707,34 @@
     "brand": "pelikan",
     "material": "Resin",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "piston",
     "weight": 14,
     "price": 130,
     "priceRange": "mid",
     "category": "everyday",
-    "features": ["Entry point to Pelikan piston fillers", "Stainless steel nib", "Transparent demonstrator versions available", "Same piston mechanism as premium models"],
-    "featuresJa": ["ペリカン ピストン吸入式の入門モデル", "ステンレスペン先", "透明デモンストレーターモデルあり", "上位モデルと同じピストン機構"],
+    "features": [
+      "Entry point to Pelikan piston fillers",
+      "Stainless steel nib",
+      "Transparent demonstrator versions available",
+      "Same piston mechanism as premium models"
+    ],
+    "featuresJa": [
+      "ペリカン ピストン吸入式の入門モデル",
+      "ステンレスペン先",
+      "透明デモンストレーターモデルあり",
+      "上位モデルと同じピストン機構"
+    ],
     "description": "The Pelikan Classic M200 is the gateway to Pelikan's piston-filling pens. It uses the same proven mechanism as its premium siblings and is available in stunning demonstrator versions.",
     "descriptionJa": "ペリカン クラシック M200はペリカンのピストン吸入式の入門モデル。上位モデルと同じ機構を採用し、デモンストレーターモデルも人気。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/pelikan-m200.webp"
   },
   {
     "id": "montblanc-149",
@@ -426,19 +743,35 @@
     "brand": "montblanc",
     "material": "Precious Resin",
     "nibMaterial": "18K Gold (two-tone)",
-    "nibSizes": ["EF", "F", "M", "B", "BB"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "BB"
+    ],
     "fillingSystem": "piston",
     "weight": 32,
     "price": 1100,
     "priceRange": "premium",
     "category": "collector",
-    "features": ["The most iconic fountain pen in the world", "Handcrafted 18K gold nib", "Piston filling system", "Precious resin with platinum-coated fittings"],
-    "featuresJa": ["世界で最もアイコニックな万年筆", "手作りの18金ペン先", "ピストン吸入式", "プレシャスレジンとプラチナ仕上げ"],
+    "features": [
+      "The most iconic fountain pen in the world",
+      "Handcrafted 18K gold nib",
+      "Piston filling system",
+      "Precious resin with platinum-coated fittings"
+    ],
+    "featuresJa": [
+      "世界で最もアイコニックな万年筆",
+      "手作りの18金ペン先",
+      "ピストン吸入式",
+      "プレシャスレジンとプラチナ仕上げ"
+    ],
     "description": "The Montblanc Meisterstück 149 is the most recognized fountain pen in the world. Since 1924, it has defined luxury writing with its handcrafted 18K gold nib and iconic black resin body topped by the white star.",
     "descriptionJa": "モンブラン マイスターシュテュック149は世界で最も有名な万年筆。1924年以来、手作りの18金ペン先とホワイトスターが象徴するラグジュアリーの頂点。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/montblanc-149.webp"
   },
   {
     "id": "montblanc-146",
@@ -447,19 +780,34 @@
     "brand": "montblanc",
     "material": "Precious Resin",
     "nibMaterial": "14K Gold (two-tone)",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "piston",
     "weight": 28,
     "price": 800,
     "priceRange": "premium",
     "category": "luxury",
-    "features": ["Le Grand — the most popular Meisterstück size", "14K gold nib", "Piston filling system", "Perfect balance between size and portability"],
-    "featuresJa": ["ル・グラン — 最も人気のマイスターシュテュックサイズ", "14金ペン先", "ピストン吸入式", "サイズと携帯性の完璧なバランス"],
+    "features": [
+      "Le Grand — the most popular Meisterstück size",
+      "14K gold nib",
+      "Piston filling system",
+      "Perfect balance between size and portability"
+    ],
+    "featuresJa": [
+      "ル・グラン — 最も人気のマイスターシュテュックサイズ",
+      "14金ペン先",
+      "ピストン吸入式",
+      "サイズと携帯性の完璧なバランス"
+    ],
     "description": "The Montblanc Meisterstück 146 Le Grand is considered by many to be the ideal Meisterstück size. Slightly smaller than the 149, it offers the same luxury experience in a more everyday-friendly package.",
     "descriptionJa": "モンブラン マイスターシュテュック146 ル・グランは多くの人が理想のサイズと評する一本。149よりコンパクトで日常使いに最適。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/montblanc-146.webp"
   },
   {
     "id": "montblanc-starwalker",
@@ -468,19 +816,34 @@
     "brand": "montblanc",
     "material": "Precious Resin with Platinum-coated metal",
     "nibMaterial": "14K Gold",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "converter",
     "weight": 44,
     "price": 650,
     "priceRange": "premium",
     "category": "luxury",
-    "features": ["Modern design departure from classic Meisterstück", "Floating Montblanc emblem in transparent cap dome", "14K gold nib", "Heavier, more contemporary feel"],
-    "featuresJa": ["クラシックなマイスターシュテュックからの現代的デザイン", "透明キャップドームに浮かぶモンブランエンブレム", "14金ペン先", "より重厚でコンテンポラリーな印象"],
+    "features": [
+      "Modern design departure from classic Meisterstück",
+      "Floating Montblanc emblem in transparent cap dome",
+      "14K gold nib",
+      "Heavier, more contemporary feel"
+    ],
+    "featuresJa": [
+      "クラシックなマイスターシュテュックからの現代的デザイン",
+      "透明キャップドームに浮かぶモンブランエンブレム",
+      "14金ペン先",
+      "より重厚でコンテンポラリーな印象"
+    ],
     "description": "The Montblanc StarWalker represents a modern departure from the classic Meisterstück. Its floating emblem in the transparent cap dome and contemporary design appeal to a younger audience.",
     "descriptionJa": "モンブラン スターウォーカーはマイスターシュテュックからの現代的進化。透明キャップドームに浮かぶエンブレムが印象的。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/montblanc-starwalker.webp"
   },
   {
     "id": "twsbi-eco",
@@ -489,19 +852,35 @@
     "brand": "twsbi",
     "material": "Polycarbonate (Demonstrator)",
     "nibMaterial": "Stainless Steel (JoWo)",
-    "nibSizes": ["EF", "F", "M", "B", "1.1"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "1.1"
+    ],
     "fillingSystem": "piston",
     "weight": 15,
     "price": 35,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Best piston filler under $40", "Full demonstrator showing ink", "JoWo stainless steel nib", "Large ink capacity"],
-    "featuresJa": ["40ドル以下最高のピストン吸入式", "インクが見えるフルデモンストレーター", "JoWo製ステンレスペン先", "大容量インク"],
+    "features": [
+      "Best piston filler under $40",
+      "Full demonstrator showing ink",
+      "JoWo stainless steel nib",
+      "Large ink capacity"
+    ],
+    "featuresJa": [
+      "40ドル以下最高のピストン吸入式",
+      "インクが見えるフルデモンストレーター",
+      "JoWo製ステンレスペン先",
+      "大容量インク"
+    ],
     "description": "The TWSBI Eco is the best piston-filling fountain pen you can buy under $40. Its full demonstrator body shows off your ink beautifully, and the JoWo nib writes reliably out of the box.",
     "descriptionJa": "ツイスビー エコは40ドル以下で買えるピストン吸入式万年筆の最高峰。フルデモンストレーターボディでインクを楽しめる。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/twsbi-eco.webp"
   },
   {
     "id": "twsbi-diamond-580",
@@ -510,19 +889,35 @@
     "brand": "twsbi",
     "material": "Polycarbonate (Demonstrator)",
     "nibMaterial": "Stainless Steel (JoWo)",
-    "nibSizes": ["EF", "F", "M", "B", "1.1"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "1.1"
+    ],
     "fillingSystem": "piston",
     "weight": 19,
     "price": 65,
     "priceRange": "mid",
     "category": "everyday",
-    "features": ["Step up from the Eco with faceted design", "Faceted barrel and cap", "Larger ink capacity", "Premium demonstrator experience"],
-    "featuresJa": ["エコからのステップアップ、ファセットデザイン", "ファセット加工のバレルとキャップ", "より大容量のインク", "プレミアムなデモンストレーター体験"],
+    "features": [
+      "Step up from the Eco with faceted design",
+      "Faceted barrel and cap",
+      "Larger ink capacity",
+      "Premium demonstrator experience"
+    ],
+    "featuresJa": [
+      "エコからのステップアップ、ファセットデザイン",
+      "ファセット加工のバレルとキャップ",
+      "より大容量のインク",
+      "プレミアムなデモンストレーター体験"
+    ],
     "description": "The TWSBI Diamond 580 builds on the Eco formula with a faceted barrel design and slightly larger size. It's the sweet spot in TWSBI's lineup for those wanting a premium demonstrator experience.",
     "descriptionJa": "ツイスビー ダイヤモンド580はエコの進化版。ファセットデザインのバレルと大容量で、プレミアムなデモンストレーター体験を提供。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/twsbi-diamond-580.webp"
   },
   {
     "id": "twsbi-vac700r",
@@ -531,19 +926,35 @@
     "brand": "twsbi",
     "material": "Polycarbonate (Demonstrator)",
     "nibMaterial": "Stainless Steel (JoWo)",
-    "nibSizes": ["EF", "F", "M", "B", "1.1"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "1.1"
+    ],
     "fillingSystem": "vacuum",
     "weight": 24,
     "price": 85,
     "priceRange": "mid",
     "category": "professional",
-    "features": ["Vacuum filling system at affordable price", "Plunger mechanism with ink shut-off", "Massive ink capacity", "Full demonstrator design"],
-    "featuresJa": ["手頃な価格のバキューム吸入式", "インクシャットオフ付きプランジャー機構", "超大容量インク", "フルデモンストレーターデザイン"],
+    "features": [
+      "Vacuum filling system at affordable price",
+      "Plunger mechanism with ink shut-off",
+      "Massive ink capacity",
+      "Full demonstrator design"
+    ],
+    "featuresJa": [
+      "手頃な価格のバキューム吸入式",
+      "インクシャットオフ付きプランジャー機構",
+      "超大容量インク",
+      "フルデモンストレーターデザイン"
+    ],
     "description": "The TWSBI Vac700R brings vacuum filling technology to an affordable price point. Its plunger mechanism with ink shut-off valve provides massive ink capacity and prevents leaking during travel.",
     "descriptionJa": "ツイスビー Vac700Rは手頃な価格でバキューム吸入技術を実現。インクシャットオフバルブ付きで旅行時も安心の大容量モデル。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/twsbi-vac700r.webp"
   },
   {
     "id": "kaweco-sport",
@@ -552,19 +963,38 @@
     "brand": "kaweco",
     "material": "ABS Resin",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M", "B", "BB", "1.1", "1.5", "1.9"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "BB",
+      "1.1",
+      "1.5",
+      "1.9"
+    ],
     "fillingSystem": "cartridge",
     "weight": 11,
     "price": 28,
     "priceRange": "budget",
     "category": "everyday",
-    "features": ["Ultra-compact pocket pen", "Posts to full-size length", "Classic octagonal design since 1911", "Wide range of colors and materials"],
-    "featuresJa": ["超コンパクトなポケットペン", "キャップを尻軸に装着でフルサイズ", "1911年以来のクラシックな八角形デザイン", "豊富なカラーと素材バリエーション"],
+    "features": [
+      "Ultra-compact pocket pen",
+      "Posts to full-size length",
+      "Classic octagonal design since 1911",
+      "Wide range of colors and materials"
+    ],
+    "featuresJa": [
+      "超コンパクトなポケットペン",
+      "キャップを尻軸に装着でフルサイズ",
+      "1911年以来のクラシックな八角形デザイン",
+      "豊富なカラーと素材バリエーション"
+    ],
     "description": "The Kaweco Sport is a pocket pen icon. Its compact size fits anywhere, and posting the cap extends it to a comfortable full-length pen. The octagonal design has been beloved since 1911.",
     "descriptionJa": "カヴェコ スポーツはポケットペンの代名詞。超コンパクトながらキャップを装着すれば快適なフルサイズに。1911年以来の八角形デザインが魅力。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/kaweco-sport.webp"
   },
   {
     "id": "kaweco-liliput",
@@ -573,19 +1003,34 @@
     "brand": "kaweco",
     "material": "Brass / Aluminum / Copper / Stainless Steel",
     "nibMaterial": "Stainless Steel",
-    "nibSizes": ["EF", "F", "M", "B"],
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
     "fillingSystem": "cartridge",
     "weight": 22,
     "price": 90,
     "priceRange": "mid",
     "category": "everyday",
-    "features": ["Minimalist all-metal pocket pen", "Develops unique patina over time (brass/copper)", "Screw-on cap for security", "Multiple metal finishes available"],
-    "featuresJa": ["ミニマリストなオール金属ポケットペン", "真鍮・銅モデルは経年変化で独自のパティナが発生", "ネジ式キャップで安全", "複数の金属仕上げから選択可能"],
+    "features": [
+      "Minimalist all-metal pocket pen",
+      "Develops unique patina over time (brass/copper)",
+      "Screw-on cap for security",
+      "Multiple metal finishes available"
+    ],
+    "featuresJa": [
+      "ミニマリストなオール金属ポケットペン",
+      "真鍮・銅モデルは経年変化で独自のパティナが発生",
+      "ネジ式キャップで安全",
+      "複数の金属仕上げから選択可能"
+    ],
     "description": "The Kaweco Liliput is a minimalist's dream. This tiny all-metal pen fits in the smallest pocket, and brass/copper versions develop a beautiful patina over time that makes each pen unique.",
     "descriptionJa": "カヴェコ リリプットはミニマリストの理想形。超小型のオール金属ペンで、真鍮・銅モデルは使い込むほど味が出る。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/kaweco-liliput.webp"
   },
   {
     "id": "parker-51",
@@ -594,18 +1039,271 @@
     "brand": "parker",
     "material": "Resin with steel cap",
     "nibMaterial": "Stainless Steel (hooded)",
-    "nibSizes": ["F", "M"],
+    "nibSizes": [
+      "F",
+      "M"
+    ],
     "fillingSystem": "converter",
     "weight": 26,
     "price": 75,
     "priceRange": "mid",
     "category": "everyday",
-    "features": ["Reissue of the legendary 1941 design", "Hooded nib for clean look", "Arrow clip design", "Reliable everyday writer"],
-    "featuresJa": ["伝説的な1941年デザインの復刻版", "クリーンなフード式ペン先", "アロークリップデザイン", "信頼性の高い日常筆記具"],
+    "features": [
+      "Reissue of the legendary 1941 design",
+      "Hooded nib for clean look",
+      "Arrow clip design",
+      "Reliable everyday writer"
+    ],
+    "featuresJa": [
+      "伝説的な1941年デザインの復刻版",
+      "クリーンなフード式ペン先",
+      "アロークリップデザイン",
+      "信頼性の高い日常筆記具"
+    ],
     "description": "The Parker 51 is a modern reissue of what many consider the greatest fountain pen ever designed. Originally from 1941, its hooded nib and sleek profile remain timeless.",
     "descriptionJa": "パーカー51は史上最高と評される万年筆の復刻版。1941年のオリジナルデザインのフード式ペン先とスリムなプロファイルは今も色褪せない。",
     "amazonUrl": "",
     "rakutenUrl": "",
-    "image": "/images/pens/fountain-pen.svg"
+    "image": "/images/pens/parker-51.webp"
+  },
+  {
+    "id": "leonardo-momento-zero-grande",
+    "name": "Leonardo Momento Zero Grande",
+    "nameJa": "レオナルド モメントゼロ グランデ",
+    "brand": "leonardo",
+    "material": "Resin",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "1.1"
+    ],
+    "fillingSystem": "piston",
+    "weight": 30,
+    "price": 180,
+    "priceRange": "mid-high",
+    "category": "professional",
+    "features": [
+      "Handmade in Florence, Italy with artisan resin",
+      "Piston filling system for large ink capacity",
+      "Oversized body comfortable for long writing sessions",
+      "Stunning swirled resin patterns unique to each pen"
+    ],
+    "featuresJa": [
+      "フィレンツェで手作りされたアルチザンレジン",
+      "大容量のピストン吸入式",
+      "長時間筆記でも快適なオーバーサイズボディ",
+      "一本一本異なる美しいマーブル模様"
+    ],
+    "description": "The Leonardo Momento Zero Grande is a handcrafted Italian fountain pen made in Florence. Its oversized resin body features stunning swirled patterns that make every pen unique, while the piston filling system ensures generous ink capacity for extended writing.",
+    "descriptionJa": "レオナルド モメントゼロ グランデはフィレンツェで手作りされるイタリアン万年筆。一本一本異なるマーブル模様のレジンボディとピストン吸入式の大容量が魅力。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/leonardo-momento-zero-grande.webp",
+    "relatedPens": [
+      "pelikan-m600",
+      "sailor-pro-gear",
+      "twsbi-diamond-580"
+    ]
+  },
+  {
+    "id": "visconti-homo-sapiens-dark-age",
+    "name": "Visconti Homo Sapiens Dark Age",
+    "nameJa": "ヴィスコンティ ホモサピエンス ダークエイジ",
+    "brand": "visconti",
+    "material": "Basaltic Lava",
+    "nibMaterial": "Palladium (23K)",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
+    "fillingSystem": "vacuum",
+    "weight": 34,
+    "price": 600,
+    "priceRange": "premium",
+    "category": "luxury",
+    "features": [
+      "Body crafted from volcanic basaltic lava",
+      "Double reservoir power vacuum filler",
+      "23K palladium Dreamtouch nib",
+      "Virtually indestructible material resistant to scratches"
+    ],
+    "featuresJa": [
+      "火山の玄武岩溶岩から削り出したボディ",
+      "ダブルリザーバー・パワーバキューム吸入式",
+      "23Kパラジウム ドリームタッチニブ",
+      "傷に強い半永久的な素材"
+    ],
+    "description": "The Visconti Homo Sapiens Dark Age is crafted from volcanic basaltic lava harvested from Mount Etna. Its innovative double-reservoir vacuum filling system and 23K palladium Dreamtouch nib deliver a writing experience as unique as its material.",
+    "descriptionJa": "ヴィスコンティ ホモサピエンス ダークエイジはエトナ火山の玄武岩溶岩から作られた唯一無二の万年筆。パワーバキューム吸入式と23Kパラジウムニブが至高の書き味を実現。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/visconti-homo-sapiens-dark-age.webp",
+    "relatedPens": [
+      "pelikan-m800",
+      "montblanc-149",
+      "sailor-king-of-pen"
+    ]
+  },
+  {
+    "id": "aurora-optima",
+    "name": "Aurora Optima",
+    "nameJa": "アウロラ オプティマ",
+    "brand": "aurora",
+    "material": "Auroloide Resin",
+    "nibMaterial": "18K Gold",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
+    "fillingSystem": "piston",
+    "weight": 24,
+    "price": 500,
+    "priceRange": "premium",
+    "category": "luxury",
+    "features": [
+      "Made from proprietary Auroloide resin",
+      "In-house 18K gold nib with distinctive feel",
+      "Piston filling system",
+      "Greek key pattern band is an iconic design element"
+    ],
+    "featuresJa": [
+      "独自素材オーロロイドレジン製",
+      "自社製18金ペン先の独特の書き味",
+      "ピストン吸入式",
+      "ギリシャ鍵模様のバンドがアイコニック"
+    ],
+    "description": "The Aurora Optima showcases Aurora's proprietary Auroloide resin, a material crafted exclusively in their Turin factory since 1947. The in-house 18K gold nib and iconic Greek key band make this a true Italian masterpiece.",
+    "descriptionJa": "アウロラ オプティマは1947年から独自製造されるオーロロイドレジンを使用した逸品。自社製18金ペン先とギリシャ鍵模様のバンドが象徴的なイタリアの名作。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/aurora-optima.webp",
+    "relatedPens": [
+      "pelikan-m800",
+      "pelikan-m600",
+      "montblanc-146"
+    ]
+  },
+  {
+    "id": "waterman-expert",
+    "name": "Waterman Expert",
+    "nameJa": "ウォーターマン エキスパート",
+    "brand": "waterman",
+    "material": "Lacquered Brass",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "F",
+      "M"
+    ],
+    "fillingSystem": "converter",
+    "weight": 40,
+    "price": 100,
+    "priceRange": "mid",
+    "category": "professional",
+    "features": [
+      "Substantial brass body with lacquer finish",
+      "Classic French design with modern elegance",
+      "Cartridge/converter filling system",
+      "Weighted feel ideal for effortless writing"
+    ],
+    "featuresJa": [
+      "ラッカー仕上げの重厚な真鍮ボディ",
+      "モダンなエレガンスのフレンチデザイン",
+      "カートリッジ/コンバーター両用式",
+      "重みを活かした楽な筆記感"
+    ],
+    "description": "The Waterman Expert combines French elegance with everyday practicality. Its substantial lacquered brass body provides a confident, weighted feel in the hand, while the stainless steel nib delivers reliable performance for daily use.",
+    "descriptionJa": "ウォーターマン エキスパートはフランスのエレガンスと実用性を両立。重厚な真鍮ボディの書き心地と信頼性の高いステンレスペン先で日常使いに最適。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/waterman-expert.webp",
+    "relatedPens": [
+      "parker-51",
+      "lamy-dialog-3",
+      "pilot-metropolitan"
+    ]
+  },
+  {
+    "id": "noodlers-nib-creaper",
+    "name": "Noodler's Nib Creaper",
+    "nameJa": "ヌードラーズ ニブクリーパー",
+    "brand": "noodlers",
+    "material": "Vegetal Resin",
+    "nibMaterial": "Stainless Steel (Flex)",
+    "nibSizes": [
+      "Flex"
+    ],
+    "fillingSystem": "piston",
+    "weight": 12,
+    "price": 20,
+    "priceRange": "budget",
+    "category": "everyday",
+    "features": [
+      "Most affordable flex nib fountain pen",
+      "Piston filling system at budget price",
+      "Vegetal resin body is eco-friendly",
+      "Hand-tunable nib for customization"
+    ],
+    "featuresJa": [
+      "最安のフレックスニブ万年筆",
+      "低価格でピストン吸入式",
+      "環境に優しいベジタルレジンボディ",
+      "手動調整可能なペン先"
+    ],
+    "description": "The Noodler's Nib Creaper is the most affordable way to experience flex nib writing. Its piston filling system and vegetal resin body offer remarkable value at just $20, and the hand-tunable steel flex nib allows line variation from hairline to broad.",
+    "descriptionJa": "ヌードラーズ ニブクリーパーはフレックスニブを最も手軽に体験できる万年筆。わずか20ドルでピストン吸入式とフレックスニブを搭載した驚異的コスパモデル。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/noodlers-nib-creaper.webp",
+    "relatedPens": [
+      "twsbi-eco",
+      "platinum-preppy",
+      "pilot-metropolitan"
+    ]
+  },
+  {
+    "id": "cross-century-ii",
+    "name": "Cross Century II",
+    "nameJa": "クロス センチュリーII",
+    "brand": "cross",
+    "material": "Lacquered Brass",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "F",
+      "M"
+    ],
+    "fillingSystem": "converter",
+    "weight": 30,
+    "price": 120,
+    "priceRange": "mid",
+    "category": "professional",
+    "features": [
+      "Slim, elegant profile inspired by the original Century",
+      "Lacquered brass body with polished chrome accents",
+      "Cartridge/converter filling system",
+      "Lifetime mechanical warranty from Cross"
+    ],
+    "featuresJa": [
+      "オリジナル・センチュリーにインスパイアされたスリムなデザイン",
+      "ポリッシュドクロームアクセントのラッカー真鍮ボディ",
+      "カートリッジ/コンバーター両用式",
+      "クロス社の永久機械保証"
+    ],
+    "description": "The Cross Century II is a refined evolution of Cross's iconic Century design. Its slim lacquered brass body and polished chrome accents project professional elegance, while the smooth stainless steel nib and lifetime warranty make it a dependable everyday companion.",
+    "descriptionJa": "クロス センチュリーIIはアイコニックなセンチュリーデザインの進化形。スリムなラッカー真鍮ボディとクロームアクセントがプロフェッショナルな印象。永久保証付き。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/cross-century-ii.webp",
+    "relatedPens": [
+      "parker-51",
+      "waterman-expert",
+      "lamy-al-star"
+    ]
   }
 ]
