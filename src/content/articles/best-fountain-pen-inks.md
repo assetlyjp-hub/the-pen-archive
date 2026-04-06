@@ -4,6 +4,7 @@ description: "The 10 best fountain pen inks for 2026. From Pilot Iroshizuku to N
 category: "ink"
 tags: ["ink", "iroshizuku", "buying guide", "review"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 articleType: "listicle"
 ---
 

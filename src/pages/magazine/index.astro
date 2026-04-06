@@ -6,11 +6,13 @@ import Base from '../../layouts/Base.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 
-// 全記事を取得して公開日順にソート（新しい順）
+// 全記事を取得し、英語記事（ja/プレフィックスなし）のみフィルター
 const allArticles = await getCollection('articles');
-const sortedArticles = allArticles.sort((a, b) =>
-  new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
-);
+const sortedArticles = allArticles
+  .filter(a => !a.id.startsWith('ja/'))
+  .sort((a, b) =>
+    new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
+  );
 ---
 
 <Base

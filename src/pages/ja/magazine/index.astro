@@ -1,0 +1,50 @@
+---
+// ja/magazine/index.astro - 日本語版 記事一覧ページ
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const allArticles = await getCollection('articles');
+const jaArticles = allArticles
+  .filter(a => a.id.startsWith('ja/'))
+  .sort((a, b) =>
+    new Date(b.data.publishedAt).getTime() - new Date(a.data.publishedAt).getTime()
+  );
+
+const categoryLabels: Record<string, string> = {
+  review: 'レビュー',
+  ink: 'インクガイド',
+  nib: 'ペン先ガイド',
+  comparison: '比較',
+  guide: 'ガイド',
+  beginner: '初心者向け',
+};
+---
+
+<Base
+  title="Magazine — 万年筆ガイド"
+  description="万年筆の選び方、ペン先の違い、インクのおすすめ。初心者から愛好家まで役立つ記事を掲載。"
+  enPath="/magazine/"
+>
+  <div class="page-header">
+    <h1 class="page-header__title">Magazine</h1>
+    <p class="page-header__description">万年筆の世界を深掘りするガイド＆レビュー</p>
+  </div>
+
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: var(--space-md); padding: var(--space-lg) 0;">
+      {jaArticles.map((article) => (
+        <a href={`/ja/magazine/${article.id.replace('ja/', '')}/`} class="article-card">
+          <div class="article-card__body">
+            <p class="article-card__category">{categoryLabels[article.data.category] || article.data.category}</p>
+            <h3 class="article-card__title">{article.data.title}</h3>
+            <p class="article-card__excerpt">{article.data.description}</p>
+            <p class="article-card__excerpt" style="margin-top: 0.5rem; font-size: 0.75rem; color: var(--color-text-muted);">{article.data.publishedAt}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+    {jaArticles.length === 0 && (
+      <p style="text-align: center; color: var(--color-text-muted); padding: var(--space-xl) 0;">記事はまだありません。もうしばらくお待ちください！</p>
+    )}
+  </div>
+</Base>

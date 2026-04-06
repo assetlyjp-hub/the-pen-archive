@@ -4,6 +4,7 @@ description: "A complete guide to fountain pen nib sizes. Learn the differences 
 category: "nib"
 tags: ["nib", "nib size", "guide", "beginner"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 articleType: "guide"
 ---
 

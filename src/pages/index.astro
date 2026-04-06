@@ -14,9 +14,23 @@ import brandsData from '../data/brands.json';
 
 // ブランドIDから日本語名を引くマップ
 const brandMap = Object.fromEntries(brandsData.map(b => [b.id, b.nameJa]));
+
+// ItemList JSON-LD: Google検索結果でカルーセル表示の可能性を高める
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Fine Writing Instruments & Fountain Pens",
+  "numberOfItems": pensData.length,
+  "itemListElement": pensData.map((pen, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "url": `https://thepenarchive.com/pens/${pen.id}/`,
+    "name": pen.name,
+  })),
+};
 ---
 
-<Base title="The Pen Archive">
+<Base title="The Pen Archive" jsonLd={itemListJsonLd}>
   <!-- ヒーローセクション -->
   <section class="hero">
     <h1 class="hero__title">The Pen <span>Archive</span></h1>

@@ -4,6 +4,7 @@ description: "An in-depth comparison of Pilot and Sailor fountain pens. We compa
 category: "comparison"
 tags: ["pilot", "sailor", "japanese pens", "comparison"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 articleType: "comparison"
 ---
 

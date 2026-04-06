@@ -4,6 +4,7 @@ description: "Everything you need to know about fountain pen filling systems —
 category: "guide"
 tags: ["filling system", "piston", "vacuum", "converter", "cartridge", "guide"]
 publishedAt: "2026-04-04"
+updatedAt: "2026-04-06"
 articleType: "guide"
 ---
 
