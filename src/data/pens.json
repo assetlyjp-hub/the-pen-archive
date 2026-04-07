@@ -1305,5 +1305,251 @@
       "waterman-expert",
       "lamy-al-star"
     ]
+  },
+  {
+    "id": "diplomat-aero",
+    "name": "Diplomat Aero",
+    "nameJa": "ディプロマット アエロ",
+    "brand": "diplomat",
+    "material": "Aluminum",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B"
+    ],
+    "fillingSystem": "piston",
+    "weight": 44,
+    "price": 120,
+    "priceRange": "mid",
+    "category": "everyday",
+    "features": [
+      "Machined aluminum body with unique faceted design",
+      "Built-in piston filling system",
+      "Substantial weight for a satisfying writing feel",
+      "German-engineered stainless steel nib"
+    ],
+    "featuresJa": [
+      "独特なファセットデザインのアルミ削り出しボディ",
+      "内蔵ピストン吸入機構",
+      "しっかりとした重量感のある書き心地",
+      "ドイツ設計のステンレススチールニブ"
+    ],
+    "description": "The Diplomat Aero stands out with its distinctive faceted aluminum body that feels like a work of industrial art. Its built-in piston filler provides generous ink capacity, while the substantial weight gives a confident, grounded writing experience. A German-made pen that proves premium quality doesn't require a luxury price tag.",
+    "descriptionJa": "ディプロマット アエロはファセットカットのアルミボディがインダストリアルアートのような存在感を放つ。内蔵ピストン吸入で豊富なインク容量を確保し、しっかりとした重量が安定感のある書き心地を実現。プレミアム品質がラグジュアリー価格でなくても手に入ることを証明するドイツ製万年筆。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/diplomat-aero.webp",
+    "relatedPens": [
+      "lamy-2000",
+      "pilot-custom-823",
+      "platinum-procyon"
+    ]
+  },
+  {
+    "id": "opus-88-koloro",
+    "name": "Opus 88 Koloro",
+    "nameJa": "オーパス88 コロロ",
+    "brand": "opus-88",
+    "material": "Resin",
+    "nibMaterial": "Stainless Steel (JoWo #6)",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "1.5"
+    ],
+    "fillingSystem": "eyedropper",
+    "weight": 25,
+    "price": 100,
+    "priceRange": "mid",
+    "category": "everyday",
+    "features": [
+      "Eyedropper filling for massive ink capacity",
+      "Shut-off valve prevents leaking",
+      "JoWo #6 nib (easily swappable)",
+      "Vibrant demonstrator colors"
+    ],
+    "featuresJa": [
+      "アイドロッパー式で大容量インク",
+      "シャットオフバルブで漏れ防止",
+      "JoWo #6ニブ（交換容易）",
+      "鮮やかなデモンストレーターカラー"
+    ],
+    "description": "The Opus 88 Koloro is a Taiwanese-made eyedropper pen that holds a massive amount of ink. Its clever shut-off valve prevents leaking during travel, solving the biggest drawback of traditional eyedroppers. The JoWo #6 nib is smooth out of the box and easily swappable for custom grinds.",
+    "descriptionJa": "オーパス88 コロロは台湾製のアイドロッパー万年筆で、大量のインクを収容可能。シャットオフバルブが従来のアイドロッパーの最大の弱点である漏れを防止。JoWo #6ニブは最初から滑らかで、カスタムグラインドへの交換も容易。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/opus-88-koloro.webp",
+    "relatedPens": [
+      "hongdian-n7",
+      "pilot-custom-823",
+      "diplomat-aero"
+    ]
+  },
+  {
+    "id": "platinum-procyon",
+    "name": "Platinum Procyon",
+    "nameJa": "プラチナ プロシオン",
+    "brand": "platinum",
+    "material": "Aluminum",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "UEF",
+      "EF",
+      "F",
+      "M"
+    ],
+    "fillingSystem": "cartridge-converter",
+    "weight": 23,
+    "price": 60,
+    "priceRange": "budget",
+    "category": "everyday",
+    "features": [
+      "Slip & Seal cap prevents ink drying",
+      "Aluminum body with matte finish",
+      "Ultra Extra Fine (UEF) nib available",
+      "Excellent value for Japanese nib quality"
+    ],
+    "featuresJa": [
+      "スリップ＆シール機構でインク乾燥を防止",
+      "マット仕上げのアルミボディ",
+      "超極細（UEF）ニブも選べる",
+      "日本製ニブの品質を手頃な価格で"
+    ],
+    "description": "The Platinum Procyon brings Platinum's legendary Slip & Seal technology to an affordable aluminum body. This cap mechanism keeps ink fresh for over a year, even if unused. With nib sizes down to UEF, it's perfect for kanji and detailed writing. A modern everyday pen with Japanese precision.",
+    "descriptionJa": "プラチナ プロシオンは伝説のスリップ＆シール機構を手頃なアルミボディに搭載。1年以上使わなくてもインクが乾かないキャップ技術が特徴。UEFまで揃うニブサイズは漢字や細かい筆記に最適。日本の精密さが光る現代的なエブリデイペン。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/platinum-procyon.webp",
+    "relatedPens": [
+      "pilot-metropolitan",
+      "hongdian-n7",
+      "diplomat-aero"
+    ]
+  },
+  {
+    "id": "hongdian-n7",
+    "name": "Hongdian N7",
+    "nameJa": "ホンディアン N7",
+    "brand": "hongdian",
+    "material": "Metal (Brass/Aluminum)",
+    "nibMaterial": "Stainless Steel",
+    "nibSizes": [
+      "EF",
+      "F"
+    ],
+    "fillingSystem": "cartridge-converter",
+    "weight": 35,
+    "price": 20,
+    "priceRange": "budget",
+    "category": "everyday",
+    "features": [
+      "Full metal body at an incredible price",
+      "Smooth stainless steel nib",
+      "Magnetic cap closure",
+      "Converter included"
+    ],
+    "featuresJa": [
+      "驚きの価格でフルメタルボディ",
+      "滑らかなステンレススチールニブ",
+      "マグネティックキャップ",
+      "コンバーター付属"
+    ],
+    "description": "The Hongdian N7 has shattered expectations of what a $20 fountain pen can be. Its full metal body, smooth nib, and magnetic cap closure rival pens costing five times more. An excellent gateway pen for beginners and a reliable beater pen for enthusiasts who don't want to risk their expensive pens.",
+    "descriptionJa": "ホンディアン N7は20ドルの万年筆の常識を覆した。フルメタルボディ、滑らかなニブ、マグネットキャップは5倍の価格のペンに匹敵。初心者のゲートウェイペンとしても、高価なペンをリスクにさらしたくない愛好家のビーターペンとしても最適。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/hongdian-n7.webp",
+    "relatedPens": [
+      "pilot-metropolitan",
+      "platinum-procyon",
+      "opus-88-koloro"
+    ]
+  },
+  {
+    "id": "pelikan-m1000",
+    "name": "Pelikan Souverän M1000",
+    "nameJa": "ペリカン スーベレーン M1000",
+    "brand": "pelikan",
+    "material": "Resin with gold trim",
+    "nibMaterial": "18K Gold",
+    "nibSizes": [
+      "EF",
+      "F",
+      "M",
+      "B",
+      "BB"
+    ],
+    "fillingSystem": "piston",
+    "weight": 32,
+    "price": 800,
+    "priceRange": "luxury",
+    "category": "professional",
+    "features": [
+      "Oversized 18K gold nib with extraordinary flex",
+      "Differential piston filling system",
+      "Classic striped resin barrel",
+      "Flagship of the Souverän line"
+    ],
+    "featuresJa": [
+      "特大18金ニブの驚異的なしなり",
+      "ディファレンシャル・ピストン吸入機構",
+      "クラシックな縞模様レジンバレル",
+      "スーベレーンラインのフラッグシップ"
+    ],
+    "description": "The Pelikan M1000 is the flagship of the legendary Souverän line. Its oversized 18K gold nib is one of the softest and most expressive nibs in production, offering a writing experience that feels almost calligraphic. The differential piston mechanism holds a generous amount of ink, and the classic green-striped barrel is instantly recognizable.",
+    "descriptionJa": "ペリカン M1000は伝説のスーベレーンラインのフラッグシップ。特大の18金ニブは現行品で最も柔らかく表現力豊かなニブの一つで、カリグラフィーのような書き味を実現。ディファレンシャルピストン機構は豊富なインク容量を確保し、クラシックな緑縞バレルは一目で分かるアイコン。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/pelikan-m1000.webp",
+    "relatedPens": [
+      "pilot-custom-823",
+      "sailor-pro-gear-slim-mini",
+      "montblanc-149"
+    ]
+  },
+  {
+    "id": "sailor-pro-gear-slim-mini",
+    "name": "Sailor Pro Gear Slim Mini",
+    "nameJa": "セーラー プロギア スリム ミニ",
+    "brand": "sailor",
+    "material": "Resin",
+    "nibMaterial": "14K Gold",
+    "nibSizes": [
+      "EF",
+      "F",
+      "MF",
+      "M"
+    ],
+    "fillingSystem": "cartridge-converter",
+    "weight": 14,
+    "price": 180,
+    "priceRange": "mid-high",
+    "category": "portable",
+    "features": [
+      "Compact size perfect for carry",
+      "14K gold nib with Sailor's signature feedback",
+      "Flat-top design iconic to Pro Gear line",
+      "Wide range of limited edition colors"
+    ],
+    "featuresJa": [
+      "持ち運びに最適なコンパクトサイズ",
+      "セーラー特有のフィードバック感ある14金ニブ",
+      "プロギアライン象徴のフラットトップデザイン",
+      "豊富な限定カラー展開"
+    ],
+    "description": "The Sailor Pro Gear Slim Mini packs the legendary Sailor writing experience into a pocket-friendly size. Its 14K gold nib delivers the characteristic pencil-like feedback that Sailor devotees crave, while the flat-top design maintains the Pro Gear aesthetic in miniature. Popular for its seemingly endless limited edition colorways.",
+    "descriptionJa": "セーラー プロギア スリム ミニは伝説的なセーラーの書き味をポケットサイズに凝縮。14金ニブは鉛筆のような独特のフィードバック感を届け、フラットトップデザインがプロギアの美学をミニチュアに再現。無限とも思える限定カラー展開でも人気。",
+    "amazonUrl": "",
+    "rakutenUrl": "",
+    "image": "/images/pens/sailor-pro-gear-slim-mini.webp",
+    "relatedPens": [
+      "pilot-custom-742",
+      "platinum-procyon",
+      "pelikan-m1000"
+    ]
   }
 ]
