@@ -154,7 +154,12 @@ const productJsonLd = {
           <a href={pen.amazonUrl} class="btn btn--filled" target="_blank" rel="noopener noreferrer">Amazon US</a>
         )}
         <a href={`https://www.amazon.co.jp/s?k=${encodeURIComponent(pen.name)}`} class="btn" target="_blank" rel="noopener noreferrer">Amazon JP</a>
-        <a href={pen.rakutenUrl || `https://search.rakuten.co.jp/search/mall/${encodeURIComponent(pen.nameJa)}/`} class="btn" target="_blank" rel="noopener noreferrer">Rakuten</a>
+        {pen.amazonUKUrl && (
+          <a href={pen.amazonUKUrl} class="btn" target="_blank" rel="noopener noreferrer">Amazon UK</a>
+        )}
+        {pen.rakutenUrl && (
+          <a href={pen.rakutenUrl} class="btn" target="_blank" rel="noopener noreferrer">🛒 楽天市場</a>
+        )}
       </div>
     </div>
 
