@@ -34,36 +34,29 @@ const relatedPens = pensData
   .filter(p => p.brand === pen.brand && p.id !== pen.id)
   .slice(0, 3);
 
-// JSON-LD構造化データ（Product schema）
-const productJsonLd = {
+// JSON-LD構造化データ（Article schema）
+const articleJsonLd = {
   "@context": "https://schema.org",
-  "@type": "Product",
-  "name": pen.name,
+  "@type": "Article",
+  "headline": pen.name,
   "description": pen.description,
   "image": new URL(pen.image, Astro.site).href,
-  "brand": {
-    "@type": "Brand",
-    "name": brand?.name || pen.brand,
+  "author": {
+    "@type": "Organization",
+    "name": "The Pen Archive",
   },
-  "offers": {
-    "@type": "Offer",
-    "price": pen.price,
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/InStock",
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Pen Archive",
   },
-  "additionalProperty": [
-    { "@type": "PropertyValue", "name": "Material", "value": pen.material },
-    { "@type": "PropertyValue", "name": "Nib Material", "value": pen.nibMaterial },
-    { "@type": "PropertyValue", "name": "Filling System", "value": pen.fillingSystem },
-    { "@type": "PropertyValue", "name": "Weight", "value": `${pen.weight}g` },
-  ],
+  "datePublished": new Date().toISOString().split('T')[0],
 };
 ---
 
 <Base
   title={pen.name}
   description={pen.description.slice(0, 160)}
-  jsonLd={productJsonLd}
+  jsonLd={articleJsonLd}
 >
   <!-- 一覧への戻りリンク -->
   <div class="container" style="padding-top: calc(var(--space-md) + 60px);">
