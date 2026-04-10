@@ -4,6 +4,7 @@ description: "The complete guide to fountain pen care — from daily habits to l
 category: "guide"
 tags: ["maintenance", "care", "storage", "nib", "cleaning", "guide"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 

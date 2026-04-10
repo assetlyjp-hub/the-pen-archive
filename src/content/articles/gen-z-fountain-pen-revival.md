@@ -4,6 +4,7 @@ description: "Fountain pens are having a moment with Gen Z. From TikTok to journ
 category: "guide"
 tags: ["Gen Z", "fountain pen", "journaling", "analog", "digital detox", "beginner", "TikTok"]
 publishedAt: "2026-04-09"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 

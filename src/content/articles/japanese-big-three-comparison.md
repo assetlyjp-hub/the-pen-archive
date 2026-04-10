@@ -4,6 +4,7 @@ description: "A comprehensive comparison of Japan's three major fountain pen bra
 category: "review"
 tags: ["pilot", "sailor", "platinum", "japanese pens", "comparison"]
 publishedAt: "2026-04-07"
+updatedAt: "2026-04-10"
 articleType: "comparison"
 ---
 
