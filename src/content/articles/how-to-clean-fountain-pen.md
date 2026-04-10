@@ -4,6 +4,7 @@ description: "Learn how to clean your fountain pen properly. Step-by-step instru
 category: "guide"
 tags: ["cleaning", "maintenance", "converter", "piston", "cartridge", "guide"]
 publishedAt: "2026-04-06"
+updatedAt: "2026-04-10"
 articleType: "guide"
 ---
 
