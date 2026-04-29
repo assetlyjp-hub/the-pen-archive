@@ -130,5 +130,101 @@
     "features": ["In-house nib manufacturing", "Proprietary Auroloide resin", "Distinctive Italian design heritage"],
     "officialUrl": "https://www.aurorapen.it/",
     "image": "/images/brands/aurora.svg"
+  },
+  {
+    "id": "cross",
+    "name": "Cross",
+    "nameJa": "クロス",
+    "country": "United States",
+    "founded": 1846,
+    "description": "A.T. Cross Company is one of America's oldest writing instrument manufacturers, founded in 1846 in Lincoln, Rhode Island. Cross is renowned for its high-end metallic finishes, slim and elegant profiles, and a full mechanical lifetime warranty that has become a hallmark of the brand. Iconic models like the Century and Townsend have been favored by U.S. presidents and corporate executives for over a century, making Cross a symbol of American business gifting.",
+    "descriptionJa": "クロスは1846年にロードアイランド州リンカーンで創業したアメリカ最古級の筆記具メーカー。高級感のあるメタリック仕上げとスリムで上品なフォルム、そしてブランドの象徴ともいえる機構部の生涯保証で知られる。センチュリーやタウンゼントといった名作は歴代の米大統領や企業役員に愛用され、ビジネスギフトの定番として一世紀以上の歴史を持つ。",
+    "features": ["Full mechanical lifetime warranty", "Slim and elegant metallic finishes", "Favored by U.S. presidents and executives"],
+    "officialUrl": "https://www.cross.com/",
+    "image": "/images/brands/cross.svg"
+  },
+  {
+    "id": "hongdian",
+    "name": "Hongdian",
+    "nameJa": "ホンディアン",
+    "country": "China",
+    "founded": 2010,
+    "description": "Hongdian (鸿典) is a modern Chinese fountain pen maker based in Shanghai, founded in the early 2010s. The brand is celebrated among enthusiasts for delivering artistic designs and solid build quality at extremely affordable prices. Models like the #917 Forest Green and Black Forest, with their nature-inspired motifs and metal bodies, have built a devoted following on online forums and YouTube as exceptional value-for-money entry pens.",
+    "descriptionJa": "鸿典（ホンディアン）は2010年代初頭に上海で創業した中国の万年筆メーカー。極めて手頃な価格で芸術的なデザインと堅実な作りを実現し、愛好家から高い評価を受けている。森をモチーフにした#917フォレストグリーンやブラックフォレストはメタルボディの質感と独特の彫刻が特徴で、コスパの高い入門機として海外フォーラムやYouTubeで人気を集めている。",
+    "features": ["Affordable artistic designs", "Nature-inspired engraved metal bodies", "Exceptional value-for-money entry pens"],
+    "officialUrl": "https://www.hongdianpen.com/",
+    "image": "/images/brands/hongdian.svg"
+  },
+  {
+    "id": "leonardo",
+    "name": "Leonardo",
+    "nameJa": "レオナルド",
+    "country": "Italy",
+    "founded": 2018,
+    "description": "Leonardo Officina Italiana is a premium Italian fountain pen maker founded in 2018 in Naples, born from the legacy of the original Delta Pens company. Run by Salvatore Matrone (son of Delta's founder), the brand has quickly established itself with hand-finished celluloid and resin pens. The Momento Zero series, with its vibrant materials and classic cigar shape, has become a modern collector favorite alongside the Furore and Audace lines.",
+    "descriptionJa": "レオナルド・オフィチーナ・イタリアーナは、デルタ社の系譜を受け継いで2018年にナポリで設立されたイタリアのプレミアム万年筆メーカー。デルタ創業者の息子であるサルヴァトーレ・マトローネが率い、手仕上げのセルロイドや樹脂を用いた美しいペンで急速に地位を確立した。鮮やかなマテリアルと古典的な葉巻型のモメント・ゼロは現代コレクターに人気で、フローレやアウダーチェも高い評価を得ている。",
+    "features": ["Hand-finished celluloid resins", "Momento Zero flagship series", "Heritage of the original Delta Pens"],
+    "officialUrl": "https://www.leonardoofficinaitaliana.com/",
+    "image": "/images/brands/leonardo.svg"
+  },
+  {
+    "id": "zebra",
+    "name": "Zebra",
+    "nameJa": "ゼブラ",
+    "country": "Japan",
+    "founded": 1897,
+    "description": "Zebra Co., Ltd. is a major Japanese stationery manufacturer founded in Tokyo in 1897, making it one of Japan's oldest writing instrument companies. While best known globally for the Sarasa gel pen and the F-301 ballpoint, Zebra also has a long history of producing affordable fountain pens, including disposable models that brought the joy of fountain pen writing to a wider audience. Their reliable engineering and mass-market accessibility have made them a fixture in Japanese schools and offices.",
+    "descriptionJa": "ゼブラ株式会社は1897年に東京で創業した日本最古級の文具メーカー。サラサ・ゲルインキボールペンやF-301といった大ヒット商品で世界的に知られるが、使い捨て万年筆をはじめとする手頃な価格帯の万年筆も長年製造しており、万年筆の書き味を多くの人に届けてきた。堅実な品質と入手のしやすさで、日本の学校・オフィスに欠かせない存在となっている。",
+    "features": ["Over 125 years of stationery heritage", "Disposable fountain pen pioneers", "Sarasa and F-301 global bestsellers"],
+    "officialUrl": "https://www.zebra.co.jp/",
+    "image": "/images/brands/zebra.svg"
+  },
+  {
+    "id": "faber-castell",
+    "name": "Faber-Castell",
+    "nameJa": "ファーバーカステル",
+    "country": "Germany",
+    "founded": 1761,
+    "description": "Faber-Castell is one of the world's oldest writing instrument manufacturers, founded in 1761 in Stein, Bavaria, Germany, and still owned by the Faber-Castell family. While most famous for its premium pencils, the company produces highly regarded fountain pens through both Faber-Castell Design and the upscale Graf von Faber-Castell line. The e-motion, with its distinctive teardrop shape, and the Ondoro hexagonal series are modern classics combining German engineering with elegant minimalism.",
+    "descriptionJa": "ファーバーカステルは1761年にドイツ・バイエルン州シュタインで創業した世界最古級の筆記具メーカーで、現在もファーバーカステル一族が経営を続けている。鉛筆メーカーとして特に有名だが、ファーバーカステル・デザインや高級ライン「グラフ・フォン・ファーバーカステル」では高評価の万年筆を製造。雫型のe-motionや六角形のオンドロは、ドイツらしい精緻な作りとミニマルな美しさを兼ね備えた現代の名作とされる。",
+    "features": ["Over 260 years of family heritage", "e-motion teardrop and Ondoro hexagonal designs", "Premium Graf von Faber-Castell line"],
+    "officialUrl": "https://www.faber-castell.com/",
+    "image": "/images/brands/faber-castell.svg"
+  },
+  {
+    "id": "yard-o-led",
+    "name": "Yard-O-Led",
+    "nameJa": "ヤード・オ・レッド",
+    "country": "United Kingdom",
+    "founded": 1934,
+    "description": "Yard-O-Led is a British luxury writing instrument maker founded in 1934 in London, with workshops historically tied to Birmingham's silversmithing tradition. The brand specializes in hand-engraved sterling silver pens and pencils, each piece bearing British hallmarks and crafted using traditional techniques. The Viceroy series, available in fine barley, plain, or grand patterns, exemplifies the brand's commitment to old-world craftsmanship and is treasured by collectors of fine silverware.",
+    "descriptionJa": "ヤード・オ・レッドは1934年にロンドンで創業した英国のラグジュアリー筆記具メーカーで、英国シルバースミスの伝統を受け継ぐ工房で製造されている。スターリングシルバー製の手彫り万年筆・ペンシルを専門とし、すべての製品に英国ホールマークが刻印される。ファインバーレイ、プレーン、グランドの3パターンが用意されたヴァイスロイ・シリーズは、ブランドが守り続ける旧き良き職人技の象徴で、銀製品コレクターからも高く評価されている。",
+    "features": ["Hand-engraved sterling silver craftsmanship", "British hallmarked pieces", "Viceroy series with traditional patterns"],
+    "officialUrl": "https://www.yard-o-led.com/",
+    "image": "/images/brands/yard-o-led.svg"
+  },
+  {
+    "id": "noodlers",
+    "name": "Noodler's",
+    "nameJa": "ヌードラーズ",
+    "country": "United States",
+    "founded": 2004,
+    "description": "Noodler's Ink is a cult-favorite American company founded around 2004 by Nathan Tardif in Massachusetts. Originally famous for its enormous range of bulletproof, waterproof, and archival fountain pen inks, Noodler's also produces affordable piston- and flex-nib fountain pens like the Ahab, Konrad, and Nib Creaper. Beloved by tinkerers and modders for their tunability and quirky personality, Noodler's pens have introduced thousands of hobbyists to flex writing and pen modification.",
+    "descriptionJa": "ヌードラーズ・インクは2004年頃にネイサン・タルディフがマサチューセッツ州で設立した、熱狂的なファンを持つアメリカのインク・万年筆メーカー。耐水性・耐光性に優れた膨大な種類の万年筆インクで世界的に有名だが、Ahab・Konrad・Nib Creaperといった手頃な価格のピストン式・フレックスニブ万年筆も製造している。調整やカスタムを楽しむユーザーに愛され、フレックスニブやペンの改造文化への入り口として多くの愛好家を生み出してきた。",
+    "features": ["Vast bulletproof and waterproof ink lineup", "Affordable flex-nib piston fillers", "Tinkerer-friendly customizable pens"],
+    "officialUrl": "https://noodlersink.com/",
+    "image": "/images/brands/noodlers.svg"
+  },
+  {
+    "id": "majohn",
+    "name": "Majohn",
+    "nameJa": "マジョン",
+    "country": "China",
+    "founded": 2022,
+    "description": "Majohn is a Chinese fountain pen maker based in Shanghai, formerly known as Moonman before rebranding around 2022. The brand has earned a strong reputation in the mid-tier market for innovative filling systems and well-engineered pens at accessible prices. The vacuum-filling M2 and M2S models offer a writing experience usually reserved for far more expensive pens, while the A1 retractable (a Pilot Vanishing Point alternative) has become a popular choice for everyday carry enthusiasts.",
+    "descriptionJa": "マジョン（MAJOHN）は上海を拠点とする中国の万年筆メーカーで、2022年頃にムーンマン（Moonman）から現在の名称にリブランドした。革新的な吸入機構と手堅い作り込みを手頃な価格で提供し、ミッドレンジ市場で高い評価を得ている。バキューム吸入式のM2・M2Sは本来高価格帯でしか味わえない書き味を実現し、ノック式万年筆A1はパイロット・キャップレスの代替として日常使いの愛好家から人気を集めている。",
+    "features": ["Vacuum-filling M2 and M2S models", "A1 retractable knock-style fountain pen", "Strong value in the mid-tier segment"],
+    "officialUrl": "https://www.majohn.com/",
+    "image": "/images/brands/majohn.svg"
   }
 ]
