@@ -3,8 +3,8 @@ title: "Best Fountain Pens for Architects and Engineers: Precision Picks"
 description: "Fountain pens that survive site visits, technical drawing, and field work — durable, fast-deploy, and waterproof-ink-friendly picks."
 category: "guide"
 tags: [architects, engineers, technical, durable, daily-driver]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedPens: ["pilot-vanishing-point", "lamy-2000", "sailor-pro-gear-slim", "pilot-custom-742"]
 articleType: "guide"
 ---

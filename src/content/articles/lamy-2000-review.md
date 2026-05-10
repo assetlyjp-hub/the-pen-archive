@@ -3,8 +3,8 @@ title: "Lamy 2000 Review: The Bauhaus Workhorse That Changes Your Mind"
 description: "Lamy 2000 reviewed after 5 years — the Makrolon body, hooded 14k nib, flush clip, and why it's the daily writer that wins over skeptics."
 category: "review"
 tags: [lamy, lamy-2000, makrolon, bauhaus, review]
-publishedAt: "2026-05-07"
-updatedAt: "2026-05-07"
+publishedAt: "2026-05-10"
+updatedAt: "2026-05-10"
 relatedPens: ["lamy-2000", "lamy-safari", "lamy-al-star"]
 articleType: "review"
 ---
