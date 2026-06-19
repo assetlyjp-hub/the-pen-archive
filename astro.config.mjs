@@ -5,6 +5,8 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 
+import cloudflare from '@astrojs/cloudflare';
+
 export default defineConfig({
   // 本番サイトのURL
   site: 'https://thepenarchive.com',
@@ -23,4 +25,6 @@ export default defineConfig({
       prefixDefaultLocale: false,  // 英語は / のまま、日本語は /ja/ プレフィックス
     },
   },
+
+  adapter: cloudflare(),
 });
