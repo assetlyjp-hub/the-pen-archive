@@ -29,7 +29,7 @@ Sizing refers to chemical treatments applied to paper fibers that control how mu
 
 Some papers have a smooth, almost waxy coating that creates an exceptional writing surface. This is why Tomoe River and Clairefontaine feel slick under the nib. Others, like Midori MD, use a slightly textured finish that gives more feedback. Neither approach is better — it depends on whether you prefer gliding or a bit of controlled friction.
 
-If you are still picking out your first pen and nib, our [guide to choosing nib sizes](/articles/how-to-choose-nib-size) covers how nib width affects ink flow and paper interaction.
+If you are still picking out your first pen and nib, our [guide to choosing nib sizes](/magazine/how-to-choose-nib-size) covers how nib width affects ink flow and paper interaction.
 
 ## The Top 6 Fountain Pen Papers Compared
 
@@ -41,7 +41,7 @@ Writing on Tomoe River feels like gliding on glass. Shading becomes dramatic, sh
 
 **Best for:** Ink collectors, sheen chasers, journaling with premium inks
 
-**The downsides:** Dry times are painfully long — expect 30 to 60 seconds or more with wet inks. Smearing is a constant risk for left-handed writers. The paper crinkles when wet and stays wavy after drying. Price is high, and the original 52 gsm is increasingly hard to find. If you love inks that display [shimmer and sheen effects](/articles/fountain-pen-ink-trends-2026), Tomoe River is worth the trade-offs, but it is not practical for quick note-taking.
+**The downsides:** Dry times are painfully long — expect 30 to 60 seconds or more with wet inks. Smearing is a constant risk for left-handed writers. The paper crinkles when wet and stays wavy after drying. Price is high, and the original 52 gsm is increasingly hard to find. If you love inks that display [shimmer and sheen effects](/magazine/fountain-pen-ink-trends-2026), Tomoe River is worth the trade-offs, but it is not practical for quick note-taking.
 
 **Bleed-through:** Minimal | **Feathering:** None | **Show-through:** Moderate (thin paper) | **Dry time:** Very slow
 
@@ -65,7 +65,7 @@ The paper is smooth, handles ink well, and is reasonably priced. It resists feat
 
 **Best for:** Daily notes, office use, students, beginners exploring fountain pens
 
-**The downsides:** The smooth coating can make the paper feel slippery — some writers find it sterile compared to the warmth of Midori MD. Dry times are longer than average office paper, though faster than Tomoe River. The bright white color can feel clinical. Some batches have inconsistent quality, with occasional pages that feather more than expected. If you are just starting out with a pen like the [LAMY Safari or TWSBI Eco](/articles/lamy-safari-vs-twsbi-eco), Rhodia is an excellent and affordable first paper.
+**The downsides:** The smooth coating can make the paper feel slippery — some writers find it sterile compared to the warmth of Midori MD. Dry times are longer than average office paper, though faster than Tomoe River. The bright white color can feel clinical. Some batches have inconsistent quality, with occasional pages that feather more than expected. If you are just starting out with a pen like the [LAMY Safari or TWSBI Eco](/magazine/lamy-safari-vs-twsbi-eco), Rhodia is an excellent and affordable first paper.
 
 **Bleed-through:** Rare | **Feathering:** Minimal | **Show-through:** Low | **Dry time:** Medium
 
@@ -73,7 +73,7 @@ The paper is smooth, handles ink well, and is reasonably priced. It resists feat
 
 Clairefontaine is the parent company behind Rhodia's paper, but their own branded notebooks use a heavier 90 gsm stock. The result is a slightly more substantial feel with even less show-through. Their Triomphe line, in particular, is a favorite for letter writing — the paper is luxuriously smooth, bright white, and comes in elegant A4 and A5 pads.
 
-The writing experience is silky and refined. Fine nibs glide effortlessly, broad nibs lay down rich, saturated lines, and shading performance is excellent. Clairefontaine paper tends to bring out the best in well-behaved inks like the [Pilot Iroshizuku line](/articles/best-fountain-pen-inks).
+The writing experience is silky and refined. Fine nibs glide effortlessly, broad nibs lay down rich, saturated lines, and shading performance is excellent. Clairefontaine paper tends to bring out the best in well-behaved inks like the [Pilot Iroshizuku line](/magazine/best-fountain-pen-inks).
 
 **Best for:** Letter writing, formal correspondence, artists and calligraphers
 
@@ -127,7 +127,7 @@ Here is how these papers stack up when you put them side by side across the cate
 
 **Top pick: Midori MD**
 
-Journaling means comfort over long sessions and a paper that makes your writing look beautiful without demanding special attention. Midori MD's warm cream tone, gentle texture, and balanced ink performance make it the ideal journaling companion. The thread-bound notebooks lay flat without coaxing, which matters when you are writing freely for twenty minutes. If you tend to use [sheening or shimmering inks](/articles/fountain-pen-ink-trends-2026) in your journal, upgrade to Tomoe River — you will sacrifice convenience for visual drama.
+Journaling means comfort over long sessions and a paper that makes your writing look beautiful without demanding special attention. Midori MD's warm cream tone, gentle texture, and balanced ink performance make it the ideal journaling companion. The thread-bound notebooks lay flat without coaxing, which matters when you are writing freely for twenty minutes. If you tend to use [sheening or shimmering inks](/magazine/fountain-pen-ink-trends-2026) in your journal, upgrade to Tomoe River — you will sacrifice convenience for visual drama.
 
 ### Letter Writing
 
@@ -139,7 +139,7 @@ Nothing says "I care about this letter" like Clairefontaine Triomphe. The 90 gsm
 
 **Top pick: Rhodia**
 
-For everyday notes — meeting minutes, to-do lists, quick thoughts — Rhodia strikes the right balance between quality and practicality. The dot-grid format is versatile, the notepads are affordable enough to use without guilt, and the paper handles fountain pen ink without drama. Keep a Rhodia pad on your desk next to your [daily writing pen](/articles/best-fountain-pens-beginners) and you will not think twice about the paper.
+For everyday notes — meeting minutes, to-do lists, quick thoughts — Rhodia strikes the right balance between quality and practicality. The dot-grid format is versatile, the notepads are affordable enough to use without guilt, and the paper handles fountain pen ink without drama. Keep a Rhodia pad on your desk next to your [daily writing pen](/magazine/best-fountain-pens-beginners) and you will not think twice about the paper.
 
 ### Bullet Journaling and Planning
 
@@ -168,13 +168,13 @@ Per-sheet cost tells a slightly different story. Rhodia and Leuchtturm offer the
 
 ## A Note on Copy Paper and Budget Options
 
-Not every writing session demands premium paper. For quick drafts, practice writing, or testing a new pen's flow, standard 24 lb / 90 gsm copy paper works fine. HP Premium32 is a well-known budget-friendly option that handles fountain pen ink surprisingly well for its price. Keeping your pen clean between uses matters more than paper choice for everyday reliability — our [fountain pen care guide](/articles/fountain-pen-care-maintenance) covers the basics.
+Not every writing session demands premium paper. For quick drafts, practice writing, or testing a new pen's flow, standard 24 lb / 90 gsm copy paper works fine. HP Premium32 is a well-known budget-friendly option that handles fountain pen ink surprisingly well for its price. Keeping your pen clean between uses matters more than paper choice for everyday reliability — our [fountain pen care guide](/magazine/fountain-pen-care-maintenance) covers the basics.
 
 ## How Nib Size Affects Paper Choice
 
 Your nib width changes the equation significantly. A Japanese fine nib (Pilot, Sailor, Platinum) lays down very little ink, meaning even mediocre paper performs acceptably. A broad or stub nib floods the page with ink, demanding better paper to avoid feathering and bleed.
 
-If you write with a [fine nib](/articles/how-to-choose-nib-size), you can get away with Leuchtturm or even decent office paper. If you write with a broad or wet nib — especially a [gold nib](/articles/gold-nib-vs-steel-nib) that tends to run wetter — invest in Tomoe River, Clairefontaine, or Rhodia. The nib-paper relationship is one of those things that sounds minor in theory but makes an enormous difference in practice.
+If you write with a [fine nib](/magazine/how-to-choose-nib-size), you can get away with Leuchtturm or even decent office paper. If you write with a broad or wet nib — especially a [gold nib](/magazine/gold-nib-vs-steel-nib) that tends to run wetter — invest in Tomoe River, Clairefontaine, or Rhodia. The nib-paper relationship is one of those things that sounds minor in theory but makes an enormous difference in practice.
 
 ## Final Recommendations
 

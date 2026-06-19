@@ -41,7 +41,7 @@ The 18k gold nib is small but excellent. EF is a true Japanese EF, fine enough f
 
 Weight is moderate, balance is grip-section forward, and after a couple of days you stop noticing the unusual clip position.
 
-For a deeper take see [Pilot Vanishing Point review 2026](/articles/pilot-vanishing-point-review-2026).
+For a deeper take see [Pilot Vanishing Point review 2026](/magazine/pilot-vanishing-point-review-2026).
 
 **Best for:** site visits, field surveying, anyone whose pen comes in and out of a pocket twenty times a day.
 **Watch out for:** the front clip is divisive. Some hands hate it. Try one before buying if possible.
@@ -68,7 +68,7 @@ The 14k nib is paired with a robust ebonite feed that keeps up with the ink dema
 **Best for:** architects who sketch as part of their thinking process.
 **Watch out for:** flex nibs are not for everyone. If you write with heavy pressure normally, the FA will spring sprung quickly. Light hand only.
 
-For more on this category see [best fountain pens for drawing](/articles/best-fountain-pens-for-drawing).
+For more on this category see [best fountain pens for drawing](/magazine/best-fountain-pens-for-drawing).
 
 ## Sailor Pro Gear Slim — the precision EF
 
@@ -122,7 +122,7 @@ The pen is half the equation. The ink is the other half. For technical work the 
 
 **De Atramentis Document inks** are a German line of dye-based inks that are water-resistant once dry. They are gentler on pens than pigment inks and the color range is broader. Document Black is excellent for daily field work.
 
-For more on ink choices for daily writing see [best everyday fountain pen inks](/articles/best-everyday-fountain-pen-inks).
+For more on ink choices for daily writing see [best everyday fountain pen inks](/magazine/best-everyday-fountain-pen-inks).
 
 ## Clip versus strap — how you carry the pen
 
@@ -146,7 +146,7 @@ I run a Vanishing Point on the shirt pocket for fast deploy and a Lamy 2000 in a
 | Lamy Safari | ~30 | EF (steel) | Cartridge or Z28 converter | ABS plastic | Wire, very strong | Indestructible |
 | Pelikan M205 EF | ~130 | EF (steel) | Piston, 1 ml | Acrylic | Strong | Real piston, small body |
 
-For more on nib sizing across brands see [how to choose nib size](/articles/how-to-choose-nib-size).
+For more on nib sizing across brands see [how to choose nib size](/magazine/how-to-choose-nib-size).
 
 ## Honest downsides
 
@@ -168,7 +168,7 @@ A guide that pretends every pen is perfect is a guide you should not trust.
 
 For the record. Vanishing Point F with Sailor Souboku in the shirt pocket. Lamy 2000 EF with Platinum Carbon Black in a single-pen leather slip in the bag. A TWSBI Eco F with Diamine Earl Grey in the office drawer as the fallback. That is the rotation that has survived three years of meetings, site visits, and the occasional rainstorm.
 
-For travel-specific pens that double as field tools see [best travel fountain pens](/articles/best-travel-fountain-pens). For longhand-friendly options when the work shifts to long-form notes see [best fountain pens for note-taking](/articles/best-fountain-pens-for-note-taking).
+For travel-specific pens that double as field tools see [best travel fountain pens](/magazine/best-travel-fountain-pens). For longhand-friendly options when the work shifts to long-form notes see [best fountain pens for note-taking](/magazine/best-fountain-pens-for-note-taking).
 
 ## FAQ
 

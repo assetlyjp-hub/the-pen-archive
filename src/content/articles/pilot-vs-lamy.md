@@ -49,7 +49,7 @@ If you care about nib variety and Japanese-style precision, Pilot wins.
 
 Lamy's approach is the opposite. Most Lamy pens — including the entire Safari range — use interchangeable steel nibs that pop in and out by hand. The nib on a $25 Safari is the exact same nib unit as on a $90 Studio or $150 Lamy CP1. You can buy a replacement nib for $20 and swap sizes in thirty seconds.
 
-This modularity is a huge advantage for beginners. You can buy a Safari in Fine, then try Medium, then try the 1.1mm Stub, without buying three pens. My [beginner's guide](/articles/best-fountain-pens-beginners) covers this starter path.
+This modularity is a huge advantage for beginners. You can buy a Safari in Fine, then try Medium, then try the 1.1mm Stub, without buying three pens. My [beginner's guide](/magazine/best-fountain-pens-beginners) covers this starter path.
 
 Lamy nibs write with moderate wetness and more feedback than Pilot's. They are not scratchy — just more tactile. The steel nibs are well-tuned but lack the subtle character of Pilot's gold nibs. They feel like reliable tools rather than refined instruments.
 
@@ -64,7 +64,7 @@ Lamy's gold nib offerings are limited. The Lamy 2000 has a semi-hooded 14K nib i
 - **Want to experiment with nib grinds cheaply**: Lamy (Safari makes regrinds affordable)
 - **Want specialty Japanese grinds**: Pilot
 
-For a deeper dive on nib choice, see my [nib size guide](/articles/how-to-choose-nib-size) and [gold vs steel comparison](/articles/gold-nib-vs-steel-nib).
+For a deeper dive on nib choice, see my [nib size guide](/magazine/how-to-choose-nib-size) and [gold vs steel comparison](/magazine/gold-nib-vs-steel-nib).
 
 ## Entry Pens: Metropolitan vs Safari
 
@@ -79,7 +79,7 @@ The two pens define their brands perfectly.
 - The Metropolitan feels like a piece of precision hardware.
 - The Safari feels like a design object you carry around to be seen.
 
-The Metropolitan writes finer and smoother out of the box. The Safari is more versatile thanks to swappable nibs. Many writers eventually own both. For a comparable Safari-class comparison at the entry level, see my [Lamy Safari vs TWSBI Eco comparison](/articles/lamy-safari-vs-twsbi-eco).
+The Metropolitan writes finer and smoother out of the box. The Safari is more versatile thanks to swappable nibs. Many writers eventually own both. For a comparable Safari-class comparison at the entry level, see my [Lamy Safari vs TWSBI Eco comparison](/magazine/lamy-safari-vs-twsbi-eco).
 
 ## Mid-Tier: Custom 74 vs Lamy 2000
 
@@ -93,7 +93,7 @@ Specification-wise, the Lamy 2000 is arguably the more engineered pen — the pi
 
 Writing-wise, I find the Custom 74 more consistently enjoyable. Pilot's QC is bulletproof. Lamy 2000 samples vary — some are flawless, some need a nibmeister visit. If you hate the idea of sending a new pen out for tuning, buy the Custom 74.
 
-For a full exploration of this tier, my [under-$200 guide](/articles/best-fountain-pens-under-200) covers both pens in detail alongside other strong contenders.
+For a full exploration of this tier, my [under-$200 guide](/magazine/best-fountain-pens-under-200) covers both pens in detail alongside other strong contenders.
 
 ## Filling Systems
 
@@ -101,7 +101,7 @@ For a full exploration of this tier, my [under-$200 guide](/articles/best-founta
 
 **Lamy** is more conservative. Most Lamy pens (including Safari, AL-Star, CP1, Studio, and Aion) use cartridge/converter with the proprietary Z28 converter. The Lamy 2000 is a piston filler. The Dialog 3 is a twist-retractable. The Imporium uses cartridge/converter. Compared to Pilot's range, Lamy's mechanisms are simpler and more uniform.
 
-For depth on how these systems compare, see my [filling systems guide](/articles/fountain-pen-filling-systems-guide).
+For depth on how these systems compare, see my [filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ## Ink Compatibility
 
@@ -111,7 +111,7 @@ Both brands use proprietary cartridges — Pilot's are long and narrow; Lamy's a
 
 **Lamy**: The Z28 converter fits nearly every Lamy pen — Safari, AL-Star, Studio, CP1. Lamy cartridges are proprietary but widely available. Third-party ink from Diamine, Robert Oster, and others works fine.
 
-A practical tip: if you buy into Lamy, stock up on the Z28 converter. It is often the limiting factor in how many pens you can ink simultaneously. For ink recommendations, my [best fountain pen inks guide](/articles/best-fountain-pen-inks) covers pairings.
+A practical tip: if you buy into Lamy, stock up on the Z28 converter. It is often the limiting factor in how many pens you can ink simultaneously. For ink recommendations, my [best fountain pen inks guide](/magazine/best-fountain-pen-inks) covers pairings.
 
 ## Service Availability
 
@@ -164,7 +164,7 @@ If you care about how a pen looks on your desk, Lamy has the upper hand. If you 
 
 Many serious writers own both. Pilot for everyday writing, Lamy for design appreciation and nib experimentation. The two brands are not substitutes — they serve different impulses.
 
-If you are just starting out, my [beginner's guide](/articles/best-fountain-pens-beginners) walks through the first-pen decision more broadly. And if budget is tight, my [pens under $100 guide](/articles/best-fountain-pens-under-100) covers entries from both brands.
+If you are just starting out, my [beginner's guide](/magazine/best-fountain-pens-beginners) walks through the first-pen decision more broadly. And if budget is tight, my [pens under $100 guide](/magazine/best-fountain-pens-under-100) covers entries from both brands.
 
 ## FAQ
 

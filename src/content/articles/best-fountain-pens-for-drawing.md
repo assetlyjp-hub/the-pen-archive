@@ -89,7 +89,7 @@ If you draw and then add watercolor or marker washes, your ink has to survive wa
 
 **Avoid for water work.** Standard inks like Iroshizuku, most Diamine, most Waterman — beautiful inks, but they will smear and bleed the second your watercolor brush touches them. They are great for journaling and writing, not for line-and-wash.
 
-For more on inks generally, my [best fountain pen inks](/articles/best-fountain-pen-inks) guide goes deeper into properties and brand differences.
+For more on inks generally, my [best fountain pen inks](/magazine/best-fountain-pen-inks) guide goes deeper into properties and brand differences.
 
 ## Paper that loves wet pens
 
@@ -103,7 +103,7 @@ Drawing paper for fountain pens needs to handle wet ink without bleeding through
 
 **Hahnemühle Nostalgie sketchbooks.** Ivory-toned, bookbinding-style sketchbooks with paper that handles fountain pens far better than most "sketchbook" paper does. Good for travel and urban sketching.
 
-For more on paper specifically, see my [best paper for fountain pens](/articles/best-paper-for-fountain-pens) guide.
+For more on paper specifically, see my [best paper for fountain pens](/magazine/best-paper-for-fountain-pens) guide.
 
 ## Honest downsides
 
@@ -133,13 +133,13 @@ Probably not on day one. Flex pens require pressure control your hand has to lea
 Brush pens and fude pens overlap, but a fude is faster to draw with for most line styles, less floody, and refillable with any fountain pen ink. Brush pens give you a softer, more painterly line. Both are great. I carry both.
 
 **Can I sketch with a Lamy Safari?**
-Yes, and many artists do. The Safari is rigid, so you do not get much line variation, but it is reliable, cheap, and easy to live with. Pair it with a Fine or EF nib and a water-resistant ink and you have a working sketcher. See my [best fountain pens under $100](/articles/best-fountain-pens-under-100) for similar entry-level options.
+Yes, and many artists do. The Safari is rigid, so you do not get much line variation, but it is reliable, cheap, and easy to live with. Pair it with a Fine or EF nib and a water-resistant ink and you have a working sketcher. See my [best fountain pens under $100](/magazine/best-fountain-pens-under-100) for similar entry-level options.
 
 **Steel or gold nib for drawing?**
-Steel is fine for the vast majority of drawing tasks. Gold becomes meaningful when you want flex or semi-flex action. For detail work and rigid line styles, steel will not hold you back. For more on the tradeoff, see [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+Steel is fine for the vast majority of drawing tasks. Gold becomes meaningful when you want flex or semi-flex action. For detail work and rigid line styles, steel will not hold you back. For more on the tradeoff, see [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
 **How do I pick a nib size?**
-Start with a Fine for general work, an EF for detail and urban sketching, a fude or 1.1 italic for graphic line variation. My [how to choose nib size](/articles/how-to-choose-nib-size) guide goes deeper.
+Start with a Fine for general work, an EF for detail and urban sketching, a fude or 1.1 italic for graphic line variation. My [how to choose nib size](/magazine/how-to-choose-nib-size) guide goes deeper.
 
 ## Where to start
 

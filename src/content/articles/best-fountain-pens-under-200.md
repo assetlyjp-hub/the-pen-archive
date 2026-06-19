@@ -24,7 +24,7 @@ Prices have climbed noticeably since 2023. Yen weakness, supply chain issues, an
 
 What you do NOT get at this price: urushi lacquer, solid sterling, maki-e art, or the cachet of a Pelikan M800. That is fine. The writing experience at $200 can be 90% of what $600 delivers.
 
-If you are still climbing the ladder, my [guide to pens under $100](/articles/best-fountain-pens-under-100) covers the tier below. And if you are brand new, start with the [beginner's guide](/articles/best-fountain-pens-beginners).
+If you are still climbing the ladder, my [guide to pens under $100](/magazine/best-fountain-pens-under-100) covers the tier below. And if you are brand new, start with the [beginner's guide](/magazine/best-fountain-pens-beginners).
 
 ## Our Top Picks
 
@@ -46,7 +46,7 @@ If I could only recommend one pen in this entire bracket, it would be the Custom
 
 The filling system uses Pilot's CON-70 converter, which holds more ink than almost any converter on the market. Combine that with a tuned gold nib, and you have a pen that writes continuously for a week without refilling.
 
-The Custom 74 is also remarkable for its nib selection — you can get it in Soft Fine (SF), Soft Medium (SM), Fine Medium (FM), and more specialty grinds if you know where to look. See my [nib size guide](/articles/how-to-choose-nib-size) for how to choose.
+The Custom 74 is also remarkable for its nib selection — you can get it in Soft Fine (SF), Soft Medium (SM), Fine Medium (FM), and more specialty grinds if you know where to look. See my [nib size guide](/magazine/how-to-choose-nib-size) for how to choose.
 
 What I dislike: the styling is conservative — some would say boring. The cap band is a little fussy. It does not feel as "built" as the Lamy 2000, though it writes arguably better.
 
@@ -72,7 +72,7 @@ The M205 is the entry point into Pelikan's celebrated piston-fill lineup, and it
 
 Pelikan's piston mechanism is legendary. The M205 uses the same precision-machined piston as pens three times the price. The ink window allows you to see when you are running low, and the transparent demonstrator versions reveal the beautiful internal engineering.
 
-Here is the upgrade secret: the M205 shares a nib unit with the M400. That means if you start with the steel-nibbed M205 at $130 and later want a gold nib, you can swap in an M400 14K gold nib for roughly $100 — still ending up well under $250 for what is essentially a Pelikan M400 with better color options. Combined with my [gold vs steel nib guide](/articles/gold-nib-vs-steel-nib), this is a smart long-term play.
+Here is the upgrade secret: the M205 shares a nib unit with the M400. That means if you start with the steel-nibbed M205 at $130 and later want a gold nib, you can swap in an M400 14K gold nib for roughly $100 — still ending up well under $250 for what is essentially a Pelikan M400 with better color options. Combined with my [gold vs steel nib guide](/magazine/gold-nib-vs-steel-nib), this is a smart long-term play.
 
 What I dislike: the M205 is smaller than the M400/M600/M800. If you have large hands, it may feel cramped unposted. The steel nib is well-tuned but not magical.
 
@@ -147,7 +147,7 @@ Sometimes the right move is to not buy anything in this range. A few situations 
 - **You are chasing flex.** Modern pens under $200 do not really flex. If vintage-style line variation is your goal, save for a Pilot Falcon ($250+) or buy a vintage Waterman on eBay.
 - **You want urushi, maki-e, or sterling.** These materials start around $300-400. There is no shortcut.
 
-Before you click buy, also read my notes on [fountain pen care and maintenance](/articles/fountain-pen-care-maintenance) — a well-maintained $100 pen outperforms a neglected $200 pen every time. And do not forget [paper](/articles/best-paper-for-fountain-pens) and [ink](/articles/best-fountain-pen-inks) — these matter as much as the pen itself.
+Before you click buy, also read my notes on [fountain pen care and maintenance](/magazine/fountain-pen-care-maintenance) — a well-maintained $100 pen outperforms a neglected $200 pen every time. And do not forget [paper](/magazine/best-paper-for-fountain-pens) and [ink](/magazine/best-fountain-pen-inks) — these matter as much as the pen itself.
 
 ## FAQ
 
@@ -165,7 +165,7 @@ All of them, yes. The Custom 74, Vanishing Point, and Vac700R are particularly w
 
 ### What about the Pilot Custom 823?
 
-The 823 is excellent but usually sits just above $250, so it falls outside this list. If you can stretch, it is one of the best pens in the entire sub-$300 market. See my [Pilot vs Sailor comparison](/articles/pilot-vs-sailor-comparison) for more on how Pilot's higher-end pens compare.
+The 823 is excellent but usually sits just above $250, so it falls outside this list. If you can stretch, it is one of the best pens in the entire sub-$300 market. See my [Pilot vs Sailor comparison](/magazine/pilot-vs-sailor-comparison) for more on how Pilot's higher-end pens compare.
 
 ### How do I choose between the Lamy 2000 and the Pilot Custom 74?
 

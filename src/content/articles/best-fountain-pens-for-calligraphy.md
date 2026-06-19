@@ -47,13 +47,13 @@ A simple rule: if you do not know which to start with, get a 1.1 mm stub. It tea
 
 ## Best stub nibs
 
-**TWSBI Eco with 1.1 mm stub** is what I recommend more than any other pen, full stop. The Eco is a piston-filler (you fill it directly from a bottle, no converter needed) with a clear ink window so you can see your ink supply. The 1.1 stub is smooth, lays down a wet line, and the pen holds enough ink for an entire practice session. For comparison shopping between this pen and the Lamy Safari, see [Lamy Safari vs TWSBI Eco](/articles/lamy-safari-vs-twsbi-eco). Mine has been daily-driven for three years.
+**TWSBI Eco with 1.1 mm stub** is what I recommend more than any other pen, full stop. The Eco is a piston-filler (you fill it directly from a bottle, no converter needed) with a clear ink window so you can see your ink supply. The 1.1 stub is smooth, lays down a wet line, and the pen holds enough ink for an entire practice session. For comparison shopping between this pen and the Lamy Safari, see [Lamy Safari vs TWSBI Eco](/magazine/lamy-safari-vs-twsbi-eco). Mine has been daily-driven for three years.
 
 **Pilot Custom 74 with stub nib** is the upgrade pick. A 14k gold stub on a classic Japanese pen body. The line variation is more subtle than the TWSBI but the writing experience is silkier in a way that is hard to describe until you feel it. This is a pen you keep for decades.
 
 **Sailor Pro Gear with stub nib** is for people who want the absolute glassy-smooth feeling Sailor is famous for, in a stub. It is a lot of money and it is worth it if you write a lot. Sailor stubs are slightly less expressive than Pelikan or Pilot stubs, which is the trade-off for that smoothness.
 
-**Pelikan M400 with BB or italic-cut nib** is another excellent gold-stub option. The M400 is a smaller piston-filler, beautifully made, and the broader nib options can be ordered as italic-cut for serious line variation. If you are weighing gold versus steel for any of these, [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib) goes deep on what you actually feel and what you do not.
+**Pelikan M400 with BB or italic-cut nib** is another excellent gold-stub option. The M400 is a smaller piston-filler, beautifully made, and the broader nib options can be ordered as italic-cut for serious line variation. If you are weighing gold versus steel for any of these, [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib) goes deep on what you actually feel and what you do not.
 
 ## Best flex nibs
 
@@ -78,13 +78,13 @@ You want **saturated, fast-drying inks** that do not feather on cheap paper and 
 - **Sailor Sei-boku** (pigmented blue-black, waterproof, brilliant for finished work)
 - **Noodler's Bernanke Black** (specifically formulated to dry fast, useful for stub and italic practice)
 
-Avoid heavily lubricated inks (they will smear under your hand) and ultra-shading inks (they look pretty but the variation distracts from letterform learning). Stay away from waterproof iron-gall inks for daily practice because they are harsh on nibs over time. For a deeper survey of what to put in any of these pens, [best fountain pen inks](/articles/best-fountain-pen-inks) walks through favorites by use case.
+Avoid heavily lubricated inks (they will smear under your hand) and ultra-shading inks (they look pretty but the variation distracts from letterform learning). Stay away from waterproof iron-gall inks for daily practice because they are harsh on nibs over time. For a deeper survey of what to put in any of these pens, [best fountain pen inks](/magazine/best-fountain-pen-inks) walks through favorites by use case.
 
 ## Paper matters more than you think
 
 A 1.9 mm italic nib lays down a lot of ink. Cheap copy paper will feather, bleed, and absorb ink unevenly. Practice on the wrong paper for a month and you will think your pen is broken.
 
-Use Rhodia (any of their pads), Tomoe River, Clairefontaine, or Midori. For calligraphy practice specifically, I print my own guidelines on Rhodia paper using a light gray pencil-style grid PDF. The HP Premium 32 lb paper is a budget option that handles most fountain pen ink without feathering. A full breakdown of paper choices is in [best paper for fountain pens](/articles/best-paper-for-fountain-pens).
+Use Rhodia (any of their pads), Tomoe River, Clairefontaine, or Midori. For calligraphy practice specifically, I print my own guidelines on Rhodia paper using a light gray pencil-style grid PDF. The HP Premium 32 lb paper is a budget option that handles most fountain pen ink without feathering. A full breakdown of paper choices is in [best paper for fountain pens](/magazine/best-paper-for-fountain-pens).
 
 ## Practice exercises that actually work
 
@@ -133,16 +133,16 @@ For italic, foundational, uncial, and blackletter, a fountain pen is more than e
 Stub. The rounded corners are forgiving when your hand angle wobbles, which it will. Move to italic once your stub work feels consistent.
 
 **Can I use any ink in a calligraphy fountain pen?**
-Almost any standard fountain pen ink. Avoid India ink, drawing ink, and shellac-based inks, which will permanently clog the feed. For more on choosing nib widths in general, [how to choose nib size](/articles/how-to-choose-nib-size) covers the trade-offs at every size.
+Almost any standard fountain pen ink. Avoid India ink, drawing ink, and shellac-based inks, which will permanently clog the feed. For more on choosing nib widths in general, [how to choose nib size](/magazine/how-to-choose-nib-size) covers the trade-offs at every size.
 
 **Are gold nibs worth it for italic and stub?**
-For italic, gold offers slightly more give and a smoother feel but no dramatic improvement. For stub, gold tends to feel noticeably wetter and softer, which most people prefer. Steel stubs are excellent and cheaper. The full comparison is in [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+For italic, gold offers slightly more give and a smoother feel but no dramatic improvement. For stub, gold tends to feel noticeably wetter and softer, which most people prefer. Steel stubs are excellent and cheaper. The full comparison is in [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
 **Is the Pilot Falcon a real flex pen?**
 Semi-flex. It bends and produces real line variation, but it is not as soft as a vintage wet noodle. For most modern calligraphers it is a more practical choice than vintage and the only modern flex I recommend without caveats.
 
 **What if I am on a tight budget?**
-Pilot Plumix italic and a TWSBI Eco with 1.1 stub will give you a complete italic and stub setup for under $60. If you are weighing other budget options, [best fountain pens under $100](/articles/best-fountain-pens-under-100) and [best fountain pens for beginners](/articles/best-fountain-pens-beginners) have more picks.
+Pilot Plumix italic and a TWSBI Eco with 1.1 stub will give you a complete italic and stub setup for under $60. If you are weighing other budget options, [best fountain pens under $100](/magazine/best-fountain-pens-under-100) and [best fountain pens for beginners](/magazine/best-fountain-pens-beginners) have more picks.
 
 **How long until my calligraphy looks decent?**
 With twenty minutes of focused practice four days a week, you will see real improvement at three months and confident letters at six. Faster if you find a teacher or a good workbook.

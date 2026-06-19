@@ -26,7 +26,7 @@ The criteria shift completely once you leave the house:
 - **Refill availability.** If your pen takes a proprietary cartridge only sold in one country, you are in trouble when you run out in Berlin.
 - **Durability against drops.** Hotel floors are usually hard.
 
-A pen that scores well on three of these but fails on one can still ruin a trip. For a broader view of what makes any pen worth buying, our [beginner's guide](/articles/best-fountain-pens-beginners) covers the fundamentals.
+A pen that scores well on three of these but fails on one can still ruin a trip. For a broader view of what makes any pen worth buying, our [beginner's guide](/magazine/best-fountain-pens-beginners) covers the fundamentals.
 
 ## Airplane Pressure and Ink Spills: The Real Physics
 
@@ -40,7 +40,7 @@ Three practical rules follow:
 2. **Keep the pen nib-up.** If ink does get past the feed, gravity keeps it pooled at the back of the barrel rather than running out the front.
 3. **Cartridge-based pens are safer than piston fillers.** The small air pocket in a cartridge is far smaller than the air column in a large piston filler, so the volume of displaced ink is smaller too.
 
-You will see lots of advice online saying fountain pens "never" leak on planes. That is survivorship bias. They leak enough that this section exists in every serious travel guide. For a deeper look at how different systems handle ink, see our [fountain pen filling systems guide](/articles/fountain-pen-filling-systems-guide).
+You will see lots of advice online saying fountain pens "never" leak on planes. That is survivorship bias. They leak enough that this section exists in every serious travel guide. For a deeper look at how different systems handle ink, see our [fountain pen filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ## Category 1: Pocket and Short Pens
 
@@ -103,7 +103,7 @@ Not as small as the others in this category, but worth mentioning for travelers 
 - Piston filler vulnerability to pressure changes
 - Plastic build is less drop-resistant than metal alternatives
 
-For more budget-friendly options at various sizes, our [best fountain pens under $50 guide](/articles/best-fountain-pens-under-50) goes deeper.
+For more budget-friendly options at various sizes, our [best fountain pens under $50 guide](/magazine/best-fountain-pens-under-50) goes deeper.
 
 ## Category 2: Carry-Everyday Full-Size
 
@@ -171,7 +171,7 @@ The beginner's pen that also makes an outstanding travel pen. Durable ABS plasti
 - Proprietary Lamy cartridges are not always available outside major cities
 - Not a pocket pen — it is 5.5 inches capped
 
-For left-handed writers evaluating the Safari and alternatives, see our [left-handed fountain pens guide](/articles/best-fountain-pens-left-handed).
+For left-handed writers evaluating the Safari and alternatives, see our [left-handed fountain pens guide](/magazine/best-fountain-pens-left-handed).
 
 ### Pilot Metropolitan (~$20)
 
@@ -304,7 +304,7 @@ If you take nothing else from this guide, take this. For travel safety, filling 
 4. **Vacuum filler (risky, but manageable).** Pens with a shut-off valve (like the TWSBI Vac700R) can be closed off entirely, which actually makes them very safe. Pens without one are the worst case.
 5. **Eyedropper (most risky).** The entire barrel is ink, sealed only by the section's threads. Heat and pressure changes can force ink past the feed easily. Generally avoid for air travel.
 
-For a more detailed explanation of how each system works day-to-day, see our [filling systems guide](/articles/fountain-pen-filling-systems-guide).
+For a more detailed explanation of how each system works day-to-day, see our [filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ## Packing Tips That Actually Work
 
@@ -314,9 +314,9 @@ For a more detailed explanation of how each system works day-to-day, see our [fi
 - **Carry cartridges as a backup.** Even if you use a piston filler daily, pack a handful of international standard cartridges. If your main pen fails, you can refill via syringe or switch to a cartridge-based backup.
 - **Do not check your fountain pens.** The pressure changes in the cargo hold are more severe than in the cabin, and baggage handlers treat bags the way they do. Keep pens in your carry-on.
 - **Pack a microfiber cloth.** For cleaning unexpected ink, for nib wiping, for drying after filling in a hotel sink.
-- **Know the paper situation.** Hotel stationery is often fountain-pen hostile. For serious journaling, bring your own notebook. Our [paper guide](/articles/best-paper-for-fountain-pens) covers the best options.
+- **Know the paper situation.** Hotel stationery is often fountain-pen hostile. For serious journaling, bring your own notebook. Our [paper guide](/magazine/best-paper-for-fountain-pens) covers the best options.
 
-For longer trips, a cleaning routine matters. Our [fountain pen care and maintenance guide](/articles/fountain-pen-care-maintenance) covers how to flush a pen in a hotel room and deal with dried nibs after time zones confuse your writing schedule.
+For longer trips, a cleaning routine matters. Our [fountain pen care and maintenance guide](/magazine/fountain-pen-care-maintenance) covers how to flush a pen in a hotel room and deal with dried nibs after time zones confuse your writing schedule.
 
 ## Honest Downsides Nobody Tells You
 
@@ -326,7 +326,7 @@ Checked luggage is where the worst stories come from. Even a perfectly packed pe
 
 Ink dries faster in airplane cabins than at home. The air in a 787 is drier than most deserts. Even a well-sealed pen may need a few scribbles to get going after a transatlantic flight. This is normal and not a defect.
 
-Refilling on the road is harder than you think. If your favorite ink is not locally available, you will run out. Sample vials are a traveler's best friend — they take up almost no space and carry enough ink for a multi-day trip. Our [fountain pen inks guide](/articles/best-fountain-pen-inks) covers the most reliable ink brands for travel.
+Refilling on the road is harder than you think. If your favorite ink is not locally available, you will run out. Sample vials are a traveler's best friend — they take up almost no space and carry enough ink for a multi-day trip. Our [fountain pen inks guide](/magazine/best-fountain-pen-inks) covers the most reliable ink brands for travel.
 
 ## FAQ
 

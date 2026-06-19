@@ -41,7 +41,7 @@ The 18k gold nib is responsive without being soft. I use the F nib, which lays d
 
 The downside is the clip placement. It sits where your fingers naturally rest, which some people find unbearable. I adjusted in about two days and now don't notice it. Try one in a store before buying if you can. If you want the same mechanism in a smaller body, the [Capless Decimo](#7-pilot-capless-decimo) is the slimmer sibling.
 
-For my full take on this pen, see my [Pilot Vanishing Point review](/articles/pilot-vanishing-point-review-2026).
+For my full take on this pen, see my [Pilot Vanishing Point review](/magazine/pilot-vanishing-point-review-2026).
 
 ### 2. Lamy Safari — The Workhorse
 
@@ -49,7 +49,7 @@ The Safari is the pen I hand to anyone who asks me what to start with for note-t
 
 The steel nibs are slightly wetter than a Pilot but still acceptable for everyday paper. I've abused two Safaris through grad school and one through a year of consulting. They keep working. The cap snaps shut decisively. The clip is a wire spring that holds onto a notebook cover well.
 
-If you want the same nib unit in a brushed stainless body, the AL-Star is the upgraded sibling. For people who want a great cheap fountain pen that writes well and survives bag abuse, this is the answer. See my [beginner's guide](/articles/best-fountain-pens-beginners) for similar entry-level options.
+If you want the same nib unit in a brushed stainless body, the AL-Star is the upgraded sibling. For people who want a great cheap fountain pen that writes well and survives bag abuse, this is the answer. See my [beginner's guide](/magazine/best-fountain-pens-beginners) for similar entry-level options.
 
 ### 3. Pilot Metropolitan — The Bargain Brilliance
 
@@ -65,7 +65,7 @@ The Eco is a piston-filler — you twist the back, the piston draws ink up from 
 
 The demonstrator body lets you watch your ink level drop, which is satisfying in a deeply nerdy way. The steel EF nib writes a clean, fine line — drier than the Pilots above, which means it dries faster on cheap paper. At around $35, it's the best piston-filler under $50.
 
-Downsides: TWSBI piston seals can dry out if you leave the pen unused for months. They're also known to occasionally develop hairline cracks in the body. Recent batches have been better, but it's worth knowing. See my guide on [filling systems](/articles/fountain-pen-filling-systems-guide) — wait, I don't have that link here. The piston is the main reason to consider this pen over a cartridge-converter setup.
+Downsides: TWSBI piston seals can dry out if you leave the pen unused for months. They're also known to occasionally develop hairline cracks in the body. Recent batches have been better, but it's worth knowing. See my guide on [filling systems](/magazine/fountain-pen-filling-systems-guide) — wait, I don't have that link here. The piston is the main reason to consider this pen over a cartridge-converter setup.
 
 ### 5. Pilot Custom 74 with EF — The Refined Daily Driver
 
@@ -73,7 +73,7 @@ When I want a pen that feels like a tool rather than a toy, this is my pick. The
 
 For meeting notes where I'm cramming detail onto Rhodia or Tomoe River paper, this pen is unbeatable. It's also light, which matters during a three-hour writing session. The Con-70 converter holds an enormous amount of ink for a non-piston pen.
 
-Around $160. If you want one nice fountain pen and you take a lot of notes, this is the one. Pair it with the right ink — see my [recommended everyday inks](/articles/best-everyday-fountain-pen-inks).
+Around $160. If you want one nice fountain pen and you take a lot of notes, this is the one. Pair it with the right ink — see my [recommended everyday inks](/magazine/best-everyday-fountain-pen-inks).
 
 ### 6. Sailor Pro Gear Slim — The Architect's Pen
 
@@ -81,13 +81,13 @@ Sailor nibs have a distinct "feedback" — that subtle pencil-on-paper texture t
 
 The Pro Gear Slim is the smaller of Sailor's two main lines. It's pocketable, the cap snaps shut firmly, and the 14k MF nib (medium-fine) is my preferred Sailor for note-taking. I find their F a bit too dry. The MF is a sweet spot.
 
-Around $200. The premium here is real but justified — Sailor's nib tuning is a craft tradition that you can feel on every stroke. For more on choosing the right nib width, see [how to choose nib size](/articles/how-to-choose-nib-size).
+Around $200. The premium here is real but justified — Sailor's nib tuning is a craft tradition that you can feel on every stroke. For more on choosing the right nib width, see [how to choose nib size](/magazine/how-to-choose-nib-size).
 
 ### 7. Platinum 3776 with C Nib — The Cap-Closure Hero
 
 Platinum's "Slip & Seal" cap mechanism is the best in the industry for preventing the pen from drying out between uses. If you take notes intermittently — pen sits for a day, gets used for ten minutes, sits for two days, gets used again — this matters enormously.
 
-The C (Coarse, also called M depending on region — Platinum's labeling is its own thing, see [how to choose nib size](/articles/how-to-choose-nib-size)) is what I'd choose for note-taking. The 14k nib is firm and consistent. No flex, no drama, just a reliable line.
+The C (Coarse, also called M depending on region — Platinum's labeling is its own thing, see [how to choose nib size](/magazine/how-to-choose-nib-size)) is what I'd choose for note-taking. The 14k nib is firm and consistent. No flex, no drama, just a reliable line.
 
 Around $180. The 3776 is also one of the lightest pens in this list, which I appreciate during long sessions.
 
@@ -120,9 +120,9 @@ I want to be straight with you. Note-taking — fast, pressure-varied, on whatev
 
 **Nib alignment shifts.** When you push hard during a fast lecture, the tines can slowly drift out of alignment. This is fixable (gently realign with your fingernails, or send to a nib grinder for a few dollars), but it does happen.
 
-**Faster ink consumption.** You'll go through ink. A Lamy converter might last me three days during a normal week and one day during a heavy meeting week. Plan accordingly. This is one reason a [bottled ink setup](/articles/best-fountain-pen-inks) makes more sense than cartridges for serious note-takers — see my [bottled vs cartridge comparison](#) — wait, I'll link that elsewhere.
+**Faster ink consumption.** You'll go through ink. A Lamy converter might last me three days during a normal week and one day during a heavy meeting week. Plan accordingly. This is one reason a [bottled ink setup](/magazine/best-fountain-pen-inks) makes more sense than cartridges for serious note-takers — see my [bottled vs cartridge comparison](#) — wait, I'll link that elsewhere.
 
-**Bad paper bleeds and feathers.** Cheap legal pads, copy paper, and most spiral notebooks are not friendly to fountain pens. You'll get feathering (ink spreading sideways) and sometimes bleed-through (ink visible on the back). The fix is either better paper, finer nibs, drier inks, or all three. See my [paper guide](/articles/best-paper-for-fountain-pens) for specifics.
+**Bad paper bleeds and feathers.** Cheap legal pads, copy paper, and most spiral notebooks are not friendly to fountain pens. You'll get feathering (ink spreading sideways) and sometimes bleed-through (ink visible on the back). The fix is either better paper, finer nibs, drier inks, or all three. See my [paper guide](/magazine/best-paper-for-fountain-pens) for specifics.
 
 **Retractable pens have more failure points.** The Vanishing Point and Decimo have a mechanism. Mechanisms can fail. In ten years and probably half a million words, I've had one VP develop a slightly sluggish click. Pilot fixed it for free. But it is a thing that can happen.
 
@@ -137,19 +137,19 @@ Those two pens cover ninety percent of my writing. The rest of my collection sit
 ## FAQ
 
 **1. What's the single best note-taking fountain pen for under $50?**
-The Pilot Metropolitan with a fine nib. The Lamy Safari is a close second, especially if you want color options or plan to share the pen with someone learning. Both are in my [under-$100 guide](/articles/best-fountain-pens-under-100).
+The Pilot Metropolitan with a fine nib. The Lamy Safari is a close second, especially if you want color options or plan to share the pen with someone learning. Both are in my [under-$100 guide](/magazine/best-fountain-pens-under-100).
 
 **2. Are fountain pens actually faster than ballpoints for notes?**
 Once your hand adjusts, yes — slightly. The lower writing pressure means less hand fatigue over long sessions, which keeps you fast longer. The first hour is similar; by hour three, the fountain pen wins.
 
 **3. What nib size should I use for note-taking?**
-Fine or extra-fine for most cases. Western F is roughly equal to Japanese M; Japanese F is finer than Western F. If you're writing on cheap paper, go finer. See my [nib size guide](/articles/how-to-choose-nib-size).
+Fine or extra-fine for most cases. Western F is roughly equal to Japanese M; Japanese F is finer than Western F. If you're writing on cheap paper, go finer. See my [nib size guide](/magazine/how-to-choose-nib-size).
 
 **4. Will fountain pens bleed through college-ruled spiral notebook paper?**
 Usually yes, with most inks and any nib above EF. If you must use cheap paper, use a Japanese EF nib and a drier ink like Pilot Black or Sailor Kiwa-Guro pigmented ink.
 
 **5. Can I take fountain pen notes on airplanes?**
-Yes, but cap the pen tightly during ascent and descent. Pressure changes can cause leaks, especially on partially-filled pens. Better: travel with the pen full or empty, not half. See my [travel pens guide](/articles/best-travel-fountain-pens) — wait, that's a different article.
+Yes, but cap the pen tightly during ascent and descent. Pressure changes can cause leaks, especially on partially-filled pens. Better: travel with the pen full or empty, not half. See my [travel pens guide](/magazine/best-travel-fountain-pens) — wait, that's a different article.
 
 **6. Should I get a Pilot Vanishing Point or a Lamy 2000 for note-taking?**
 The VP is faster (retractable). The Lamy 2000 is more elegant but uses a screw cap. For pure speed, VP. For meetings where you want a more refined-looking pen and don't mind unscrewing a cap, the 2000.
@@ -164,4 +164,4 @@ Maybe. Fountain pens reward slow, deliberate movement and punish iron-grip press
 
 Note-taking fountain pens are tools, not jewelry. The right one disappears in your hand, keeps up with your thinking, and lets you focus on the words instead of the writing instrument. The Vanishing Point does this for me. A Lamy Safari does it for the colleague I lent one to two years ago who has never given it back. A TWSBI Eco does it for the friend who fills three pages of meeting notes every day.
 
-Pick from this list, give yourself a week to adjust, and you'll wonder why you waited so long. For more recommendations across price ranges, see my [under-$100 guide](/articles/best-fountain-pens-under-100), [under-$200 guide](/articles/best-fountain-pens-under-200), and the broader [beginner's guide](/articles/best-fountain-pens-beginners).
+Pick from this list, give yourself a week to adjust, and you'll wonder why you waited so long. For more recommendations across price ranges, see my [under-$100 guide](/magazine/best-fountain-pens-under-100), [under-$200 guide](/magazine/best-fountain-pens-under-200), and the broader [beginner's guide](/magazine/best-fountain-pens-beginners).

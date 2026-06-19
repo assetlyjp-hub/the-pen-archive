@@ -19,7 +19,7 @@ Five qualities matter for daily writing. Get any one of them badly wrong and the
 
 **Flow.** A daily ink starts immediately. No coaxing, no warming up the nib on a scratch pad. It maintains a consistent line whether you are writing a meeting note in three seconds or a journal page over twenty minutes. Too dry and you get hard starts; too wet and you lose detail and dry time. The sweet spot is medium-wet with low surface tension.
 
-**Dry time.** Office paper, agendas, and forms tend to be uncoated and absorbent — but cheap ones can also resist ink. A daily ink dries in 10 to 20 seconds on standard paper. Anything longer and you will smear it onto your palm before you finish the page. Left-handers especially need fast-drying inks; see [best fountain pens left-handed](/articles/best-fountain-pens-left-handed) for paired pen choices.
+**Dry time.** Office paper, agendas, and forms tend to be uncoated and absorbent — but cheap ones can also resist ink. A daily ink dries in 10 to 20 seconds on standard paper. Anything longer and you will smear it onto your palm before you finish the page. Left-handers especially need fast-drying inks; see [best fountain pens left-handed](/magazine/best-fountain-pens-left-handed) for paired pen choices.
 
 **Water resistance.** Not waterproof — that is a different category — but resistant enough that a coffee splash, a sweaty palm, or a damp envelope does not erase your work. A few inks use cellulose-reactive or pigment chemistry to bond with paper.
 
@@ -27,7 +27,7 @@ Five qualities matter for daily writing. Get any one of them badly wrong and the
 
 **Archival quality.** If you take notes that matter — meeting minutes, journals, design sketches — you want an ink that does not fade in five years on a sunlit shelf or wash off if a pipe leaks. Pigmented or iron-gall inks excel here; most dye-based inks fade slowly.
 
-For a deeper reference on ink chemistry and storage, see [best fountain pen inks](/articles/best-fountain-pen-inks).
+For a deeper reference on ink chemistry and storage, see [best fountain pen inks](/magazine/best-fountain-pen-inks).
 
 ## Top Blacks: The Reliable Three
 
@@ -93,7 +93,7 @@ Waterman's bottled inks are the most paper-tolerant inks I have used. Mysterious
 
 A vibrant burgundy-purple that reads as a serious colour rather than a novelty. Yama-budo behaves like a Pilot ink should — clean, well-flowing, nib-safe. It is the colour I reach for when I want my notes to look like deliberate writing rather than utility.
 
-For more on shading and sheen-rich inks (which are not on this list because they are not daily drivers), see [fountain pen ink trends 2026](/articles/fountain-pen-ink-trends-2026).
+For more on shading and sheen-rich inks (which are not on this list because they are not daily drivers), see [fountain pen ink trends 2026](/magazine/fountain-pen-ink-trends-2026).
 
 ## Inks to Avoid for Daily Use
 
@@ -137,7 +137,7 @@ Below is a rough comparison based on my own usage notes. Dry time is on Rhodia 8
 
 **Iroshizuku Yama-budo** — burgundy-purple, dry time 14s, flow medium, water resistance low, pen safety excellent.
 
-For the complete framework on choosing paper that pairs with these inks, see [best paper for fountain pens](/articles/best-paper-for-fountain-pens).
+For the complete framework on choosing paper that pairs with these inks, see [best paper for fountain pens](/magazine/best-paper-for-fountain-pens).
 
 ## How I Actually Rotate My Daily Inks
 
@@ -160,7 +160,7 @@ A 50ml bottle of Pilot Blue Black lasts me roughly nine months of daily writing 
 Mixing is risky and only safe within the same brand and chemistry family. Pilot inks can sometimes be mixed with Pilot inks; Diamine with Diamine. Never mix pigmented inks with dye inks. Never mix iron gall inks with anything. When in doubt, do not mix.
 
 **How often should I clean my daily pen?**
-Every six to eight weeks for dye inks, every four to six weeks for pigmented inks, every three to four weeks for iron gall. See [how to clean fountain pen 2026](/articles/how-to-clean-fountain-pen-2026) for the procedure.
+Every six to eight weeks for dye inks, every four to six weeks for pigmented inks, every three to four weeks for iron gall. See [how to clean fountain pen 2026](/magazine/how-to-clean-fountain-pen-2026) for the procedure.
 
 **Do iron gall inks belong on a daily-driver list?**
 For most modern users, no. Iron gall (Rohrer & Klingner Salix, ESS, Diamine Registrar) is exceptionally water-resistant and lightfast but requires more frequent cleaning. For specific archival use cases they are unmatched, but they require care and dedicated pens.
@@ -177,7 +177,7 @@ Cool, dark place, capped tightly, upright. Most fountain pen inks last five to t
 **Are vintage inks from the 1970s and 1980s safe to use?**
 Generally no. The chemistry can degrade, mold can develop, and old inks can damage modern pens. If you have an unopened bottle of vintage Parker Quink from 1975, it makes a lovely shelf decoration. Buy fresh ink for actual writing.
 
-For broader pen care that pairs with ink choice, see [fountain pen care maintenance](/articles/fountain-pen-care-maintenance).
+For broader pen care that pairs with ink choice, see [fountain pen care maintenance](/magazine/fountain-pen-care-maintenance).
 
 ## Honest Downsides
 

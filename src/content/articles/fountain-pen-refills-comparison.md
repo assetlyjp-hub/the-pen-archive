@@ -33,7 +33,7 @@ A cartridge is a small sealed plastic tube pre-filled with ink. You push it into
 
 I keep a stash of cartridges in my travel kit and at the office for one simple reason: they are foolproof. There is no way to spill, no risk of getting ink on my fingers, and no cleanup. When I am running between meetings and notice my pen has gone dry, I can swap a cartridge in 10 seconds without leaving my desk.
 
-For students, cartridges make even more sense. A young writer using a [LAMY Safari](/articles/best-fountain-pens-beginners) does not want to deal with a bottle of ink in a backpack alongside textbooks and a laptop.
+For students, cartridges make even more sense. A young writer using a [LAMY Safari](/magazine/best-fountain-pens-beginners) does not want to deal with a bottle of ink in a backpack alongside textbooks and a laptop.
 
 ### The Limitations Are Real
 
@@ -78,7 +78,7 @@ Most converters work by twisting a knob (piston-style) or pressing a metal squee
 
 The converter is the bridge between convenience and freedom. With one purchase (typically $5 to $25), you unlock the entire bottled-ink world while keeping your existing pen. I run nearly all my daily-driver pens on converters because I want access to specific colors — Pilot Iroshizuku Tsuki-yo, Sailor Ink Studio 162, Diamine Oxblood — that simply do not exist as cartridges.
 
-For a deeper look at all the filling systems pens come with, see my [filling systems guide](/articles/fountain-pen-filling-systems-guide).
+For a deeper look at all the filling systems pens come with, see my [filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ### The Compromise
 
@@ -112,13 +112,13 @@ Three reasons.
 
 **Cost per page.** Once you own the bottle, ink becomes essentially free. A 30 ml bottle of Pilot Iroshizuku ($28) gives you about 30 fills of a typical converter, or about 18 fills of a piston pen. Either way, you are spending pennies per refill.
 
-**Ink selection.** This is the biggest reason. The fountain pen ink world has exploded over the past decade. Brands like Sailor, Diamine, Pilot Iroshizuku, Pelikan Edelstein, Robert Oster, and many others offer hundreds of unique colors with properties like sheen, shading, shimmer, and chromatic shifting. None of this exists in cartridge form. For more on the colors worth trying, see my [best fountain pen inks roundup](/articles/best-fountain-pen-inks) and the [2026 ink trends report](/articles/fountain-pen-ink-trends-2026).
+**Ink selection.** This is the biggest reason. The fountain pen ink world has exploded over the past decade. Brands like Sailor, Diamine, Pilot Iroshizuku, Pelikan Edelstein, Robert Oster, and many others offer hundreds of unique colors with properties like sheen, shading, shimmer, and chromatic shifting. None of this exists in cartridge form. For more on the colors worth trying, see my [best fountain pen inks roundup](/magazine/best-fountain-pen-inks) and the [2026 ink trends report](/magazine/fountain-pen-ink-trends-2026).
 
 ### The Honest Downsides
 
 Bottled ink is not glamorous when you are filling a pen on a hotel room desk. Mess is real. Drying time is real. Storage is real — a shelf of 20 ink bottles takes up actual space.
 
-Bottled ink also requires more frequent cleaning. Because you are using diverse inks (some pigmented, some saturated, some with sheen particles), you need to flush the pen between colors to avoid muddy results. See my [cleaning guide](/articles/fountain-pen-care-maintenance) for the routine I follow.
+Bottled ink also requires more frequent cleaning. Because you are using diverse inks (some pigmented, some saturated, some with sheen particles), you need to flush the pen between colors to avoid muddy results. See my [cleaning guide](/magazine/fountain-pen-care-maintenance) for the routine I follow.
 
 ### Eyedropper Conversion
 
@@ -148,7 +148,7 @@ This is where I have changed my mind over the years.
 
 If you must fly with a filled pen, fill it completely full (no air gap is the key) and store it nib-up. A pen that is two-thirds full is more likely to leak than a pen that is full to the brim.
 
-For more on travel-friendly setups, see my [travel fountain pens guide](/articles/best-travel-fountain-pens).
+For more on travel-friendly setups, see my [travel fountain pens guide](/magazine/best-travel-fountain-pens).
 
 **Hotels and offices.** Cartridges win here too. You can swap one in 10 seconds without spreading ink on hotel furniture or office desks. I always pack a few spares in my pen case.
 
@@ -165,7 +165,7 @@ For full transparency: I run a hybrid system.
 
 Three different refill systems for four different contexts. None of them is wrong — they are tools for different jobs. Pick the system that matches the way you write, and do not feel bad about using cartridges if that is what works.
 
-If you are still picking your first pen, my [beginner buying guide](/articles/best-fountain-pens-beginners) and [best pens under $100](/articles/best-fountain-pens-under-100) cover models that work well across all three systems.
+If you are still picking your first pen, my [beginner buying guide](/magazine/best-fountain-pens-beginners) and [best pens under $100](/magazine/best-fountain-pens-under-100) cover models that work well across all three systems.
 
 ## FAQ
 

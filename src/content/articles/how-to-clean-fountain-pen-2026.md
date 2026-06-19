@@ -60,7 +60,7 @@ This is the most common modern filling system and the easiest to clean. Examples
 
 Total active time: about 5 minutes. Total elapsed time: overnight.
 
-For more on different filling mechanisms, see my [fountain pen filling systems guide](/articles/fountain-pen-filling-systems-guide).
+For more on different filling mechanisms, see my [fountain pen filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ## Step-by-Step: Cleaning a Piston Filler
 
@@ -105,7 +105,7 @@ For pens that have stubborn staining, sat dry too long, or held a particularly a
 
 Diluted ammonia dissolves dried ink in a way water alone cannot, because most fountain pen inks use mildly basic dyes that respond to a slightly more basic solvent. It works on virtually every modern ink — saturated reds, shimmer inks, and dried Iroshizuku I have all rescued this way.
 
-For more on which inks tend to be problematic, my [best fountain pen inks roundup](/articles/best-fountain-pen-inks) flags the well-behaved ones versus the demanding ones.
+For more on which inks tend to be problematic, my [best fountain pen inks roundup](/magazine/best-fountain-pen-inks) flags the well-behaved ones versus the demanding ones.
 
 ## What NOT to Do
 
@@ -125,7 +125,7 @@ This list is shorter than the list of things you should do, but every entry is s
 
 **Never assume distilled water is necessary.** It is not. Tap water works fine in almost all cities. If you live somewhere with very hard water, filter it — but distilled water is overkill for routine cleaning.
 
-For more on long-term storage and care, see my full [fountain pen care and maintenance guide](/articles/fountain-pen-care-maintenance).
+For more on long-term storage and care, see my full [fountain pen care and maintenance guide](/magazine/fountain-pen-care-maintenance).
 
 ## Restoring Stuck or Dried-Out Pens
 
@@ -139,7 +139,7 @@ Sometimes you inherit a pen, find one in a drawer, or buy a vintage piece that h
 
 **Step 4: For mechanical sticking,** never force it. A stuck piston usually means a dry seal. Drop a tiny amount of pure silicone grease into the barrel, let it work into the seal overnight, then try again gently. If it still does not move, take it to a nibmeister rather than risk cracking the barrel.
 
-I have rescued maybe a dozen vintage pens this way over the years. The slow, patient approach works far more often than aggressive attempts. For specific guidance on older pens, see my [vintage fountain pens guide](/articles/vintage-fountain-pens-guide).
+I have rescued maybe a dozen vintage pens this way over the years. The slow, patient approach works far more often than aggressive attempts. For specific guidance on older pens, see my [vintage fountain pens guide](/magazine/vintage-fountain-pens-guide).
 
 ## Honest Downsides of Regular Cleaning
 
@@ -170,7 +170,7 @@ I do not recommend it. Vinegar is acidic and can corrode some metal nib componen
 Either it is not fully dry, or you have a nib alignment issue rather than a cleaning issue. Let it dry overnight first. If skipping persists with fresh ink in a fully dry pen, the problem is mechanical, not chemical.
 
 **Should I clean a brand new fountain pen before first use?**
-Yes, always. Manufacturing oils and assembly residue are common, and a single water flush before first ink fill produces noticeably better flow. This is especially true for budget pens — see my [best fountain pens for beginners](/articles/best-fountain-pens-beginners) and [best fountain pens under $100](/articles/best-fountain-pens-under-100) for specific recommendations on starter pens worth this small effort.
+Yes, always. Manufacturing oils and assembly residue are common, and a single water flush before first ink fill produces noticeably better flow. This is especially true for budget pens — see my [best fountain pens for beginners](/magazine/best-fountain-pens-beginners) and [best fountain pens under $100](/magazine/best-fountain-pens-under-100) for specific recommendations on starter pens worth this small effort.
 
 **What if my pen still has ink stains after cleaning?**
 Cosmetic staining inside a demonstrator is sometimes permanent, especially after saturated inks. Function is unaffected. If you cannot stand the look, full disassembly and a magic eraser on plastic parts (never on the nib or feed) sometimes helps. Most of the time, accept it as character.

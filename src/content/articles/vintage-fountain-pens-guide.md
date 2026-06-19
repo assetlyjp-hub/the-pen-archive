@@ -13,13 +13,13 @@ The first vintage fountain pen I ever bought was a 1948 Parker 51 Vacumatic in c
 
 That is the vintage promise — and the vintage trap. The promise is real: gold nibs that took weeks to tune by hand, materials that modern factories no longer use, and writing characteristics you simply cannot buy new. The trap is that the market is full of broken pens, optimistic descriptions, and restorers who quietly disappeared during the pandemic.
 
-This guide is what I wish someone had handed me before I clicked "Buy It Now" on that first 51. It is written for beginners who already understand modern fountain pens — if you are still figuring out the basics, start with the [best fountain pens for beginners](/articles/best-fountain-pens-beginners) and come back here once you are ready to go down the rabbit hole.
+This guide is what I wish someone had handed me before I clicked "Buy It Now" on that first 51. It is written for beginners who already understand modern fountain pens — if you are still figuring out the basics, start with the [best fountain pens for beginners](/magazine/best-fountain-pens-beginners) and come back here once you are ready to go down the rabbit hole.
 
 ## Why buy vintage at all?
 
 Three honest reasons, in order of importance.
 
-**Nibs.** This is the real argument. A vintage Parker, Pelikan, or Waterman gold nib was hand-tuned by people who tuned nibs all day, every day, for forty years. Modern brands tune nibs too, but the economics have changed. A vintage 14k or 18k gold nib in good condition will frequently outperform a $400 modern nib in flex, line variation, and wet-noodle softness. If you have read the [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib) comparison and decided you want gold, vintage is where your dollar goes furthest.
+**Nibs.** This is the real argument. A vintage Parker, Pelikan, or Waterman gold nib was hand-tuned by people who tuned nibs all day, every day, for forty years. Modern brands tune nibs too, but the economics have changed. A vintage 14k or 18k gold nib in good condition will frequently outperform a $400 modern nib in flex, line variation, and wet-noodle softness. If you have read the [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib) comparison and decided you want gold, vintage is where your dollar goes furthest.
 
 **Character.** Celluloid in colors no one mixes anymore. Hard rubber that has oxidized to a chocolate brown the manufacturer never intended. Imprints worn smooth by a previous owner's grip. Vintage pens carry history in a way new pens cannot.
 
@@ -50,7 +50,7 @@ Pelikan invented the modern piston filler in 1929 with the Model 100, and the de
 
 The pre-war 100s have stub-shaped 14k nibs that frequently show genuine flex. Capacity is moderate (about 1.5ml). The piston seals are usually cork — which dries out over decades — and almost every vintage 100 you buy will need a seal replacement before it holds ink reliably.
 
-Expect **$200-400** for an unrestored 100N in good cosmetic condition, **$350-600** restored. If you already love the [Pelikan filling system mechanics](/articles/fountain-pen-filling-systems-guide), the 100 is your spiritual ancestor.
+Expect **$200-400** for an unrestored 100N in good cosmetic condition, **$350-600** restored. If you already love the [Pelikan filling system mechanics](/magazine/fountain-pen-filling-systems-guide), the 100 is your spiritual ancestor.
 
 ### 3. Sheaffer Snorkel (1952-1958) — engineering marvel
 
@@ -91,7 +91,7 @@ The filling system determines how worried you should be when you buy. Here is th
 
 If you want to buy a vintage pen and write with it that same week, look for an aerometric Parker 51 or a recently-restored anything. Anything else will involve waiting.
 
-For the underlying mechanics of how each system actually works, the [filling systems guide](/articles/fountain-pen-filling-systems-guide) explains the modern equivalents.
+For the underlying mechanics of how each system actually works, the [filling systems guide](/magazine/fountain-pen-filling-systems-guide) explains the modern equivalents.
 
 ## Where to buy
 
@@ -119,7 +119,7 @@ For online purchases, demand close-up photos of these specific features. Walk aw
 
 **Imprints.** Faded imprints are normal and fine. Heavily worn imprints suggest decades of pocket carry, which often correlates with brassing on metal trim and section wear.
 
-For ongoing care once you own the pen, the [fountain pen care and maintenance](/articles/fountain-pen-care-maintenance) guide applies to vintage pens too — with the addition that you should never use ultrasonic cleaners on vintage hard rubber or celluloid.
+For ongoing care once you own the pen, the [fountain pen care and maintenance](/magazine/fountain-pen-care-maintenance) guide applies to vintage pens too — with the addition that you should never use ultrasonic cleaners on vintage hard rubber or celluloid.
 
 ## The "restored vs unrestored" debate
 
@@ -145,7 +145,7 @@ What you actually get at each price point, in 2026 dollars:
 
 **$1,500+.** Collector territory. Solid gold overlays, Montblanc 139s, rare Japanese maki-e, anything with provenance.
 
-You do not need to spend more than $200 to have an incredible vintage writing experience. If you have a budget around $200 and are deciding between vintage and modern, the [best fountain pens under $200](/articles/best-fountain-pens-under-200) covers the modern side of that decision.
+You do not need to spend more than $200 to have an incredible vintage writing experience. If you have a budget around $200 and are deciding between vintage and modern, the [best fountain pens under $200](/magazine/best-fountain-pens-under-200) covers the modern side of that decision.
 
 ## Common scams and red flags
 
@@ -177,11 +177,11 @@ The promise is real, and so are the costs. Before you buy anything, read this se
 
 **Parts are getting harder to find.** Original Parker 51 hoods, Pelikan 100 piston knobs, and Snorkel point holders are all becoming scarce. New old stock dries up every year.
 
-**Ink range is limited for some pens.** Modern shimmer inks (Diamine Shimmertastic, J. Herbin 1670) can clog vintage feeds with narrow channels. Iron gall inks can damage vintage hard rubber sacs and old steel nibs. For vintage daily writers, stick to well-behaved standard inks — the [best fountain pen inks](/articles/best-fountain-pen-inks) guide covers safe choices.
+**Ink range is limited for some pens.** Modern shimmer inks (Diamine Shimmertastic, J. Herbin 1670) can clog vintage feeds with narrow channels. Iron gall inks can damage vintage hard rubber sacs and old steel nibs. For vintage daily writers, stick to well-behaved standard inks — the [best fountain pen inks](/magazine/best-fountain-pen-inks) guide covers safe choices.
 
 **Daily-use risk.** Drop a $40 modern pen on concrete and you replace it. Drop a 1948 Pelikan 100N on concrete and you may not be able to repair it. Vintage pens reward careful owners.
 
-**Nib selection is what the previous owner left you.** Modern pens let you order an EF, F, M, B, or stub. Vintage pens come in whatever nib happens to be installed. If you want a specific size, you will spend longer searching. Our [how to choose nib size](/articles/how-to-choose-nib-size) guide is just as relevant for vintage — but you have less power to choose.
+**Nib selection is what the previous owner left you.** Modern pens let you order an EF, F, M, B, or stub. Vintage pens come in whatever nib happens to be installed. If you want a specific size, you will spend longer searching. Our [how to choose nib size](/magazine/how-to-choose-nib-size) guide is just as relevant for vintage — but you have less power to choose.
 
 **Resale liquidity is real but slow.** A mid-tier vintage pen can take weeks or months to sell at a fair price. Modern flagship pens (Pilot, Sailor, Pelikan M800) have far more liquid resale markets.
 

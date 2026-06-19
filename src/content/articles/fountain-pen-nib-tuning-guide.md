@@ -152,22 +152,22 @@ Almost certainly yes, for any work that visibly modifies the nib. Some manufactu
 Most fixes — smoothing, alignment, shim work — take ten to thirty minutes including diagnosis. Custom grinding by a professional takes them about an hour but turnaround time including shipping is usually a few weeks.
 
 **Can I tune a gold nib the same way as steel?**
-Yes, but more carefully. Gold is softer than steel and removes material faster under polishing. Use lighter pressure and fewer strokes. For more on the tradeoff, see [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+Yes, but more carefully. Gold is softer than steel and removes material faster under polishing. Use lighter pressure and fewer strokes. For more on the tradeoff, see [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
 **My nib was perfect and now writes worse — what happened?**
 You almost certainly removed too much material from one spot. The fix is usually to keep polishing in opposite directions until the nib is even again, but if the nib has lost its line character entirely, send it to a nibmeister.
 
 **Do I need to clean my nib after tuning?**
-Yes. Polishing produces tiny metal particles you do not want in your feed. Flush the section with water until it runs clear, dry it, then re-ink. See [how to clean fountain pen](/articles/how-to-clean-fountain-pen-2026) for full cleaning steps.
+Yes. Polishing produces tiny metal particles you do not want in your feed. Flush the section with water until it runs clear, dry it, then re-ink. See [how to clean fountain pen](/magazine/how-to-clean-fountain-pen-2026) for full cleaning steps.
 
 **What ink should I use during tuning?**
 A medium-flow, well-behaved ink. Waterman Serenity Blue is the classic choice. Avoid very dry inks (some Pelikan blacks), very saturated inks, and any pigmented or shimmer ink during tuning — they obscure the nib's true behavior.
 
 **Can I tune nibs I bought on eBay?**
-Vintage or used nibs are often great candidates for tuning, but check the basics first. Look for cracks, sprung tines, missing tipping. If those are present, it is a repair, not a tuning. For more on vintage pens specifically, see [vintage fountain pens guide](/articles/vintage-fountain-pens-guide).
+Vintage or used nibs are often great candidates for tuning, but check the basics first. Look for cracks, sprung tines, missing tipping. If those are present, it is a repair, not a tuning. For more on vintage pens specifically, see [vintage fountain pens guide](/magazine/vintage-fountain-pens-guide).
 
 **How do I know what nib size I should aim for after tuning?**
-Tuning generally should not change nib size — it should make the existing size write better. If you want a different size, that is a grind, which is a different operation. My [how to choose nib size](/articles/how-to-choose-nib-size) guide can help you figure out what size you actually want before you commit to a grind.
+Tuning generally should not change nib size — it should make the existing size write better. If you want a different size, that is a grind, which is a different operation. My [how to choose nib size](/magazine/how-to-choose-nib-size) guide can help you figure out what size you actually want before you commit to a grind.
 
 ## Honest downsides
 
@@ -177,7 +177,7 @@ Tuning is also not a substitute for buying a good pen. A poorly made nib with ba
 
 Finally — tuning is a skill that takes practice. Your first pen will not come out as well as your tenth. If you have a 400-dollar pen with a flow problem, do not learn on it. Buy a 25-dollar Jinhao or a 30-dollar TWSBI Eco, deliberately make it bad, then fix it. Then practice some more. Then touch the expensive pen.
 
-For ongoing care that prevents most tuning problems in the first place, see [fountain pen care and maintenance](/articles/fountain-pen-care-maintenance). For ink choices that are easy on nibs, see [best fountain pen inks](/articles/best-fountain-pen-inks).
+For ongoing care that prevents most tuning problems in the first place, see [fountain pen care and maintenance](/magazine/fountain-pen-care-maintenance). For ink choices that are easy on nibs, see [best fountain pen inks](/magazine/best-fountain-pen-inks).
 
 ## Where to go from here
 

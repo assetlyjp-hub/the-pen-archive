@@ -40,9 +40,9 @@ Modern shimmer particles are **dramatically smaller** — typically 5–10 micro
 
 If you've been burned by shimmer inks before, here's the 2026 approach:
 
-1. **Start with a piston filler or converter** — these are easier to flush than cartridge-only pens (see our [filling systems guide](/articles/fountain-pen-filling-systems-guide))
+1. **Start with a piston filler or converter** — these are easier to flush than cartridge-only pens (see our [filling systems guide](/magazine/fountain-pen-filling-systems-guide))
 2. **Avoid vintage pens** — even modern shimmer can be risky in narrow vintage feeds
-3. **Flush every 2–3 weeks** — even if you're still using the same ink (here's [how to clean your pen properly](/articles/how-to-clean-fountain-pen))
+3. **Flush every 2–3 weeks** — even if you're still using the same ink (here's [how to clean your pen properly](/magazine/how-to-clean-fountain-pen))
 4. **Shake before filling** — particles settle; a gentle agitation ensures even distribution
 
 ## Trend 2: Sustainability Goes Beyond Marketing

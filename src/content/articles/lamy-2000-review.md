@@ -71,7 +71,7 @@ People shop the Lamy 2000 against three pens, so let me address each.
 
 **Versus the Sailor 1911L.** The 1911L is a different proposition entirely. Cigar-shaped, classical, the famous Sailor "feedback" nib that some people love and some people find scratchy. If you want feedback in the nib and a pen that looks elegant in a meeting, the 1911L is the pick. If you want zero feedback and a pen that looks like architecture, the 2000 wins.
 
-For deeper takes on price tiers and brand comparisons, see [best fountain pens under 200](/articles/best-fountain-pens-under-200) and [Pilot vs Lamy](/articles/pilot-vs-lamy).
+For deeper takes on price tiers and brand comparisons, see [best fountain pens under 200](/magazine/best-fountain-pens-under-200) and [Pilot vs Lamy](/magazine/pilot-vs-lamy).
 
 ## The honest downsides
 
@@ -93,15 +93,15 @@ Five years of daily writing breaks down roughly like this. About half the use ha
 
 I have used the pen with Iroshizuku Take-Sumi, Pilot Blue-Black, Sailor Yama-Dori, and currently Diamine Oxblood. It handled all of them without complaint. I cleaned it once a year by flushing with water and a drop of pen flush. The piston seal has not needed service.
 
-For ink choices that pair well with daily writers like this, see [best everyday fountain pen inks](/articles/best-everyday-fountain-pen-inks).
+For ink choices that pair well with daily writers like this, see [best everyday fountain pen inks](/magazine/best-everyday-fountain-pen-inks).
 
 ## Who should buy a Lamy 2000
 
-If this is your first fountain pen, do not start here. Start with a Pilot Kaküno, a Lamy Safari, or a TWSBI Eco. The 2000 rewards a writer who already knows what they want from a nib and how to hold a pen consistently. If you want a starter recommendation see [best fountain pens for beginners](/articles/best-fountain-pens-beginners).
+If this is your first fountain pen, do not start here. Start with a Pilot Kaküno, a Lamy Safari, or a TWSBI Eco. The 2000 rewards a writer who already knows what they want from a nib and how to hold a pen consistently. If you want a starter recommendation see [best fountain pens for beginners](/magazine/best-fountain-pens-beginners).
 
-If you have been writing with steel-nib pens for a year or two and want to move up to gold without the decoration of a traditional luxury pen, the 2000 is a near-perfect step. For the steel-versus-gold question see [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+If you have been writing with steel-nib pens for a year or two and want to move up to gold without the decoration of a traditional luxury pen, the 2000 is a near-perfect step. For the steel-versus-gold question see [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
-If you want a piston filler with capacity that lets you forget about ink, the 2000 is one of the best in the price bracket. For the broader filling-systems question see [fountain pen filling systems guide](/articles/fountain-pen-filling-systems-guide).
+If you want a piston filler with capacity that lets you forget about ink, the 2000 is one of the best in the price bracket. For the broader filling-systems question see [fountain pen filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 If you want something that looks like a pen, do not buy the 2000. Buy a Pelikan or a Sailor. The 2000 looks like a tool and it does not care if you find it beautiful.
 

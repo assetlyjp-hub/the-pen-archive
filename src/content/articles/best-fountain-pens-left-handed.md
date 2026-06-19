@@ -51,13 +51,13 @@ If you are not sure which you are, write a sentence and freeze your hand at the 
 
 Not all nibs are created equal, and three properties matter most:
 
-**Flow.** A well-tuned wet nib lays ink down smoothly even when you push rather than pull. A dry, stingy nib will skip and feel scratchy. For lefties, lean toward medium to wet flow. If you are coming from the beginner world, our [nib size guide](/articles/how-to-choose-nib-size) explains how flow relates to line width.
+**Flow.** A well-tuned wet nib lays ink down smoothly even when you push rather than pull. A dry, stingy nib will skip and feel scratchy. For lefties, lean toward medium to wet flow. If you are coming from the beginner world, our [nib size guide](/magazine/how-to-choose-nib-size) explains how flow relates to line width.
 
 **Tipping shape.** Japanese nibs (Pilot, Sailor, Platinum) tend to have smaller, rounder tipping, which handles push-writing gracefully. German nibs (Lamy, Pelikan, Kaweco) often have larger tipping with flatter sweet spots, which can catch if your angle is off. Neither is better — but Japanese nibs forgive more lefty quirks.
 
 **Feedback vs. smooth.** Some lefties prefer a bit of feedback (the pencil-on-paper feel) because it tells them when the nib is engaging the page. Others find feedback maddening and want glass-smooth. Try both before committing.
 
-The [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib) debate is mostly irrelevant to your hand. A good steel nib writes better for a lefty than a poorly tuned gold nib.
+The [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib) debate is mostly irrelevant to your hand. A good steel nib writes better for a lefty than a poorly tuned gold nib.
 
 ## The Fastest-Drying Inks for Left-Handers
 
@@ -75,7 +75,7 @@ Ink chemistry is the single biggest lever a lefty can pull. A slow-drying ink li
 
 **Noodler's Bernanke Blue/Black.** Specifically formulated by Noodler's for fast-drying performance. Dries in 2-3 seconds on quality paper. Some lefties swear by these.
 
-For deeper ink guidance across use cases, see our [fountain pen inks guide](/articles/best-fountain-pen-inks).
+For deeper ink guidance across use cases, see our [fountain pen inks guide](/magazine/best-fountain-pen-inks).
 
 ### Inks to Avoid (As a Lefty)
 
@@ -97,9 +97,9 @@ Now the fun part: specific pen recommendations. These are organized by writing s
 
 You have it easy — most pens work. But these shine:
 
-**TWSBI ECO (~$35).** Piston filler, large ink capacity, reliable JoWo steel nib. Our full take is in the [Lamy Safari vs TWSBI ECO comparison](/articles/lamy-safari-vs-twsbi-eco). For underwriters, this is just a great pen, full stop.
+**TWSBI ECO (~$35).** Piston filler, large ink capacity, reliable JoWo steel nib. Our full take is in the [Lamy Safari vs TWSBI ECO comparison](/magazine/lamy-safari-vs-twsbi-eco). For underwriters, this is just a great pen, full stop.
 
-**Pilot Metropolitan (~$25).** The universal recommendation for beginners of any handedness. Our [beginner's guide](/articles/best-fountain-pens-beginners) covers why it punches above its price.
+**Pilot Metropolitan (~$25).** The universal recommendation for beginners of any handedness. Our [beginner's guide](/magazine/best-fountain-pens-beginners) covers why it punches above its price.
 
 **Pelikan M200 (~$160).** A traditional piston filler with a steel nib that writes like gold. No lefty-specific compromises needed.
 
@@ -132,7 +132,7 @@ A beautifully fast-drying ink on cheap copy paper will feather and take twice as
 
 Look for paper explicitly marketed as fountain-pen-friendly: Rhodia, Clairefontaine, Tomoe River, Midori MD, and Kokuyo Campus are the usual suspects. But for lefties specifically, you want paper that is smooth but not too coated — highly coated papers like Tomoe River actually dry slower because the ink cannot absorb. A mid-absorbent option like Rhodia 80gsm is often the sweet spot.
 
-Our dedicated [best paper for fountain pens](/articles/best-paper-for-fountain-pens) guide breaks down drying times by paper type.
+Our dedicated [best paper for fountain pens](/magazine/best-paper-for-fountain-pens) guide breaks down drying times by paper type.
 
 ## Grip and Angle Adjustments
 
@@ -151,7 +151,7 @@ This is not an unqualified endorsement. Being a lefty with fountain pens comes w
 - **Ink selection is limited.** Roughly half of the beautiful inks on the market are too slow-drying to use daily. You will miss out on some gorgeous colors.
 - **Spiral notebooks are awkward.** The spiral is on your writing side. Switch to stitched or disc-bound notebooks (Leuchtturm, Midori) or flip spiral notebooks upside down.
 - **Fountain-pen-unfriendly paper is punishing.** On cheap office paper, smudging gets much worse. Keep a small Rhodia pad at your desk.
-- **Maintenance matters more.** Sidewriters in particular can slightly misalign nib tines over time. Regular cleaning — see our [fountain pen care guide](/articles/fountain-pen-care-maintenance) — keeps small issues from becoming expensive problems.
+- **Maintenance matters more.** Sidewriters in particular can slightly misalign nib tines over time. Regular cleaning — see our [fountain pen care guide](/magazine/fountain-pen-care-maintenance) — keeps small issues from becoming expensive problems.
 
 None of this is a dealbreaker. But if someone promises you that fountain pens are "just as easy" for lefties, they are oversimplifying.
 

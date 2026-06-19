@@ -37,7 +37,7 @@ The nibs come in EF, F, M, B, and SF (a soft-fine semi-flex). The soft-fine is t
 
 What makes the Vanishing Point's nib special is that the entire nib-and-feed assembly is one removable unit. You can swap nibs without disassembling the pen. If you want a fine for work and a stub for journaling, you buy two nib units and switch them in thirty seconds. Few other pens give you that flexibility at this price point.
 
-For a deeper comparison of gold versus steel writing experience, see [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+For a deeper comparison of gold versus steel writing experience, see [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
 ## Weight: Heavy. Really Heavy.
 
@@ -53,7 +53,7 @@ The Vanishing Point's biggest functional flaw is ink capacity. It uses a Pilot C
 
 What does that mean in practice? With a fine nib on standard paper, I can get about 8 to 10 pages of A5 writing before refilling. A heavy meeting day can drain it. I have learned to top it off every Sunday evening as part of my pen routine.
 
-There is no good fix. The Vanishing Point's barrel is taken up by the click mechanism and the nib unit, leaving very little room for the converter. If high ink capacity matters to you for travel or all-day note-taking, this pen will frustrate you. Look at piston-fillers or eyedropper conversions instead — there is more on this in [best travel fountain pens](/articles/best-travel-fountain-pens).
+There is no good fix. The Vanishing Point's barrel is taken up by the click mechanism and the nib unit, leaving very little room for the converter. If high ink capacity matters to you for travel or all-day note-taking, this pen will frustrate you. Look at piston-fillers or eyedropper conversions instead — there is more on this in [best travel fountain pens](/magazine/best-travel-fountain-pens).
 
 ## The Clip: The Biggest Gripe
 
@@ -71,7 +71,7 @@ The nib unit's modularity has spawned a small customisation scene. Several nibme
 
 I had my fine ground to a cursive italic by a UK nibmeister three years ago. It transformed the writing experience from "good daily driver" to "genuinely characterful." If you are a journal-writer or someone who cares about line variation in normal handwriting, a custom grind on the soft-fine is one of the best money-spent decisions in the hobby.
 
-The standard nib also responds well to user adjustment, but be cautious. Because the nib is mounted directly to a feed unit that locks into the click mechanism, a heavy hand can damage the unit. If you are new to nib tuning, practice on a steel nib first. See [best fountain pens beginners](/articles/best-fountain-pens-beginners) for safer learning options.
+The standard nib also responds well to user adjustment, but be cautious. Because the nib is mounted directly to a feed unit that locks into the click mechanism, a heavy hand can damage the unit. If you are new to nib tuning, practice on a steel nib first. See [best fountain pens beginners](/magazine/best-fountain-pens-beginners) for safer learning options.
 
 ## Who the Vanishing Point Is For
 
@@ -81,7 +81,7 @@ Five years of carrying this pen has taught me there are two distinct groups it s
 
 **The single-pen carrier.** If you want to own one fountain pen, carry it everywhere, and not think about it, the Vanishing Point is a strong choice. The brass body is durable, the lacquer survives pocket carry better than I expected, the nib is forgiving of paper variation, and the trapdoor means you can leave it inked for weeks.
 
-It is *not* for the collector who rotates pens, the lover of dedicated journal sessions with featherweight tools, or the writer who wants to feel the texture of nib on paper above all else. Those people will be happier with a Pelikan, a Sailor Pro Gear, or one of the modern Japanese piston-fillers. See [pilot vs lamy](/articles/pilot-vs-lamy) for a comparison of the two main mainstream brands.
+It is *not* for the collector who rotates pens, the lover of dedicated journal sessions with featherweight tools, or the writer who wants to feel the texture of nib on paper above all else. Those people will be happier with a Pelikan, a Sailor Pro Gear, or one of the modern Japanese piston-fillers. See [pilot vs lamy](/magazine/pilot-vs-lamy) for a comparison of the two main mainstream brands.
 
 ## Decimo vs Vanishing Point
 
@@ -91,7 +91,7 @@ The **Decimo** uses the same nib unit, same mechanism, and same ink system. It h
 
 If the Vanishing Point's weight and girth are the only reservations, the Decimo solves them. If you have larger hands or a preference for substantial pens, stick with the standard Vanishing Point.
 
-For more pen comparisons in the £150-£200 range, see [best fountain pens under 200](/articles/best-fountain-pens-under-200).
+For more pen comparisons in the £150-£200 range, see [best fountain pens under 200](/magazine/best-fountain-pens-under-200).
 
 ## FAQ
 
@@ -102,7 +102,7 @@ In my experience, no. I have left mine inked for two weeks and it has always sta
 Stick to well-behaved inks. Pilot's own Iroshizuku line is the safest choice. Avoid heavily saturated or pigmented inks that can clog the small nib feed. Some shimmering inks have caused mechanism issues for owners I know.
 
 **Is the gold nib worth it over steel alternatives?**
-The Vanishing Point only ships with gold. There are aftermarket steel options, but the gold nib is part of why the pen writes well. Skipping it is false economy. See [gold nib vs steel nib](/articles/gold-nib-vs-steel-nib).
+The Vanishing Point only ships with gold. There are aftermarket steel options, but the gold nib is part of why the pen writes well. Skipping it is false economy. See [gold nib vs steel nib](/magazine/gold-nib-vs-steel-nib).
 
 **How often do I need to clean it?**
 Once every six to eight weeks if you use a single ink colour. More often if you switch inks or use saturated colours. The nib unit pops out for cleaning easily.
@@ -111,13 +111,13 @@ Once every six to eight weeks if you use a single ink colour. More often if you 
 About 7mm of travel. It is firm enough not to deploy in pocket but light enough for one-handed use.
 
 **Does the Vanishing Point work for left-handed writers?**
-Yes, but with caveats. The nib has a small ink window that can drag if you are an underhand left-hander. Overhand and side-writing left-handers do fine. See [best fountain pens left-handed](/articles/best-fountain-pens-left-handed) for dedicated guidance.
+Yes, but with caveats. The nib has a small ink window that can drag if you are an underhand left-hander. Overhand and side-writing left-handers do fine. See [best fountain pens left-handed](/magazine/best-fountain-pens-left-handed) for dedicated guidance.
 
 **How does it compare to a Pilot Custom 742?**
 Different pens for different jobs. The Custom 742 is a traditional capped fountain pen with a much larger ink capacity, a larger nib, and roughly half the weight. If you sit and write for hours, the 742 is more pleasant. If you click in and out all day, the Vanishing Point is better.
 
 **What ink capacity should I plan for?**
-0.5ml from the CON-40. Plan to refill weekly with average use. Pair with an [ink](/articles/best-fountain-pen-inks) that flows generously to make the most of each fill.
+0.5ml from the CON-40. Plan to refill weekly with average use. Pair with an [ink](/magazine/best-fountain-pen-inks) that flows generously to make the most of each fill.
 
 ## Honest Downsides, Summarised
 

@@ -37,7 +37,7 @@ What does that mean per word? A cartridge will get most people about 4-6 pages o
 
 If you write 1,000 words per day, a 50ml bottle lasts 3-6 months. The same writing volume on cartridges would cost you somewhere between $25-$60 over that period, versus $20 once for the bottle.
 
-For light writers, this barely matters. For heavy writers (journalers, students, professionals taking constant notes), it adds up to real money. See my [recommended everyday inks](/articles/best-everyday-fountain-pen-inks) for value picks worth bottling.
+For light writers, this barely matters. For heavy writers (journalers, students, professionals taking constant notes), it adds up to real money. See my [recommended everyday inks](/magazine/best-everyday-fountain-pen-inks) for value picks worth bottling.
 
 ## Color Selection: The Lopsided Win for Bottles
 
@@ -47,9 +47,9 @@ Most pen brands offer cartridges in 5-10 colors. Lamy: about 8 colors. Pilot: ab
 
 Bottled ink, on the other hand, gives you access to the entire fountain pen ink universe. Diamine alone makes 130+ standard colors plus shimmer and sheen variants. Iroshizuku has 24 colors that are practically art objects. Sailor Studio has 100+ colors. Robert Oster has 200+. Boutique makers like Bungbox, Toucan, and Rohrer & Klingner add hundreds more.
 
-If you have any interest in writing with anything other than blue, black, or "blue-black," bottled ink is the only realistic path. See my [main ink guide](/articles/best-fountain-pen-inks) for color recommendations.
+If you have any interest in writing with anything other than blue, black, or "blue-black," bottled ink is the only realistic path. See my [main ink guide](/magazine/best-fountain-pen-inks) for color recommendations.
 
-This is also where the [annual ink trends](/articles/fountain-pen-ink-trends-2026) become interesting — most of the fashionable shimmer and shading inks released each year are bottled-only.
+This is also where the [annual ink trends](/magazine/fountain-pen-ink-trends-2026) become interesting — most of the fashionable shimmer and shading inks released each year are bottled-only.
 
 ## Proprietary vs International Cartridges
 
@@ -67,11 +67,11 @@ When you're choosing a pen for the long term, check the cartridge ecosystem. Int
 
 A converter is a small refillable cartridge-shaped device that lets you fill a pen from a bottle. Most modern fountain pens above $30 come with one, or accept one as a cheap accessory.
 
-Converters typically hold less ink than a cartridge — sometimes much less. A Pilot CON-40 holds about 0.4ml. A Lamy converter holds about 1.0ml. The Pilot CON-70 holds about 1.1ml and is the unicorn of converters. Piston-filler pens like the [TWSBI Eco](/articles/best-fountain-pens-under-100) hold 1.7ml-2.0ml — significantly more than any converter.
+Converters typically hold less ink than a cartridge — sometimes much less. A Pilot CON-40 holds about 0.4ml. A Lamy converter holds about 1.0ml. The Pilot CON-70 holds about 1.1ml and is the unicorn of converters. Piston-filler pens like the [TWSBI Eco](/magazine/best-fountain-pens-under-100) hold 1.7ml-2.0ml — significantly more than any converter.
 
 So if you want to use bottled ink with a cartridge-only pen, you also accept the smaller capacity. For heavy writers, this is one reason piston-fillers (Eco, Pelikan M-series, Lamy 2000) become attractive — the reservoir is integrated into the pen body.
 
-For more on filling mechanisms, see my [fountain pen filling systems guide](/articles/fountain-pen-filling-systems-guide).
+For more on filling mechanisms, see my [fountain pen filling systems guide](/magazine/fountain-pen-filling-systems-guide).
 
 ## Travel: The Cartridge Advantage
 
@@ -87,13 +87,13 @@ Cartridges win at travel for three reasons.
 
 **No bottle to pack.** A bottle of ink in a checked bag is a leak-risk that I have personally cleaned out of two backpacks. A bottle in a carry-on is fine if it's well-sealed and ideally in a plastic bag — but it's still bulk you have to carry.
 
-For travel-heavy writers, cartridges are objectively the right call. If you must travel with bottled ink, see [my travel pens guide](/articles/best-travel-fountain-pens) for pens that handle pressure better, and travel either with the pen totally full or totally empty — half-full is the leak danger zone.
+For travel-heavy writers, cartridges are objectively the right call. If you must travel with bottled ink, see [my travel pens guide](/magazine/best-travel-fountain-pens) for pens that handle pressure better, and travel either with the pen totally full or totally empty — half-full is the leak danger zone.
 
 ## Nib Sealing and Drying
 
 This one's subtle but matters for some writers. Cartridges and converters both seal the ink reservoir from the air. Piston-fillers do the same. The actual sealing of the nib happens in the cap.
 
-That's where cap design matters more than ink delivery. A pen with a [Slip & Seal cap like the Platinum 3776](/articles/best-fountain-pens-for-note-taking) will keep ink wet for months between uses. A pen with a poorly fitting cap will dry out in a week regardless of whether you use cartridges or bottles.
+That's where cap design matters more than ink delivery. A pen with a [Slip & Seal cap like the Platinum 3776](/magazine/best-fountain-pens-for-note-taking) will keep ink wet for months between uses. A pen with a poorly fitting cap will dry out in a week regardless of whether you use cartridges or bottles.
 
 So this isn't really a cartridge vs bottle question. But people sometimes blame "their cartridge" for hard starts when the actual culprit is cap design.
 
@@ -129,7 +129,7 @@ Bottles are the better choice if:
 
 **You care about color or shading.** The cartridge palette is too narrow. You'll be frustrated within months.
 
-**You want to use your pen optimally.** Most pens are designed around their ink delivery being filled from a bottle. Some pens (notably piston-fillers) literally cannot use cartridges. See [filling systems guide](/articles/fountain-pen-filling-systems-guide) for what your pen takes.
+**You want to use your pen optimally.** Most pens are designed around their ink delivery being filled from a bottle. Some pens (notably piston-fillers) literally cannot use cartridges. See [filling systems guide](/magazine/fountain-pen-filling-systems-guide) for what your pen takes.
 
 **You want to be more environmentally responsible.** A 50ml bottle replaces 50-70 cartridges. The plastic and shipping reduction is meaningful over years.
 
@@ -137,9 +137,9 @@ Bottles are the better choice if:
 
 ## Cleaning and Maintenance Differences
 
-Cartridge users still have to clean their pens occasionally — usually every 2-3 months, or whenever switching colors. The process is the same: flush with water until the rinse runs clear, then refill. See my [cleaning guide](/articles/how-to-clean-fountain-pen-2026).
+Cartridge users still have to clean their pens occasionally — usually every 2-3 months, or whenever switching colors. The process is the same: flush with water until the rinse runs clear, then refill. See my [cleaning guide](/magazine/how-to-clean-fountain-pen-2026).
 
-Bottled ink users typically clean more often, especially if they switch colors frequently. Saturated, shimmering, or pigmented inks require more thorough cleaning than basic black or blue. Pigmented inks (like Sailor Sei-Boku or Platinum Pigment) demand cleaning every few weeks regardless. See [fountain pen care and maintenance](/articles/fountain-pen-care-maintenance) for the full routine.
+Bottled ink users typically clean more often, especially if they switch colors frequently. Saturated, shimmering, or pigmented inks require more thorough cleaning than basic black or blue. Pigmented inks (like Sailor Sei-Boku or Platinum Pigment) demand cleaning every few weeks regardless. See [fountain pen care and maintenance](/magazine/fountain-pen-care-maintenance) for the full routine.
 
 If you're someone who will simply not clean the pen, cartridges are forgiving. Bottled inks — especially the fun ones — are not.
 
@@ -187,4 +187,4 @@ If you do both: run two pens, one for each. That's what I do, and it's the most 
 
 Whichever you choose, the actual writing experience is what matters. The ink delivery system is just the means. Don't overthink it. Start with what feels right, and switch if it doesn't work for you.
 
-For specific ink recommendations, see my guides on [best fountain pen inks](/articles/best-fountain-pen-inks), [best everyday inks](/articles/best-everyday-fountain-pen-inks), and [the 2026 ink trends](/articles/fountain-pen-ink-trends-2026). For travel-specific picks, see my [travel pens guide](/articles/best-travel-fountain-pens).
+For specific ink recommendations, see my guides on [best fountain pen inks](/magazine/best-fountain-pen-inks), [best everyday inks](/magazine/best-everyday-fountain-pen-inks), and [the 2026 ink trends](/magazine/fountain-pen-ink-trends-2026). For travel-specific picks, see my [travel pens guide](/magazine/best-travel-fountain-pens).
